@@ -1,0 +1,1360 @@
+[
+    {
+        "page": 1,
+        "text": "",
+        "tables": [],
+        "chart_image_file": "output\\Microsoft_2024_Q3\\Microsoft_2024_Q3_slide1.png",
+        "extracted_data": {
+            "title": "Third Quarter Fiscal Year 2024 Results",
+            "chart_detected": false,
+            "chart_type": "",
+            "x_axis": [],
+            "y_axis": "",
+            "series": [],
+            "metrics": {
+                "yoy_change": null,
+                "fx_adjusted": null,
+                "ttm_value": null
+            },
+            "tables": []
+        }
+    },
+    {
+        "page": 2,
+        "text": "",
+        "tables": [],
+        "chart_image_file": "output\\Microsoft_2024_Q3\\Microsoft_2024_Q3_slide2.png",
+        "extracted_data": {
+            "title": null,
+            "chart_detected": false,
+            "chart_type": null,
+            "x_axis": [],
+            "y_axis": null,
+            "series": [],
+            "metrics": {
+                "yoy_change": null,
+                "fx_adjusted": null,
+                "ttm_value": null
+            },
+            "tables": []
+        }
+    },
+    {
+        "page": 3,
+        "text": "",
+        "tables": [],
+        "chart_image_file": "output\\Microsoft_2024_Q3\\Microsoft_2024_Q3_slide3.png",
+        "extracted_data": {
+            "title": "Agenda",
+            "chart_detected": false,
+            "chart_type": null,
+            "x_axis": [],
+            "y_axis": null,
+            "series": [],
+            "metrics": {
+                "yoy_change": null,
+                "fx_adjusted": null,
+                "ttm_value": null
+            },
+            "tables": []
+        }
+    },
+    {
+        "page": 4,
+        "text": "",
+        "tables": [],
+        "chart_image_file": "output\\Microsoft_2024_Q3\\Microsoft_2024_Q3_slide4.png",
+        "extracted_data": {
+            "title": "FY24 Q3 Financial Summary",
+            "chart_detected": false,
+            "chart_type": null,
+            "x_axis": [],
+            "y_axis": null,
+            "series": [],
+            "metrics": {
+                "yoy_change": null,
+                "fx_adjusted": null,
+                "ttm_value": null
+            },
+            "tables": [
+                {
+                    "headers": [
+                        "Metric",
+                        "FY24 Q3 Value",
+                        "Growth",
+                        "CC Growth"
+                    ],
+                    "rows": [
+                        {
+                            "Metric": "Productivity and Business Processes",
+                            "FY24 Q3 Value": "$19.6B",
+                            "Growth": "12%",
+                            "CC Growth": "11%"
+                        },
+                        {
+                            "Metric": "Intelligent Cloud",
+                            "FY24 Q3 Value": "$26.7B",
+                            "Growth": "21%",
+                            "CC Growth": "21%"
+                        },
+                        {
+                            "Metric": "More Personal Computing",
+                            "FY24 Q3 Value": "$15.6B",
+                            "Growth": "17%",
+                            "CC Growth": "17%"
+                        },
+                        {
+                            "Metric": "Revenue",
+                            "FY24 Q3 Value": "$61.9B",
+                            "Growth": "18%",
+                            "CC Growth": "18%"
+                        },
+                        {
+                            "Metric": "Gross margin",
+                            "FY24 Q3 Value": "$43.4B",
+                            "Growth": "1 pt",
+                            "CC Growth": null
+                        },
+                        {
+                            "Metric": "Gross margin percentage",
+                            "FY24 Q3 Value": "70%",
+                            "Growth": null,
+                            "CC Growth": null
+                        },
+                        {
+                            "Metric": "Operating income",
+                            "FY24 Q3 Value": "$27.6B",
+                            "Growth": "23%",
+                            "CC Growth": "23%"
+                        },
+                        {
+                            "Metric": "Operating income percentage",
+                            "FY24 Q3 Value": "45%",
+                            "Growth": "2 pts",
+                            "CC Growth": null
+                        },
+                        {
+                            "Metric": "Net income",
+                            "FY24 Q3 Value": "$21.9B",
+                            "Growth": "20%",
+                            "CC Growth": "20%"
+                        },
+                        {
+                            "Metric": "Diluted earnings per share",
+                            "FY24 Q3 Value": "$2.94",
+                            "Growth": "20%",
+                            "CC Growth": "20%"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "page": 5,
+        "text": "",
+        "tables": [],
+        "chart_image_file": "output\\Microsoft_2024_Q3\\Microsoft_2024_Q3_slide5.png",
+        "extracted_data": {
+            "title": "Quarterly Commercial Highlights",
+            "chart_detected": false,
+            "chart_type": null,
+            "x_axis": [],
+            "y_axis": null,
+            "series": [],
+            "metrics": {
+                "yoy_change": null,
+                "fx_adjusted": null,
+                "ttm_value": null,
+                "commercial_bookings_growth_yoy": "29%",
+                "commercial_bookings_growth_fx_adjusted": "31% CC",
+                "commercial_remaining_performance_obligation_value": "$235 billion",
+                "commercial_remaining_performance_obligation_yoy_change": "20%",
+                "commercial_remaining_performance_obligation_fx_adjusted": "21% CC",
+                "commercial_revenue_annuity_mix_value": "97%",
+                "commercial_revenue_annuity_mix_yoy_change_points": "1 point",
+                "microsoft_cloud_revenue_value": "$35.1 billion",
+                "microsoft_cloud_revenue_yoy_change": "23%",
+                "microsoft_cloud_gross_margin_percentage_value": "72%"
+            },
+            "tables": [
+                {
+                    "name": "Investor Metrics",
+                    "headers": [
+                        "Metric",
+                        "FY23 Q3",
+                        "FY23 Q4",
+                        "FY24 Q1",
+                        "FY24 Q2",
+                        "FY24 Q3"
+                    ],
+                    "rows": [
+                        {
+                            "Metric": "Commercial bookings growth (y/y)",
+                            "FY23 Q3": "11% / 12%",
+                            "FY23 Q4": "(2)% / (1)%",
+                            "FY24 Q1": "14% / 17%",
+                            "FY24 Q2": "17% / 19%",
+                            "FY24 Q3": "29%"
+                        },
+                        {
+                            "Metric": "Commercial remaining performance obligation (in billions)",
+                            "FY23 Q3": "$196",
+                            "FY23 Q4": "$224",
+                            "FY24 Q1": "$212",
+                            "FY24 Q2": "$222",
+                            "FY24 Q3": "$235"
+                        },
+                        {
+                            "Metric": "Commercial revenue annuity mix",
+                            "FY23 Q3": "96%",
+                            "FY23 Q4": "97%",
+                            "FY24 Q1": "96%",
+                            "FY24 Q2": "96%",
+                            "FY24 Q3": "97%"
+                        },
+                        {
+                            "Metric": "Microsoft Cloud revenue (in billions)",
+                            "FY23 Q3": "$28.5",
+                            "FY23 Q4": "$30.3",
+                            "FY24 Q1": "$31.8",
+                            "FY24 Q2": "$33.7",
+                            "FY24 Q3": "$35.1"
+                        },
+                        {
+                            "Metric": "Microsoft Cloud revenue growth (y/y)",
+                            "FY23 Q3": "22% / 25%",
+                            "FY23 Q4": "21% / 23%",
+                            "FY24 Q1": "24% / 22%",
+                            "FY24 Q2": "24% / 22%",
+                            "FY24 Q3": "24% / 24%"
+                        },
+                        {
+                            "Metric": "Microsoft Cloud gross margin percentage",
+                            "FY23 Q3": "72%",
+                            "FY23 Q4": "72%",
+                            "FY24 Q1": "73%",
+                            "FY24 Q2": "72%",
+                            "FY24 Q3": "72%"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "page": 6,
+        "text": "",
+        "tables": [],
+        "chart_image_file": "output\\Microsoft_2024_Q3\\Microsoft_2024_Q3_slide6.png",
+        "extracted_data": {
+            "title": "FY24 Q3 Other Financial Highlights",
+            "chart_detected": false,
+            "chart_type": null,
+            "x_axis": [],
+            "y_axis": null,
+            "series": [],
+            "metrics": {
+                "cash_returned_to_shareholders": {
+                    "total_returned": "$8.4 billion",
+                    "dividends": "$5.6 billion",
+                    "share_repurchases": "$2.8 billion"
+                },
+                "operating_expenses": {
+                    "value": "$15.8 billion",
+                    "yoy_change": "Up 10%",
+                    "yoy_driver_from_acquisitions": "9 points"
+                },
+                "other_income_and_expense": {
+                    "value": "$(854) million"
+                },
+                "effective_tax_rate": {
+                    "value": "18%"
+                },
+                "capital_expenditures": {
+                    "including_finance_leases": "$14.0 billion",
+                    "cash_paid_for_property_and_equipment": "$11.0 billion"
+                },
+                "cash_flow_from_operations": {
+                    "value": "$31.9 billion",
+                    "yoy_change": "Up 31%"
+                },
+                "free_cash_flow": {
+                    "value": "$21.0 billion",
+                    "yoy_change": "Up 18%"
+                },
+                "disclaimer": "Includes non-GAAP constant currency ('CC') growth and free cash flow. See Appendix for reconciliation of GAAP and non-GAAP measures. Growth rates in GAAP and CC are equivalent."
+            },
+            "tables": []
+        }
+    },
+    {
+        "page": 7,
+        "text": "",
+        "tables": [],
+        "chart_image_file": "output\\Microsoft_2024_Q3\\Microsoft_2024_Q3_slide7.png",
+        "extracted_data": {
+            "title": "FY24 Q3 Business Highlights",
+            "chart_detected": false,
+            "chart_type": null,
+            "x_axis": [],
+            "y_axis": null,
+            "series": [],
+            "metrics": {
+                "office_commercial_products_cloud_services_revenue": {
+                    "yoy_change": "13%",
+                    "fx_adjusted": "12% CC",
+                    "ttm_value": null
+                },
+                "commercial_revenue_growth_office_commercial": {
+                    "yoy_change": "15%",
+                    "fx_adjusted": null,
+                    "ttm_value": null
+                },
+                "office_consumer_products_cloud_services_revenue": {
+                    "yoy_change": "4%",
+                    "fx_adjusted": null,
+                    "ttm_value": null
+                },
+                "microsoft_365_consumer_subscribers": {
+                    "yoy_change": null,
+                    "fx_adjusted": null,
+                    "ttm_value": null,
+                    "value": "80.8 million"
+                },
+                "linkedin_revenue": {
+                    "yoy_change": "10%",
+                    "fx_adjusted": "9% CC",
+                    "ttm_value": null
+                },
+                "dynamics_products_cloud_services_revenue": {
+                    "yoy_change": "19%",
+                    "fx_adjusted": "17% CC",
+                    "ttm_value": null
+                },
+                "dynamics_growth_driver": {
+                    "yoy_change": "23%",
+                    "fx_adjusted": "22% CC",
+                    "ttm_value": null
+                },
+                "server_products_cloud_services_revenue": {
+                    "yoy_change": "24%",
+                    "fx_adjusted": null,
+                    "ttm_value": null
+                },
+                "azure_other_cloud_services_growth": {
+                    "yoy_change": "31%",
+                    "fx_adjusted": null,
+                    "ttm_value": null
+                },
+                "windows_revenue": {
+                    "yoy_change": "11%",
+                    "fx_adjusted": null,
+                    "ttm_value": null
+                },
+                "windows_oem_revenue_growth": {
+                    "yoy_change": "11%",
+                    "fx_adjusted": null,
+                    "ttm_value": null
+                },
+                "windows_commercial_products_cloud_services_revenue": {
+                    "yoy_change": "13%",
+                    "fx_adjusted": "12% CC",
+                    "ttm_value": null
+                },
+                "devices_revenue": {
+                    "yoy_change": "decreased 17%",
+                    "fx_adjusted": "16% CC",
+                    "ttm_value": null
+                },
+                "xbox_content_services_revenue": {
+                    "yoy_change": "62%",
+                    "fx_adjusted": "61% CC",
+                    "ttm_value": null
+                },
+                "xbox_content_services_net_impact_points": {
+                    "yoy_change": null,
+                    "fx_adjusted": null,
+                    "ttm_value": null,
+                    "value": "61 points"
+                },
+                "search_news_advertising_revenue_excluding_traffic_acquisition_costs": {
+                    "yoy_change": "12%",
+                    "fx_adjusted": null,
+                    "ttm_value": null
+                }
+            },
+            "tables": []
+        }
+    },
+    {
+        "page": 8,
+        "text": "",
+        "tables": [],
+        "chart_image_file": "output\\Microsoft_2024_Q3\\Microsoft_2024_Q3_slide8.png",
+        "extracted_data": {
+            "title": "Productivity and Business Processes Overview",
+            "chart_detected": true,
+            "chart_type": "stacked bar",
+            "x_axis": [
+                "FY23 Q3",
+                "FY23 Q4",
+                "FY24 Q1",
+                "FY24 Q2"
+            ],
+            "y_axis": "$ in billions",
+            "series": [
+                {
+                    "name": "Revenue",
+                    "values": {
+                        "FY23 Q3": 17.52,
+                        "FY23 Q4": 18.29,
+                        "FY24 Q1": 18.59,
+                        "FY24 Q2": 19.25
+                    }
+                },
+                {
+                    "name": "Operating Income",
+                    "values": {
+                        "FY23 Q3": 8.64,
+                        "FY23 Q4": 9.05,
+                        "FY24 Q1": 9.97,
+                        "FY24 Q2": 10.28
+                    }
+                }
+            ],
+            "metrics": {
+                "Total_Revenue_growth_yoy_change": "12%",
+                "Total_Revenue_growth_fx_adjusted": "11% CC",
+                "Gross_margin_dollars_growth_yoy_change": "11%",
+                "Operating_expenses_growth_yoy_change": "1%",
+                "Operating_expenses_growth_fx_adjusted": "16% CC",
+                "Operating_income_growth_yoy_change": "17%",
+                "Operating_income_growth_fx_adjusted": "16% CC",
+                "ttm_value": null
+            },
+            "tables": [
+                {
+                    "title": "Investor Metrics",
+                    "headers": [
+                        "Metric",
+                        "FY23 Q3",
+                        "FY23 Q4",
+                        "FY24 Q1",
+                        "FY24 Q2"
+                    ],
+                    "rows": [
+                        [
+                            "Office Commercial products and cloud services revenue growth (y/y)",
+                            "13% / 17%",
+                            "12% / 14%",
+                            "15% / 14%",
+                            "15% / 13%"
+                        ],
+                        [
+                            "Office Consumer products and cloud services revenue growth (y/y)",
+                            "1% / 4%",
+                            "3% / 6%",
+                            "3% / 4%",
+                            "5% / 4%"
+                        ],
+                        [
+                            "Office 365 Commercial seat growth (y/y)",
+                            "11%",
+                            "11%",
+                            "10%",
+                            "9%"
+                        ],
+                        [
+                            "Microsoft 365 Consumer subscribers (in millions)",
+                            "70.8",
+                            "74.9",
+                            "76.7",
+                            "78.4"
+                        ],
+                        [
+                            "Dynamics products and cloud services revenue growth (y/y)",
+                            "17% / 21%",
+                            "19% / 21%",
+                            "22% / 21%",
+                            "21% / 19%"
+                        ],
+                        [
+                            "LinkedIn revenue growth (y/y)",
+                            "8% / 11%",
+                            "6% / 8%",
+                            "8%",
+                            "9% / 8%"
+                        ]
+                    ],
+                    "notes": "Growth rates include non-GAAP CC growth (GAAP % / CC %)"
+                }
+            ]
+        }
+    },
+    {
+        "page": 9,
+        "text": "",
+        "tables": [],
+        "chart_image_file": "output\\Microsoft_2024_Q3\\Microsoft_2024_Q3_slide9.png",
+        "extracted_data": {
+            "title": "Productivity and Business Processes Highlights",
+            "chart_detected": false,
+            "chart_type": "",
+            "x_axis": [],
+            "y_axis": "",
+            "series": [],
+            "metrics": {
+                "yoy_change": "Office Commercial products and cloud services revenue grew 13%, Office 365 Commercial revenue grew 15%, Office 365 Commercial seat growth of 8%, Office Commercial products revenue declined 20%, LinkedIn revenue grew 10%, LinkedIn sessions grew 11%, Dynamics products and cloud services revenue grew 19%, Dynamics 365 revenue grew 23%, Office Consumer products and cloud services revenue grew 4%, Microsoft 365 Consumer subscribers grew 14%",
+                "fx_adjusted": "Office Commercial products and cloud services revenue grew 12% CC, Office Commercial products revenue declined 18% CC, LinkedIn revenue grew 9% CC, Dynamics 365 revenue grew 22% CC",
+                "ttm_value": ""
+            },
+            "tables": []
+        }
+    },
+    {
+        "page": 10,
+        "text": "",
+        "tables": [],
+        "chart_image_file": "output\\Microsoft_2024_Q3\\Microsoft_2024_Q3_slide10.png",
+        "extracted_data": {
+            "title": "Intelligent Cloud Overview",
+            "chart_detected": true,
+            "chart_type": "stacked bar",
+            "x_axis": [
+                "FY23 Q3",
+                "FY23 Q4",
+                "FY24 Q1",
+                "FY24 Q2"
+            ],
+            "y_axis": "$ in billions",
+            "series": [
+                {
+                    "name": "Revenue",
+                    "values": {
+                        "FY23 Q3": 12.6,
+                        "FY23 Q4": 13.46,
+                        "FY24 Q1": 12.51,
+                        "FY24 Q2": 13.42
+                    }
+                },
+                {
+                    "name": "Operating Income",
+                    "values": {
+                        "FY23 Q3": 9.48,
+                        "FY23 Q4": 10.53,
+                        "FY24 Q1": 11.75,
+                        "FY24 Q2": 12.46
+                    }
+                }
+            ],
+            "metrics": {
+                "yoy_change": "Revenue grew 21% (driven by Azure), Gross margin dollars grew 20%, Operating expenses grew 1% (driven by investments in Azure), Operating income grew 32%",
+                "fx_adjusted": null,
+                "ttm_value": null
+            },
+            "tables": [
+                {
+                    "name": "Server products and cloud services revenue growth (y/y)",
+                    "headers": [
+                        "FY23 Q3",
+                        "FY23 Q4",
+                        "FY24 Q1",
+                        "FY24 Q2"
+                    ],
+                    "rows": [
+                        {
+                            "metric": "GAAP %",
+                            "values": [
+                                "17%",
+                                "17%",
+                                "21%",
+                                "22%"
+                            ]
+                        },
+                        {
+                            "metric": "CC %",
+                            "values": [
+                                "21%",
+                                "18%",
+                                null,
+                                "20%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "page": 11,
+        "text": "",
+        "tables": [],
+        "chart_image_file": "output\\Microsoft_2024_Q3\\Microsoft_2024_Q3_slide11.png",
+        "extracted_data": {
+            "title": "Intelligent Cloud Highlights",
+            "chart_detected": true,
+            "chart_type": "data table",
+            "x_axis": [
+                "FY23 Q3",
+                "FY23 Q4",
+                "FY24 Q1"
+            ],
+            "y_axis": "Growth % (GAAP % / CC %)",
+            "series": [
+                {
+                    "name": "Azure and other cloud services (y/y)",
+                    "values": {
+                        "FY23 Q3": "27% / 31%",
+                        "FY23 Q4": "26% / 27%",
+                        "FY24 Q1": "29% / 28%"
+                    }
+                },
+                {
+                    "name": "Server products (y/y)",
+                    "values": {
+                        "FY23 Q3": "(2)% / 0%",
+                        "FY23 Q4": "(1)% / 0%",
+                        "FY24 Q1": "2%"
+                    }
+                }
+            ],
+            "metrics": {
+                "yoy_change": {
+                    "server_products_and_cloud_services_revenue_growth": "24%",
+                    "azure_and_other_cloud_services_revenue_growth": "31%",
+                    "server_products_revenue_growth_bullet": "6%",
+                    "enterprise_mobility_installed_base_growth": "10%",
+                    "enterprise_and_partner_services_revenue_decline": "-9%"
+                },
+                "fx_adjusted": null,
+                "ttm_value": null,
+                "ai_services_contribution_to_azure_growth_points": "7 points",
+                "enterprise_mobility_installed_base_seats": "274 million"
+            },
+            "tables": [
+                {
+                    "title": "Trended Revenue Growth",
+                    "headers": [
+                        "",
+                        "FY23 Q3",
+                        "FY23 Q4",
+                        "FY24 Q1"
+                    ],
+                    "rows": [
+                        [
+                            "Azure and other cloud services (y/y)",
+                            "27% / 31%",
+                            "26% / 27%",
+                            "29% / 28%"
+                        ],
+                        [
+                            "Server products (y/y)",
+                            "(2)% / 0%",
+                            "(1)% / 0%",
+                            "2%"
+                        ]
+                    ],
+                    "footer": "Growth rates include non-GAAP CC growth (GAAP % / CC %)."
+                }
+            ]
+        }
+    },
+    {
+        "page": 12,
+        "text": "",
+        "tables": [],
+        "chart_image_file": "output\\Microsoft_2024_Q3\\Microsoft_2024_Q3_slide12.png",
+        "extracted_data": {
+            "title": "More Personal Computing Overview",
+            "chart_detected": true,
+            "chart_type": "stacked bar",
+            "x_axis": [
+                "FY23 Q3",
+                "FY23 Q4",
+                "FY24 Q1",
+                "FY24 Q2"
+            ],
+            "y_axis": "$ in billions",
+            "series": [
+                {
+                    "name": "Revenue",
+                    "values": {
+                        "FY23 Q3": 13.26,
+                        "FY23 Q4": 13.9,
+                        "FY24 Q1": 13.67,
+                        "FY24 Q2": 16.89
+                    }
+                },
+                {
+                    "name": "Operating Income",
+                    "values": {
+                        "FY23 Q3": 4.24,
+                        "FY23 Q4": 4.68,
+                        "FY24 Q1": 5.17,
+                        "FY24 Q2": 4.29
+                    }
+                }
+            ],
+            "metrics": {
+                "yoy_change": null,
+                "fx_adjusted": null,
+                "ttm_value": null,
+                "other_metrics": {
+                    "Total Revenue": {
+                        "growth_yoy_percentage": "17%",
+                        "growth_activision_acquisition_impact_points": "15"
+                    },
+                    "Gross margin dollars": {
+                        "growth_yoy_percentage": "27%",
+                        "growth_yoy_percentage_cc": "26%",
+                        "activision_acquisition_impact_points": "13"
+                    },
+                    "Operating expenses": {
+                        "growth_yoy_percentage": "41%",
+                        "activision_acquisition_impact_points": "43"
+                    },
+                    "Operating income": {
+                        "growth_yoy_percentage": "16%",
+                        "growth_yoy_percentage_cc": "15%"
+                    }
+                }
+            },
+            "tables": [
+                {
+                    "name": "Investor Metrics",
+                    "headers": [
+                        "Metric",
+                        "FY23 Q3",
+                        "FY23 Q4",
+                        "FY24 Q1",
+                        "FY24 Q2"
+                    ],
+                    "rows": [
+                        {
+                            "Metric": "Windows OEM revenue growth (y/y)",
+                            "FY23 Q3": "(28)%",
+                            "FY23 Q4": "(12)%",
+                            "FY24 Q1": "4%",
+                            "FY24 Q2": "11%"
+                        },
+                        {
+                            "Metric": "Windows Commercial products and cloud services revenue growth (y/y)",
+                            "FY23 Q3": "14% / 18%",
+                            "FY23 Q4": "2% / 3%",
+                            "FY24 Q1": "8%",
+                            "FY24 Q2": "9% / 7%"
+                        },
+                        {
+                            "Metric": "Devices revenue growth (y/y)",
+                            "FY23 Q3": "(30)% / (26)%",
+                            "FY23 Q4": "(20)% / (18)%",
+                            "FY24 Q1": "(22)%",
+                            "FY24 Q2": "(9)% / (10)%"
+                        },
+                        {
+                            "Metric": "Xbox content and services revenue (ex TAC) growth (y/y)",
+                            "FY23 Q3": "3% / 5%",
+                            "FY23 Q4": "5% / 6%",
+                            "FY24 Q1": "13% / 12%",
+                            "FY24 Q2": "61% / 60%"
+                        },
+                        {
+                            "Metric": "Search and news advertising revenue (ex TAC) growth (y/y)",
+                            "FY23 Q3": "11% / 13%",
+                            "FY23 Q4": "8% / 9%",
+                            "FY24 Q1": "10% / 9%",
+                            "FY24 Q2": "8% / 7%"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "page": 13,
+        "text": "",
+        "tables": [],
+        "chart_image_file": "output\\Microsoft_2024_Q3\\Microsoft_2024_Q3_slide13.png",
+        "extracted_data": {
+            "title": "Net impact from the Activision acquisition",
+            "chart_detected": false,
+            "chart_type": "",
+            "x_axis": [],
+            "y_axis": "",
+            "series": [],
+            "metrics": {
+                "revenue": 1.97,
+                "operating_income_loss": -0.35,
+                "yoy_change": null,
+                "fx_adjusted": null,
+                "ttm_value": null
+            },
+            "tables": [
+                {
+                    "title": "FY24 Q3 Net Impact from Activision (in billions)",
+                    "headers": [
+                        "Category",
+                        "Value"
+                    ],
+                    "rows": [
+                        [
+                            "Revenue",
+                            1.97
+                        ],
+                        [
+                            "Purchase accounting adjustments, integration and transaction-related costs",
+                            0.67
+                        ],
+                        [
+                            "Other cost of revenue",
+                            0.31
+                        ],
+                        [
+                            "Cost of revenue",
+                            0.98
+                        ],
+                        [
+                            "Gross margin",
+                            0.99
+                        ],
+                        [
+                            "Purchase accounting adjustments, integration and transaction-related costs",
+                            0.27
+                        ],
+                        [
+                            "Other operating expenses",
+                            1.07
+                        ],
+                        [
+                            "Operating expenses",
+                            1.34
+                        ],
+                        [
+                            "Operating income (loss)",
+                            -0.35
+                        ]
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "page": 14,
+        "text": "",
+        "tables": [],
+        "chart_image_file": "output\\Microsoft_2024_Q3\\Microsoft_2024_Q3_slide14.png",
+        "extracted_data": {
+            "title": "More Personal Computing Highlights",
+            "chart_detected": false,
+            "chart_type": "",
+            "x_axis": [],
+            "y_axis": "",
+            "series": [],
+            "metrics": {
+                "yoy_change": null,
+                "fx_adjusted": null,
+                "ttm_value": null,
+                "Windows_OEM_revenue_growth": "11%",
+                "Windows_Commercial_products_and_cloud_services_revenue_growth": "13%",
+                "Windows_Commercial_products_and_cloud_services_revenue_growth_constant_currency": "12%",
+                "Gaming_revenue_growth": "51%",
+                "Gaming_revenue_growth_constant_currency": "50%",
+                "Gaming_revenue_acquisition_impact_value": "55",
+                "Xbox_content_and_services_revenue_growth": "62%",
+                "Xbox_content_and_services_revenue_growth_constant_currency": "61%",
+                "Xbox_hardware_revenue_decline": "31%",
+                "Xbox_hardware_revenue_decline_constant_currency": "30%",
+                "Search_and_news_advertising_revenue_growth_excluding_TAC": "12%",
+                "Devices_revenue_decline": "17%",
+                "Devices_revenue_decline_constant_currency": "16%"
+            },
+            "tables": []
+        }
+    },
+    {
+        "page": 15,
+        "text": "",
+        "tables": [],
+        "chart_image_file": "output\\Microsoft_2024_Q3\\Microsoft_2024_Q3_slide15.png",
+        "extracted_data": {
+            "title": "Appendix",
+            "chart_detected": false,
+            "chart_type": null,
+            "x_axis": [],
+            "y_axis": null,
+            "series": [],
+            "metrics": {
+                "yoy_change": null,
+                "fx_adjusted": null,
+                "ttm_value": null
+            },
+            "tables": []
+        }
+    },
+    {
+        "page": 16,
+        "text": "",
+        "tables": [],
+        "chart_image_file": "output\\Microsoft_2024_Q3\\Microsoft_2024_Q3_slide16.png",
+        "extracted_data": {
+            "title": "Reconciliation of GAAP and Non-GAAP Financial Measures",
+            "chart_detected": false,
+            "chart_type": "",
+            "x_axis": [],
+            "y_axis": "",
+            "series": [],
+            "metrics": {
+                "yoy_change": "",
+                "fx_adjusted": "",
+                "ttm_value": ""
+            },
+            "tables": []
+        }
+    },
+    {
+        "page": 17,
+        "text": "",
+        "tables": [],
+        "chart_image_file": "output\\Microsoft_2024_Q3\\Microsoft_2024_Q3_slide17.png",
+        "extracted_data": {
+            "title": "Constant Currency Reconciliation",
+            "chart_detected": false,
+            "chart_type": null,
+            "x_axis": [],
+            "y_axis": null,
+            "series": [],
+            "metrics": {
+                "yoy_change": null,
+                "fx_adjusted": null,
+                "ttm_value": null
+            },
+            "tables": [
+                {
+                    "name": "Three Months Ended March 31",
+                    "units": "($ in millions, except per share amounts)",
+                    "headers": [
+                        "Category",
+                        "Revenue",
+                        "Gross Margin",
+                        "Operating Expenses",
+                        "Operating Income",
+                        "Net Income"
+                    ],
+                    "rows": [
+                        {
+                            "Category": "2023 As Reported (GAAP)",
+                            "Revenue": 52857,
+                            "Gross Margin": 36729,
+                            "Operating Expenses": 14377,
+                            "Operating Income": 22352,
+                            "Net Income": 18208
+                        },
+                        {
+                            "Category": "2024 As Reported (GAAP)",
+                            "Revenue": 61858,
+                            "Gross Margin": 43353,
+                            "Operating Expenses": 15772,
+                            "Operating Income": 27581,
+                            "Net Income": 21973
+                        },
+                        {
+                            "Category": "Percentage Change Y/Y (GAAP)",
+                            "Revenue": "17%",
+                            "Gross Margin": "18%",
+                            "Operating Expenses": "10%",
+                            "Operating Income": "23%",
+                            "Net Income": "20%"
+                        },
+                        {
+                            "Category": "Constant Currency Impact",
+                            "Revenue": 189,
+                            "Gross Margin": 184,
+                            "Operating Expenses": 17,
+                            "Operating Income": 167,
+                            "Net Income": -70
+                        },
+                        {
+                            "Category": "Percentage Change Y/Y Constant Currency",
+                            "Revenue": "17%",
+                            "Gross Margin": "18%",
+                            "Operating Expenses": "10%",
+                            "Operating Income": "23%",
+                            "Net Income": "20%"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "page": 18,
+        "text": "",
+        "tables": [],
+        "chart_image_file": "output\\Microsoft_2024_Q3\\Microsoft_2024_Q3_slide18.png",
+        "extracted_data": {
+            "title": "Constant Currency Reconciliation",
+            "chart_detected": false,
+            "chart_type": "",
+            "x_axis": [],
+            "y_axis": "",
+            "series": [],
+            "metrics": {
+                "yoy_change": null,
+                "fx_adjusted": null,
+                "ttm_value": null
+            },
+            "tables": [
+                {
+                    "name": "Segment Revenue",
+                    "timeframe": "Three Months Ended March 31",
+                    "units": "$ in millions",
+                    "headers": [
+                        "Category",
+                        "Productivity and Business Processes",
+                        "Intelligent Cloud"
+                    ],
+                    "rows": [
+                        {
+                            "Category": "2023 As Reported (GAAP)",
+                            "Productivity and Business Processes": 17516,
+                            "Intelligent Cloud": 22081
+                        },
+                        {
+                            "Category": "2024 As Reported (GAAP)",
+                            "Productivity and Business Processes": 19570,
+                            "Intelligent Cloud": 26708
+                        },
+                        {
+                            "Category": "Percentage Change Y/Y (GAAP)",
+                            "Productivity and Business Processes": "12%",
+                            "Intelligent Cloud": "21%"
+                        },
+                        {
+                            "Category": "Constant Currency Impact",
+                            "Productivity and Business Processes": 85,
+                            "Intelligent Cloud": 65
+                        },
+                        {
+                            "Category": "Percentage Change Y/Y Constant Currency",
+                            "Productivity and Business Processes": "11%",
+                            "Intelligent Cloud": "21%"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "page": 19,
+        "text": "",
+        "tables": [],
+        "chart_image_file": "output\\Microsoft_2024_Q3\\Microsoft_2024_Q3_slide19.png",
+        "extracted_data": {
+            "title": "Constant Currency Reconciliation",
+            "chart_detected": false,
+            "chart_type": null,
+            "x_axis": [],
+            "y_axis": null,
+            "series": [],
+            "metrics": {
+                "yoy_change": null,
+                "fx_adjusted": null,
+                "ttm_value": null
+            },
+            "tables": [
+                {
+                    "name": "Segment Gross Margin",
+                    "period": "Three Months Ended March 31, 2024",
+                    "headers": [
+                        "Segment",
+                        "Percentage Change Y/Y (GAAP)",
+                        "Constant Currency Impact"
+                    ],
+                    "rows": [
+                        {
+                            "Segment": "Productivity and Business Processes",
+                            "Percentage Change Y/Y (GAAP)": "11%",
+                            "Constant Currency Impact": "0%"
+                        },
+                        {
+                            "Segment": "Intelligent Cloud",
+                            "Percentage Change Y/Y (GAAP)": "20%",
+                            "Constant Currency Impact": "0%"
+                        },
+                        {
+                            "Segment": "More Personal Computing",
+                            "Percentage Change Y/Y (GAAP)": "27%",
+                            "Constant Currency Impact": "(1)%"
+                        }
+                    ]
+                },
+                {
+                    "name": "Segment Operating Expense",
+                    "period": "Three Months Ended March 31, 2024",
+                    "headers": [
+                        "Segment",
+                        "Percentage Change Y/Y (GAAP)",
+                        "Constant Currency Impact"
+                    ],
+                    "rows": [
+                        {
+                            "Segment": "Productivity and Business Processes",
+                            "Percentage Change Y/Y (GAAP)": "1%",
+                            "Constant Currency Impact": "0%"
+                        },
+                        {
+                            "Segment": "Intelligent Cloud",
+                            "Percentage Change Y/Y (GAAP)": "1%",
+                            "Constant Currency Impact": "0%"
+                        },
+                        {
+                            "Segment": "More Personal Computing",
+                            "Percentage Change Y/Y (GAAP)": "4%",
+                            "Constant Currency Impact": "0%"
+                        }
+                    ]
+                },
+                {
+                    "name": "Segment Operating Income",
+                    "period": "Three Months Ended March 31, 2024",
+                    "headers": [
+                        "Segment",
+                        "Percentage Change Y/Y (GAAP)",
+                        "Constant Currency Impact"
+                    ],
+                    "rows": [
+                        {
+                            "Segment": "Productivity and Business Processes",
+                            "Percentage Change Y/Y (GAAP)": "17%",
+                            "Constant Currency Impact": "(1)%"
+                        },
+                        {
+                            "Segment": "Intelligent Cloud",
+                            "Percentage Change Y/Y (GAAP)": "32%",
+                            "Constant Currency Impact": "0%"
+                        },
+                        {
+                            "Segment": "More Personal Computing",
+                            "Percentage Change Y/Y (GAAP)": "16%",
+                            "Constant Currency Impact": "(1)%"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "page": 20,
+        "text": "",
+        "tables": [],
+        "chart_image_file": "output\\Microsoft_2024_Q3\\Microsoft_2024_Q3_slide20.png",
+        "extracted_data": {
+            "title": "Constant Currency Reconciliation",
+            "chart_detected": false,
+            "chart_type": null,
+            "x_axis": [],
+            "y_axis": null,
+            "series": [],
+            "metrics": {
+                "yoy_change": null,
+                "fx_adjusted": null,
+                "ttm_value": null
+            },
+            "tables": [
+                {
+                    "name": "Three Months Ended March 31, 2024",
+                    "columns": [
+                        "Selected Product and Service Information",
+                        "Percentage Change Y/Y (GAAP)",
+                        "Constant Currency Impact"
+                    ],
+                    "rows": [
+                        {
+                            "Selected Product and Service Information": "Commercial bookings",
+                            "Percentage Change Y/Y (GAAP)": "29%",
+                            "Constant Currency Impact": "2%"
+                        },
+                        {
+                            "Selected Product and Service Information": "Commercial remaining performance obligation",
+                            "Percentage Change Y/Y (GAAP)": "20%",
+                            "Constant Currency Impact": "1%"
+                        },
+                        {
+                            "Selected Product and Service Information": "Microsoft Cloud revenue",
+                            "Percentage Change Y/Y (GAAP)": "23%",
+                            "Constant Currency Impact": "0%"
+                        },
+                        {
+                            "Selected Product and Service Information": "Office Commercial products and cloud services revenue",
+                            "Percentage Change Y/Y (GAAP)": "13%",
+                            "Constant Currency Impact": "(1)%"
+                        },
+                        {
+                            "Selected Product and Service Information": "Office 365 Commercial revenue",
+                            "Percentage Change Y/Y (GAAP)": "15%",
+                            "Constant Currency Impact": "0%"
+                        },
+                        {
+                            "Selected Product and Service Information": "Office Consumer products and cloud services revenue",
+                            "Percentage Change Y/Y (GAAP)": "(20)%",
+                            "Constant Currency Impact": "(2)%"
+                        },
+                        {
+                            "Selected Product and Service Information": "LinkedIn revenue",
+                            "Percentage Change Y/Y (GAAP)": "4%",
+                            "Constant Currency Impact": "(1)%"
+                        },
+                        {
+                            "Selected Product and Service Information": "Dynamics products and cloud services revenue",
+                            "Percentage Change Y/Y (GAAP)": "10%",
+                            "Constant Currency Impact": "0%"
+                        },
+                        {
+                            "Selected Product and Service Information": "Dynamics 365 revenue",
+                            "Percentage Change Y/Y (GAAP)": "19%",
+                            "Constant Currency Impact": "(1)%"
+                        },
+                        {
+                            "Selected Product and Service Information": "Server products and cloud services revenue",
+                            "Percentage Change Y/Y (GAAP)": "23%",
+                            "Constant Currency Impact": "0%"
+                        },
+                        {
+                            "Selected Product and Service Information": "Azure and other cloud services revenue",
+                            "Percentage Change Y/Y (GAAP)": "24%",
+                            "Constant Currency Impact": "0%"
+                        },
+                        {
+                            "Selected Product and Service Information": "Server products revenue",
+                            "Percentage Change Y/Y (GAAP)": "31%",
+                            "Constant Currency Impact": "0%"
+                        },
+                        {
+                            "Selected Product and Service Information": "Enterprise and partner services revenue",
+                            "Percentage Change Y/Y (GAAP)": "6%",
+                            "Constant Currency Impact": "0%"
+                        },
+                        {
+                            "Selected Product and Service Information": "Windows revenue",
+                            "Percentage Change Y/Y (GAAP)": "(9)%",
+                            "Constant Currency Impact": "(1)%"
+                        },
+                        {
+                            "Selected Product and Service Information": "Windows OEM revenue",
+                            "Percentage Change Y/Y (GAAP)": "11%",
+                            "Constant Currency Impact": "0%"
+                        },
+                        {
+                            "Selected Product and Service Information": "Windows Commercial products and cloud services revenue",
+                            "Percentage Change Y/Y (GAAP)": "11%",
+                            "Constant Currency Impact": "0%"
+                        },
+                        {
+                            "Selected Product and Service Information": "Devices revenue",
+                            "Percentage Change Y/Y (GAAP)": "13%",
+                            "Constant Currency Impact": "(1)%"
+                        },
+                        {
+                            "Selected Product and Service Information": "Gaming revenue",
+                            "Percentage Change Y/Y (GAAP)": "(17)%",
+                            "Constant Currency Impact": "1%"
+                        },
+                        {
+                            "Selected Product and Service Information": "Xbox content and services revenue",
+                            "Percentage Change Y/Y (GAAP)": "51%",
+                            "Constant Currency Impact": "(1)%"
+                        },
+                        {
+                            "Selected Product and Service Information": "Xbox hardware revenue",
+                            "Percentage Change Y/Y (GAAP)": "62%",
+                            "Constant Currency Impact": "(1)%"
+                        },
+                        {
+                            "Selected Product and Service Information": "Search and news advertising revenue excluding traffic acquisition costs",
+                            "Percentage Change Y/Y (GAAP)": "(31)%",
+                            "Constant Currency Impact": "1%"
+                        },
+                        {
+                            "Selected Product and Service Information": null,
+                            "Percentage Change Y/Y (GAAP)": "12%",
+                            "Constant Currency Impact": "0%"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "page": 21,
+        "text": "",
+        "tables": [],
+        "chart_image_file": "output\\Microsoft_2024_Q3\\Microsoft_2024_Q3_slide21.png",
+        "extracted_data": {
+            "title": "Cash Flow Reconciliation",
+            "chart_detected": false,
+            "chart_type": null,
+            "x_axis": null,
+            "y_axis": null,
+            "series": [],
+            "metrics": {
+                "yoy_change": null,
+                "fx_adjusted": null,
+                "ttm_value": null
+            },
+            "tables": [
+                {
+                    "name": "Cash Flow Reconciliation",
+                    "period_description": "Three Months Ended March 31",
+                    "unit": "US Dollars in millions",
+                    "headers": [
+                        "Category",
+                        "2024",
+                        "2023",
+                        "Percentage Change"
+                    ],
+                    "rows": [
+                        {
+                            "Category": "Net Cash from Operations (GAAP)",
+                            "2024": 31917,
+                            "2023": 24441,
+                            "Percentage Change": null
+                        },
+                        {
+                            "Category": "Additions to Property and Equipment",
+                            "2024": -10952,
+                            "2023": -6607,
+                            "Percentage Change": null
+                        },
+                        {
+                            "Category": "Free Cash Flow",
+                            "2024": 20965,
+                            "2023": 17834,
+                            "Percentage Change": null
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "page": 22,
+        "text": "",
+        "tables": [],
+        "chart_image_file": "output\\Microsoft_2024_Q3\\Microsoft_2024_Q3_slide22.png",
+        "extracted_data": {
+            "title": null,
+            "chart_detected": false,
+            "chart_type": null,
+            "x_axis": [],
+            "y_axis": null,
+            "series": [],
+            "metrics": {
+                "yoy_change": null,
+                "fx_adjusted": null,
+                "ttm_value": null
+            },
+            "tables": []
+        }
+    }
+]
