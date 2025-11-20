@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+*.log
+
+
+# Data
+data/audio
+
+# Virtual environments
+venv/
+.env
+.venv/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+
+# Data (keep raw multimodal data out of git)
+data/audio/
+
+# Docker
+*.pid
+*.seed
+*.bak
+*.tmp
+*.lock
+*.tar
+*.gz
+
+# Byte-compiled / cache
+*.sqlite3
+*.db
+*.sql
+*.psql
+
+# Node / frontend (if added later)
+node_modules/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Coverage / testing
+.coverage
+htmlcov/
+.pytest_cache/
