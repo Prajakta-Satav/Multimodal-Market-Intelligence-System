@@ -1,0 +1,834 @@
+[
+    {
+        "page": 1,
+        "text": "Q2 2024 Financial Results \nConference Call Slides",
+        "tables": [],
+        "chart_image_file": "output\\Amazon_2024_Q2\\Amazon_2024_Q2_slide1.png",
+        "extracted_data": {
+            "title": "Q2 2024 Financial Results Conference Call Slides",
+            "chart_detected": false,
+            "chart_type": null,
+            "x_axis": [],
+            "y_axis": null,
+            "series": [],
+            "metrics": {
+                "yoy_change": null,
+                "fx_adjusted": null,
+                "ttm_value": null
+            },
+            "tables": []
+        }
+    },
+    {
+        "page": 2,
+        "text": "2\nThis presentation may contain forward-looking statements which are inherently difficult to predict. \nActual results and outcomes could differ materially for a variety of reasons, including, among others, \nfluctuations in foreign exchange rates, changes in global economic conditions and customer demand \nand spending, inflation, interest rates, regional labor market constraints, world events, the rate of \ngrowth of the internet, online commerce, cloud services, and new and emerging technologies, the \namount that Amazon.com invests in new business opportunities and the timing of those investments, \nthe mix of products and services sold to customers, the mix of net sales derived from products as \ncompared with services, the extent to which we owe income or other taxes, competition, management \nof growth, potential fluctuations in operating results, international growth and expansion, the outcomes \nof claims, litigation, government investigations, and other proceedings, fulfillment, sortation, delivery, \nand data center optimization, risks of inventory management, variability in demand, the degree to \nwhich the Company enters into, maintains, and develops commercial agreements, proposed and \ncompleted acquisitions and strategic transactions, payments risks, and risks of fulfillment throughput \nand productivity. Other risks and uncertainties include, among others, risks related to new products, \nservices, and technologies, security breaches, system interruptions, government regulation and taxation, \nand fraud. In addition, global economic and geopolitical conditions and additional or unforeseen \ncircumstances, developments, or events may give rise to or amplify many of these risks. More \ninformation about factors that potentially could affect Amazon.com\u2019s financial results is included in \nAmazon.com\u2019s filings with the Securities and Exchange Commission (\"SEC\"), including its most recent \nAnnual Report on Form 10-K and subsequent filings. \nAdditional information relating to certain of our financial measures contained herein, including non-\nGAAP financial measures, is available in the appendix to our presentation, our most recent earnings \nrelease and at our website at www.amazon.com/ir.\n2",
+        "tables": [],
+        "chart_image_file": "output\\Amazon_2024_Q2\\Amazon_2024_Q2_slide2.png",
+        "extracted_data": {
+            "title": null,
+            "chart_detected": false,
+            "chart_type": null,
+            "x_axis": [],
+            "y_axis": null,
+            "series": [],
+            "metrics": {
+                "yoy_change": null,
+                "fx_adjusted": null,
+                "ttm_value": null
+            },
+            "tables": []
+        }
+    },
+    {
+        "page": 3,
+        "text": "3\nNet Sales\nMM\n3\n$134,383\n$147,977\nQ2 2023 Q3 2023\nQ4 2023 Q1 2024 Q2 2024\n$0\n$130,000\n$260,000\n Net Sales (MM)\n$90,033\n61%\n$31,663\n21%\n$26,281\n18%\nNorth America\nInternational\nAWS\n(1)\nInformation throughout this presentation regarding the effect of foreign exchange rates, versus the U.S.\u00a0Dollar, on our \nnet sales and operating income is provided to show reported period operating results had the foreign exchange rates \nremained the same as those in effect in the comparable prior year periods.\nUp 10% Y/Y;\nUp 11% F/X Adjusted (1)",
+        "tables": [],
+        "chart_image_file": "output\\Amazon_2024_Q2\\Amazon_2024_Q2_slide3.png",
+        "extracted_data": {
+            "title": "Net Sales",
+            "chart_detected": true,
+            "chart_type": "Bar",
+            "x_axis": [
+                "Q2 2023",
+                "Q3 2023",
+                "Q4 2023",
+                "Q1 2024",
+                "Q2 2024"
+            ],
+            "y_axis": "Net Sales (Millions of USD)",
+            "series": [
+                {
+                    "name": "Total Net Sales",
+                    "values": {
+                        "Q2 2023": 134383,
+                        "Q3 2023": null,
+                        "Q4 2023": null,
+                        "Q1 2024": null,
+                        "Q2 2024": 147977
+                    }
+                }
+            ],
+            "metrics": {
+                "yoy_change": "Up 10% Y/Y",
+                "fx_adjusted": "Up 11% F/X Adjusted (1)",
+                "net_sales_composition": {
+                    "chart_type": "Pie",
+                    "title": "Net Sales (MM)",
+                    "North America": {
+                        "value": 90033,
+                        "percentage": "61%"
+                    },
+                    "International": {
+                        "value": 31663,
+                        "percentage": "21%"
+                    },
+                    "AWS": {
+                        "value": 26281,
+                        "percentage": "18%"
+                    }
+                }
+            },
+            "tables": []
+        }
+    },
+    {
+        "page": 4,
+        "text": "4\nNet Sales \u2013 TTM (1)\nMM\n4\n$538,046\n$604,334\nQ2 2023 Q3 2023\nQ4 2023 Q1 2024 Q2 2024\n$0\n$450,000\n$900,000\n Net Sales - TTM (MM)\n$369,775\n61%\n$135,978\n23%\n$98,581\n16%\nNorth America\nInternational\nAWS\nUp 12% Y/Y\n(1)\nTrailing twelve-month period.",
+        "tables": [],
+        "chart_image_file": "output\\Amazon_2024_Q2\\Amazon_2024_Q2_slide4.png",
+        "extracted_data": {
+            "title": "Net Sales - TTM",
+            "chart_detected": true,
+            "chart_type": "Bar",
+            "x_axis": [
+                "Q2 2023",
+                "Q3 2023",
+                "Q4 2023",
+                "Q1 2024",
+                "Q2 2024"
+            ],
+            "y_axis": "Net Sales - TTM (MM)",
+            "series": [
+                {
+                    "name": "Net Sales - TTM",
+                    "values": {
+                        "Q2 2023": 538046,
+                        "Q3 2023": null,
+                        "Q4 2023": null,
+                        "Q1 2024": null,
+                        "Q2 2024": 604334
+                    }
+                }
+            ],
+            "metrics": {
+                "yoy_change": "Up 12% Y/Y",
+                "fx_adjusted": null,
+                "ttm_value": 604334,
+                "ttm_breakdown_north_america_value": 369775,
+                "ttm_breakdown_north_america_percentage": "61%",
+                "ttm_breakdown_international_value": 135978,
+                "ttm_breakdown_international_percentage": "23%",
+                "ttm_breakdown_aws_value": 98581,
+                "ttm_breakdown_aws_percentage": "16%"
+            },
+            "tables": []
+        }
+    },
+    {
+        "page": 5,
+        "text": "5\n \nOperating Income\n5\n$7,681\n$14,672\nQ2 2023\nQ3 2023\nQ4 2023\nQ1 2024\nQ2 2024\n$0\n$12,500\n$25,000\nUp 91% Y/Y\nMM",
+        "tables": [],
+        "chart_image_file": "output\\Amazon_2024_Q2\\Amazon_2024_Q2_slide5.png",
+        "extracted_data": {
+            "title": "Operating Income",
+            "chart_detected": true,
+            "chart_type": "bar",
+            "x_axis": [
+                "Q2 2023",
+                "Q3 2023",
+                "Q4 2023",
+                "Q1 2024",
+                "Q2 2024"
+            ],
+            "y_axis": "Operating Income ($MM)",
+            "series": [
+                {
+                    "name": "Operating Income",
+                    "values": {
+                        "Q2 2023": 7681,
+                        "Q3 2023": null,
+                        "Q4 2023": null,
+                        "Q1 2024": null,
+                        "Q2 2024": 14672
+                    }
+                }
+            ],
+            "metrics": {
+                "yoy_change": "Up 91% Y/Y",
+                "fx_adjusted": null,
+                "ttm_value": null
+            },
+            "tables": []
+        }
+    },
+    {
+        "page": 6,
+        "text": "6\n \n6\n$17,717\n$54,376\nQ2 2023\nQ3 2023\nQ4 2023\nQ1 2024\nQ2 2024\n$0\n$40,000\n$80,000\nUp 207% Y/Y; \nUp 205% F/X Adjusted\nOperating Income \u2013 TTM\nMM",
+        "tables": [],
+        "chart_image_file": "output\\Amazon_2024_Q2\\Amazon_2024_Q2_slide6.png",
+        "extracted_data": {
+            "title": "Operating Income - TTM",
+            "chart_detected": true,
+            "chart_type": "bar",
+            "x_axis": [
+                "Q2 2023",
+                "Q3 2023",
+                "Q4 2023",
+                "Q1 2024",
+                "Q2 2024"
+            ],
+            "y_axis": "Operating Income (MM $)",
+            "series": [
+                {
+                    "name": "Operating Income - TTM",
+                    "values": {
+                        "Q2 2023": 17717,
+                        "Q3 2023": null,
+                        "Q4 2023": null,
+                        "Q1 2024": null,
+                        "Q2 2024": 54376
+                    }
+                }
+            ],
+            "metrics": {
+                "yoy_change": "Up 207% Y/Y",
+                "fx_adjusted": "Up 205% F/X Adjusted",
+                "ttm_value": "54,376 MM $"
+            },
+            "tables": []
+        }
+    },
+    {
+        "page": 7,
+        "text": "7\n$6,750\n$13,485\nQ2 2023\nQ3 2023\nQ4 2023\nQ1 2024\nQ2 2024\n$0\n$10,000\n$20,000\nUp 100% Y/Y\n \n7\nMM\n(1)\nQ2 2024 net income includes a pre-tax valuation gain of $0.4 billion included in non-operating income (expense) from the \ncommon stock investment in Rivian Automotive, Inc., compared to a pre-tax valuation gain of $0.2 billion from the investment \nin Q2 2023.\nNet Income (1)",
+        "tables": [],
+        "chart_image_file": "output\\Amazon_2024_Q2\\Amazon_2024_Q2_slide7.png",
+        "extracted_data": {
+            "title": "Net Income",
+            "chart_detected": true,
+            "chart_type": "bar",
+            "x_axis": [
+                "Q2 2023",
+                "Q3 2023",
+                "Q4 2023",
+                "Q1 2024",
+                "Q2 2024"
+            ],
+            "y_axis": "Net Income ($MM)",
+            "series": [
+                {
+                    "name": "Net Income",
+                    "values": {
+                        "Q2 2023": 6750,
+                        "Q3 2023": null,
+                        "Q4 2023": null,
+                        "Q1 2024": null,
+                        "Q2 2024": 13485
+                    }
+                }
+            ],
+            "metrics": {
+                "yoy_change": "Up 100% Y/Y",
+                "fx_adjusted": null,
+                "ttm_value": null,
+                "q2_2024_rivian_investment_pre_tax_valuation_gain_mm": 400,
+                "q2_2023_rivian_investment_pre_tax_valuation_gain_mm": 200
+            },
+            "tables": []
+        }
+    },
+    {
+        "page": 8,
+        "text": "8\n$13,072\n$44,419\nQ2 2023\nQ3 2023\nQ4 2023\nQ1 2024\nQ2 2024\n$0\n$35,000\n$70,000\n \n8\nMM\nUp 240% Y/Y\n(1)\nTTM Q2 2024 net income includes a pre-tax valuation loss of $0.5 billion included in non-operating income (expense) from the \ncommon stock investment in Rivian Automotive, Inc., compared to a pre-tax valuation loss of $1.5 billion from the investment \nin TTM Q2 2023.\nNet Income \u2013 TTM (1)",
+        "tables": [],
+        "chart_image_file": "output\\Amazon_2024_Q2\\Amazon_2024_Q2_slide8.png",
+        "extracted_data": {
+            "title": "Net Income - TTM",
+            "chart_detected": true,
+            "chart_type": "bar",
+            "x_axis": [
+                "Q2 2023",
+                "Q3 2023",
+                "Q4 2023",
+                "Q1 2024",
+                "Q2 2024"
+            ],
+            "y_axis": "Net Income (MM)",
+            "series": [
+                {
+                    "name": "Net Income - TTM",
+                    "values": {
+                        "Q2 2023": 13072,
+                        "Q3 2023": null,
+                        "Q4 2023": null,
+                        "Q1 2024": null,
+                        "Q2 2024": 44419
+                    }
+                }
+            ],
+            "metrics": {
+                "yoy_change": "Up 240%",
+                "fx_adjusted": null,
+                "ttm_value": null
+            },
+            "tables": []
+        }
+    },
+    {
+        "page": 9,
+        "text": "9\n[Down 58%] Y/Y;                  \n[Down 58%] F/X Adjusted\nSegment Results \u2013 North America\nMM\nMM\n9\n$82,546\n$90,033\nQ2 2023\nQ3 2023\nQ4 2023\nQ1 2024\nQ2 2024\n$0\n$80,000\n$160,000\n$3,211\n$5,065\nQ2 2023 Q3 2023\nQ4 2023 Q1 2024 Q2 2024\n$0\n$5,000\n$10,000\nNet Sales\nOperating Income\nTTM Net Sales $369.8B; TTM Operating Income $20.8B\n \nUp 9% Y/Y\nUp 58% Y/Y",
+        "tables": [],
+        "chart_image_file": "output\\Amazon_2024_Q2\\Amazon_2024_Q2_slide9.png",
+        "extracted_data": {
+            "title": "Segment Results \u2013 North America",
+            "chart_detected": true,
+            "chart_type": "Bar",
+            "x_axis": [
+                "Q2 2023",
+                "Q3 2023",
+                "Q4 2023",
+                "Q1 2024",
+                "Q2 2024"
+            ],
+            "y_axis": "MM ($)",
+            "series": [
+                {
+                    "name": "Net Sales",
+                    "values": {
+                        "Q2 2023": 82546,
+                        "Q3 2023": null,
+                        "Q4 2023": null,
+                        "Q1 2024": null,
+                        "Q2 2024": 90033
+                    }
+                },
+                {
+                    "name": "Operating Income",
+                    "values": {
+                        "Q2 2023": 3211,
+                        "Q3 2023": null,
+                        "Q4 2023": null,
+                        "Q1 2024": null,
+                        "Q2 2024": 5065
+                    }
+                }
+            ],
+            "metrics": {
+                "yoy_change": "Net Sales: Up 9% Y/Y; Operating Income: Up 58% Y/Y",
+                "fx_adjusted": null,
+                "ttm_value": "TTM Net Sales $369.8B; TTM Operating Income $20.8B"
+            },
+            "tables": []
+        }
+    },
+    {
+        "page": 10,
+        "text": "10\nSegment Results \u2013 International\nMM\nMM\n10\n$29,697\n$31,663\nQ2 2023\nQ3 2023\nQ4 2023\nQ1 2024\nQ2 2024\n$0\n$30,000\n$60,000\n \nUp 7% Y/Y;\nUp 10% F/X Adjusted\n$(895)\n$273\nQ2 2023\nQ3 2023\nQ4 2023\nQ1 2024\nQ2 2024\n$-2,000\n$0\n$2,000\nNet Sales\nOperating Income (Loss)\nTTM Net Sales $136.0B; TTM Operating Income $0.7B",
+        "tables": [],
+        "chart_image_file": "output\\Amazon_2024_Q2\\Amazon_2024_Q2_slide10.png",
+        "extracted_data": {
+            "title": "Segment Results - International",
+            "chart_detected": true,
+            "chart_type": "Bar",
+            "x_axis": [
+                "Q2 2023",
+                "Q3 2023",
+                "Q4 2023",
+                "Q1 2024",
+                "Q2 2024"
+            ],
+            "y_axis": "Values in Millions of Dollars",
+            "series": [
+                {
+                    "name": "Net Sales",
+                    "values": {
+                        "Q2 2023": 29697,
+                        "Q3 2023": null,
+                        "Q4 2023": null,
+                        "Q1 2024": null,
+                        "Q2 2024": 31663
+                    }
+                },
+                {
+                    "name": "Operating Income (Loss)",
+                    "values": {
+                        "Q2 2023": -895,
+                        "Q3 2023": null,
+                        "Q4 2023": null,
+                        "Q1 2024": null,
+                        "Q2 2024": 273
+                    }
+                }
+            ],
+            "metrics": {
+                "yoy_change": "Up 7% Y/Y (for Net Sales)",
+                "fx_adjusted": "Up 10% F/X Adjusted (for Net Sales)",
+                "ttm_value": "TTM Net Sales $136.0B; TTM Operating Income $0.7B"
+            },
+            "tables": []
+        }
+    },
+    {
+        "page": 11,
+        "text": "11\nSegment Results \u2013 AWS\nMM\nMM\n11\n$22,140\n$26,281\nQ2 2023\nQ3 2023\nQ4 2023\nQ1 2024\nQ2 2024\n$0\n$20,000\n$40,000\n \nUp 19% Y/Y\n$5,365\n$9,334\nQ2 2023 Q3 2023\nQ4 2023 Q1 2024 Q2 2024\n$0\n$8,000\n$16,000\nNet Sales\nOperating Income\nUp 74% Y/Y;                   \nUp 72% F/X Adjusted\nTTM Net Sales $98.6B; TTM Operating Income $32.9B",
+        "tables": [],
+        "chart_image_file": "output\\Amazon_2024_Q2\\Amazon_2024_Q2_slide11.png",
+        "extracted_data": {
+            "title": "Segment Results - AWS",
+            "chart_detected": true,
+            "chart_type": "Bar",
+            "x_axis": [
+                "Q2 2023",
+                "Q3 2023",
+                "Q4 2023",
+                "Q1 2024",
+                "Q2 2024"
+            ],
+            "y_axis": "Millions USD",
+            "series": [
+                {
+                    "name": "Net Sales",
+                    "values": {
+                        "Q2 2023": 22140,
+                        "Q3 2023": null,
+                        "Q4 2023": null,
+                        "Q1 2024": null,
+                        "Q2 2024": 26281
+                    }
+                }
+            ],
+            "metrics": {
+                "yoy_change": "Net Sales: Up 19% Y/Y; Operating Income: Up 74% Y/Y",
+                "fx_adjusted": "Operating Income: Up 72% F/X Adjusted",
+                "ttm_value": "Net Sales: $98.6B; TTM Operating Income: $32.9B"
+            },
+            "tables": []
+        }
+    },
+    {
+        "page": 12,
+        "text": "12\nFree Cash Flow \u2013 TTM (1)\n(1)\nFree cash flow is cash flow from operations reduced by \u201cPurchases of property and equipment, net of proceeds from sales and incentives.\u201d \nSee Appendix for a reconciliation of operating cash flow to free cash flow.\n(2)\nOperating cash flow increased 75% Y/Y.\nLong-Term Goal \u2013 Optimize Free Cash Flows \nMM\n12\nUp 101% Y/Y\n$7,878\n$52,973\nQ2 2023\nQ3 2023\nQ4 2023\nQ1 2024\nQ2 2024\n$0\n$40,000\n$80,000\nUp 572% Y/Y (2)",
+        "tables": [],
+        "chart_image_file": "output\\Amazon_2024_Q2\\Amazon_2024_Q2_slide12.png",
+        "extracted_data": {
+            "title": "Free Cash Flow \u2013 TTM",
+            "chart_detected": true,
+            "chart_type": "bar",
+            "x_axis": [
+                "Q2 2023",
+                "Q3 2023",
+                "Q4 2023",
+                "Q1 2024",
+                "Q2 2024"
+            ],
+            "y_axis": "Millions of Dollars",
+            "series": [
+                {
+                    "name": "Free Cash Flow - TTM",
+                    "values": {
+                        "Q2 2023": 7878,
+                        "Q3 2023": null,
+                        "Q4 2023": null,
+                        "Q1 2024": null,
+                        "Q2 2024": 52973
+                    }
+                }
+            ],
+            "metrics": {
+                "yoy_change": "Up 572% Y/Y",
+                "fx_adjusted": null,
+                "ttm_value": null
+            },
+            "tables": []
+        }
+    },
+    {
+        "page": 13,
+        "text": "13\n[Up N/A] Y/Y (2)\nFree Cash Flow Less Principal Repayments of Finance Leases and Financing \nObligations \u2013 TTM (1) (2)\n(1)\nFree cash flow less principal repayments of finance leases and financing obligations is free cash flow reduced by \u201cPrincipal repayments of \nfinance leases\u201d and \u201cPrincipal repayments of financing obligations.\u201d See Appendix for a reconciliation of non-GAAP measures.\n(2)\nOperating cash flow increased 75% Y/Y.\nLong-Term Goal \u2013 Optimize Free Cash Flows \nMM\n$1,929\n$49,575\nQ2 2023\nQ3 2023\nQ4 2023\nQ1 2024\nQ2 2024\n$0\n$40,000\n$80,000\n13",
+        "tables": [],
+        "chart_image_file": "output\\Amazon_2024_Q2\\Amazon_2024_Q2_slide13.png",
+        "extracted_data": {
+            "title": "Free Cash Flow Less Principal Repayments of Finance Leases and Financing Obligations \u2013 TTM",
+            "chart_detected": true,
+            "chart_type": "bar",
+            "x_axis": [
+                "Q2 2023",
+                "Q3 2023",
+                "Q4 2023",
+                "Q1 2024",
+                "Q2 2024"
+            ],
+            "y_axis": "Amount (USD MM)",
+            "series": [
+                {
+                    "name": "Free Cash Flow Less Principal Repayments",
+                    "values": {
+                        "Q2 2023": 1929,
+                        "Q3 2023": null,
+                        "Q4 2023": null,
+                        "Q1 2024": null,
+                        "Q2 2024": 49575
+                    }
+                }
+            ],
+            "metrics": {
+                "yoy_change": "Operating cash flow increased 75% Y/Y",
+                "fx_adjusted": null,
+                "ttm_value": "49575 MM (Q2 2024)"
+            },
+            "tables": []
+        }
+    },
+    {
+        "page": 14,
+        "text": "14\nFree Cash Flow Less Equipment Finance Leases and Principal Repayments of \nAll Other Finance Leases and Financing Obligations \u2013 TTM (1)\n(1)\nFree cash flow less equipment finance leases and principal repayments of all other finance leases and financing obligations is free cash flow reduced by \nequipment acquired under finance leases, which is included in \u201cProperty and equipment acquired under finance leases, net of remeasurements and \nmodifications,\u201d principal repayments of all other finance lease liabilities, which is included in \u201cPrincipal repayments of finance leases,\u201d and \u201cPrincipal \nrepayments of financing obligations.\u201d\u00a0See Appendix for a reconciliation of non-GAAP measures.\n(2)\nOperating cash flow increased 75% Y/Y.\nLong-Term Goal \u2013 Optimize Free Cash Flows \n14\nDown 50% Y/Y(3)\n$6,734\n$51,448\nQ2 2023\nQ3 2023\nQ4 2023\nQ1 2024\nQ2 2024\n$0\n$40,000\n$80,000\nMM\nUp 664% Y/Y (2)",
+        "tables": [],
+        "chart_image_file": "output\\Amazon_2024_Q2\\Amazon_2024_Q2_slide14.png",
+        "extracted_data": {
+            "title": "Free Cash Flow Less Equipment Finance Leases and Principal Repayments of All Other Finance Leases and Financing Obligations \u2013 TTM (1)",
+            "chart_detected": true,
+            "chart_type": "bar",
+            "x_axis": [
+                "Q2 2023",
+                "Q3 2023",
+                "Q4 2023",
+                "Q1 2024",
+                "Q2 2024"
+            ],
+            "y_axis": "MM $",
+            "series": [
+                {
+                    "name": "Free Cash Flow Less Equipment Finance Leases and Principal Repayments of All Other Finance Leases and Financing Obligations \u2013 TTM",
+                    "values": {
+                        "Q2 2023": 6734,
+                        "Q3 2023": null,
+                        "Q4 2023": null,
+                        "Q1 2024": null,
+                        "Q2 2024": 51448
+                    }
+                }
+            ],
+            "metrics": {
+                "yoy_change": "Up 664% Y/Y",
+                "fx_adjusted": null,
+                "ttm_value": 51448
+            },
+            "tables": []
+        }
+    },
+    {
+        "page": 15,
+        "text": "15\n \nShares\n15\n10,313\n10,490\n481\n381\nCommon Shares Outstanding\nStock-Based Awards Outstanding\nQ2 2023\nQ3 2023\nQ4 2023\nQ1 2024\nQ2 2024\n0\n8,000\n16,000\n10,794\n10,871\nMM\nLong-Term Goal \u2013 Efficiently Managing Dilution",
+        "tables": [],
+        "chart_image_file": "output\\Amazon_2024_Q2\\Amazon_2024_Q2_slide15.png",
+        "extracted_data": {
+            "title": "Shares",
+            "chart_detected": true,
+            "chart_type": "stacked bar",
+            "x_axis": [
+                "Q2 2023",
+                "Q3 2023",
+                "Q4 2023",
+                "Q1 2024",
+                "Q2 2024"
+            ],
+            "y_axis": "Shares Outstanding (MM)",
+            "series": [
+                {
+                    "name": "Common Shares Outstanding",
+                    "values": {
+                        "Q2 2023": 10313,
+                        "Q3 2023": null,
+                        "Q4 2023": null,
+                        "Q1 2024": null,
+                        "Q2 2024": 10490
+                    }
+                },
+                {
+                    "name": "Stock-Based Awards Outstanding",
+                    "values": {
+                        "Q2 2023": 481,
+                        "Q3 2023": null,
+                        "Q4 2023": null,
+                        "Q1 2024": null,
+                        "Q2 2024": 381
+                    }
+                },
+                {
+                    "name": "Total Shares Outstanding",
+                    "values": {
+                        "Q2 2023": 10794,
+                        "Q3 2023": null,
+                        "Q4 2023": null,
+                        "Q1 2024": null,
+                        "Q2 2024": 10871
+                    }
+                }
+            ],
+            "metrics": {
+                "yoy_change": null,
+                "fx_adjusted": null,
+                "ttm_value": null
+            },
+            "tables": []
+        }
+    },
+    {
+        "page": 16,
+        "text": "Appendix\n16",
+        "tables": [],
+        "chart_image_file": "output\\Amazon_2024_Q2\\Amazon_2024_Q2_slide16.png",
+        "extracted_data": {
+            "title": "Amazon Appendix",
+            "chart_detected": false,
+            "chart_type": null,
+            "x_axis": [],
+            "y_axis": null,
+            "series": [],
+            "metrics": {
+                "yoy_change": null,
+                "fx_adjusted": null,
+                "ttm_value": null
+            },
+            "tables": []
+        }
+    },
+    {
+        "page": 17,
+        "text": "17\nFree Cash Flow Reconciliation \u2013 TTM\nMM\nQ2 2023\nQ3 2023\nQ4 2023\nQ1 2024\nQ2 2024\nOperating Cash Flow \n\u00a0 $61,841\n$71,654\n$84,946\n$99,147\n$107,952\nPurchases of property and \nequipment, net of proceeds from \nsales and incentives\n\u00a0\n(53,963)\n(50,220)\n(48,133)\n(48,998)\n(54,979)\nFree Cash Flow \n\u00a0\n$7,878\n$21,434\n$36,813\n$50,149\n$52,973\n17",
+        "tables": [],
+        "chart_image_file": "output\\Amazon_2024_Q2\\Amazon_2024_Q2_slide17.png",
+        "extracted_data": {
+            "title": "Free Cash Flow Reconciliation \u2013 TTM",
+            "chart_detected": false,
+            "chart_type": "",
+            "x_axis": [],
+            "y_axis": "",
+            "series": [],
+            "metrics": {
+                "yoy_change": null,
+                "fx_adjusted": null,
+                "ttm_value": null
+            },
+            "tables": [
+                {
+                    "title": null,
+                    "headers": [
+                        "Q2 2023",
+                        "Q3 2023",
+                        "Q4 2023",
+                        "Q1 2024",
+                        "Q2 2024"
+                    ],
+                    "rows": [
+                        {
+                            "label": "Operating Cash Flow",
+                            "values": [
+                                61841,
+                                71654,
+                                84946,
+                                99147,
+                                107952
+                            ]
+                        },
+                        {
+                            "label": "Purchases of property and equipment, net of proceeds from sales and incentives",
+                            "values": [
+                                -53963,
+                                -50220,
+                                -48133,
+                                -48998,
+                                -54979
+                            ]
+                        },
+                        {
+                            "label": "Free Cash Flow",
+                            "values": [
+                                7878,
+                                21434,
+                                36813,
+                                50149,
+                                52973
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "page": 18,
+        "text": "18\nFree Cash Flow Less Principal Repayments of Finance \nLeases and Financing Obligations Reconciliation \u2013 TTM \nMM\n\u00a0 Q2 2023\nQ3 2023\nQ4 2023\nQ1 2024\nQ2 2024\nOperating Cash Flow\n\u00a0 $61,841\n$71,654\n$84,946\n$99,147\n$107,952\nPurchases of property and \nequipment, net of proceeds from \nsales and incentives\n\u00a0\n(53,963)\n(50,220)\n(48,133)\n(48,998)\n(54,979)\nPrincipal repayments of finance \nleases \n(5,705)\n(5,245)\n(4,384)\n(3,774)\n(3,092)\nPrincipal repayments of \nfinancing obligations \n(244)\n(260)\n(271)\n(304)\n(306)\nFree Cash Flow Less Principal \nRepayments of Finance Leases and \nFinancing Obligations \n\u00a0\n$1,929\n$15,929\n$32,158\n$46,071\n$49,575\n18",
+        "tables": [],
+        "chart_image_file": "output\\Amazon_2024_Q2\\Amazon_2024_Q2_slide18.png",
+        "extracted_data": {
+            "title": "Free Cash Flow Less Principal Repayments of Finance Leases and Financing Obligations Reconciliation \u2013 TTM",
+            "chart_detected": false,
+            "chart_type": "",
+            "x_axis": [],
+            "y_axis": "",
+            "series": [],
+            "metrics": {
+                "yoy_change": null,
+                "fx_adjusted": null,
+                "ttm_value": null
+            },
+            "tables": [
+                {
+                    "name": "Free Cash Flow Less Principal Repayments of Finance Leases and Financing Obligations Reconciliation",
+                    "unit": "MM",
+                    "column_headers": [
+                        "Q2 2023",
+                        "Q3 2023",
+                        "Q4 2023",
+                        "Q1 2024",
+                        "Q2 2024"
+                    ],
+                    "rows": [
+                        {
+                            "category": "Operating Cash Flow",
+                            "values": {
+                                "Q2 2023": 61841,
+                                "Q3 2023": 71654,
+                                "Q4 2023": 84946,
+                                "Q1 2024": 99147,
+                                "Q2 2024": 107952
+                            }
+                        },
+                        {
+                            "category": "Purchases of property and equipment, net of proceeds from sales and incentives",
+                            "values": {
+                                "Q2 2023": -53963,
+                                "Q3 2023": -50220,
+                                "Q4 2023": -48133,
+                                "Q1 2024": -48998,
+                                "Q2 2024": -54979
+                            }
+                        },
+                        {
+                            "category": "Principal repayments of finance leases",
+                            "values": {
+                                "Q2 2023": -5705,
+                                "Q3 2023": -5245,
+                                "Q4 2023": -4384,
+                                "Q1 2024": -3774,
+                                "Q2 2024": -3092
+                            }
+                        },
+                        {
+                            "category": "Principal repayments of financing obligations",
+                            "values": {
+                                "Q2 2023": -244,
+                                "Q3 2023": -260,
+                                "Q4 2023": -271,
+                                "Q1 2024": -304,
+                                "Q2 2024": -306
+                            }
+                        },
+                        {
+                            "category": "Free Cash Flow Less Principal Repayments of Finance Leases and Financing Obligations",
+                            "values": {
+                                "Q2 2023": 1929,
+                                "Q3 2023": 15929,
+                                "Q4 2023": 32158,
+                                "Q1 2024": 46071,
+                                "Q2 2024": 49575
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "page": 19,
+        "text": "19\nMM\n\u00a0 Q2 2023\nQ3 2023\nQ4 2023\nQ1 2024\nQ2 2024\nOperating Cash Flow\n\u00a0 $61,841\n$71,654\n$84,946\n$99,147\n$107,952\nPurchases of property and \nequipment, net of proceeds from \nsales and incentives\n\u00a0 (53,963)\n(50,220)\n(48,133)\n(48,998)\n(54,979)\nEquipment acquired under \nfinance leases (1)\n(269)\n(239)\n(310)\n(306)\n(425)\nPrincipal repayments of all \nother finance leases (2)\n(631)\n(694)\n(683)\n(761)\n(794)\nPrincipal repayments of \nfinancing obligations \n(244)\n(260)\n(271)\n(304)\n(306)\nFree Cash Flow Less Equipment \nFinance Leases and Principal \nRepayments of all other Finance \nLeases and Financing Obligations  \n\u00a0\n$6,734\n$20,241\n$35,549\n$48,778\n$51,448\n19\nFree Cash Flow Less Equipment Finance Leases and Principal \nRepayments of All Other Finance Leases and Financing \nObligations Reconciliation \u2013 TTM \n(1) For the twelve months ended June\u00a030, 2023 and 2024, this amount relates to equipment included in \u201cProperty and equipment acquired under \nfinance leases, net of remeasurements and modifications\u201d of $696 million and $617 million.\n(2) For the twelve months ended June\u00a030, 2023 and 2024, this amount relates to property included in \u201cPrincipal repayments of finance leases\u201d of \n$5,705 million and $3,092 million.",
+        "tables": [],
+        "chart_image_file": "output\\Amazon_2024_Q2\\Amazon_2024_Q2_slide19.png",
+        "extracted_data": {
+            "title": "Free Cash Flow Less Equipment Finance Leases and Principal Repayments of All Other Finance Leases and Financing Obligations Reconciliation \u2013 TTM",
+            "chart_detected": false,
+            "chart_type": null,
+            "x_axis": [],
+            "y_axis": null,
+            "series": [],
+            "metrics": {
+                "yoy_change": null,
+                "fx_adjusted": null,
+                "ttm_value": "Equipment acquired under finance leases (TTM ended June 30, 2023): $696 million; (TTM ended June 30, 2024): $617 million. Principal repayments of finance leases (TTM ended June 30, 2023): $5,705 million; (TTM ended June 30, 2024): $3,092 million."
+            },
+            "tables": [
+                {
+                    "headers": [
+                        "MM",
+                        "Q2 2023",
+                        "Q3 2023",
+                        "Q4 2023",
+                        "Q1 2024",
+                        "Q2 2024"
+                    ],
+                    "rows": [
+                        {
+                            "MM": "Operating Cash Flow",
+                            "Q2 2023": "$61,841",
+                            "Q3 2023": "$71,654",
+                            "Q4 2023": "$84,946",
+                            "Q1 2024": "$99,147",
+                            "Q2 2024": "$107,952"
+                        },
+                        {
+                            "MM": "Purchases of property and equipment, net of proceeds from sales and incentives",
+                            "Q2 2023": "(53,963)",
+                            "Q3 2023": "(50,220)",
+                            "Q4 2023": "(48,133)",
+                            "Q1 2024": "(48,998)",
+                            "Q2 2024": "(54,979)"
+                        },
+                        {
+                            "MM": "Equipment acquired under finance leases (1)",
+                            "Q2 2023": "(269)",
+                            "Q3 2023": "(239)",
+                            "Q4 2023": "(310)",
+                            "Q1 2024": "(306)",
+                            "Q2 2024": "(425)"
+                        },
+                        {
+                            "MM": "Principal repayments of all other finance leases (2)",
+                            "Q2 2023": "(631)",
+                            "Q3 2023": "(694)",
+                            "Q4 2023": "(683)",
+                            "Q1 2024": "(761)",
+                            "Q2 2024": "(794)"
+                        },
+                        {
+                            "MM": "Principal repayments of financing obligations",
+                            "Q2 2023": "(244)",
+                            "Q3 2023": "(260)",
+                            "Q4 2023": "(271)",
+                            "Q1 2024": "(304)",
+                            "Q2 2024": "(306)"
+                        },
+                        {
+                            "MM": "Free Cash Flow Less Equipment Finance Leases and Principal Repayments of all other Finance Leases and Financing Obligations",
+                            "Q2 2023": "$6,734",
+                            "Q3 2023": "$20,241",
+                            "Q4 2023": "$35,549",
+                            "Q1 2024": "$48,778",
+                            "Q2 2024": "$51,448"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+]
