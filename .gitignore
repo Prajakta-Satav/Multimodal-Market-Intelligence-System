@@ -53,3 +53,6 @@ Thumbs.db
 .coverage
 htmlcov/
 .pytest_cache/
+
+minio_data
+postgres_data
