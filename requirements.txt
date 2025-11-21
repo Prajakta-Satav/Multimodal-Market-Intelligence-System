@@ -1,5 +1,10 @@
 fastapi
-uvicorn
-pydantic
+uvicorn[standard]
+chroma
 psycopg2-binary
 minio
+langgraph
+pydantic
+python-dotenv
+requests
+sentence-transformers
