@@ -33,7 +33,7 @@ OUTPUT_CSV = "retrieval_eval_results.csv"
 
 # Gemini setup (expects environment variable GEMINI_API_KEY)
 # GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-GEMINI_API_KEY = "AIzaSyBYG0hlhhiSGPFD1ZmEyKGkedUmdaqmoNg"
+GEMINI_API_KEY = ""
 GEMINI_MODEL_NAME = None
 if GEMINI_API_KEY:
     try:
