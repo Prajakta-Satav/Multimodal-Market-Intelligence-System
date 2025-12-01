@@ -466,4 +466,3 @@ def run_pipeline():
         "citations": all_citations,
         "timestamp": datetime.utcnow().isoformat()
     }
-
