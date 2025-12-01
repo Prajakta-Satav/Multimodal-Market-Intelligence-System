@@ -1,0 +1,31 @@
+Q#,Question,Difficulty,Answer
+1,How much did Amazon's net sales increase in Q2 2024 compared to Q2 2023?,Easy,Net sales increased 10% to $148.0 billion in Q2 2024 from $134.4 billion in Q2 2023
+2,What was Amazon's AWS segment sales growth in Q2 2024?,Easy,AWS segment sales increased 19% year-over-year to $26.3 billion
+3,How much did Amazon's operating income increase in Q2 2024?,Medium,Operating income increased to $14.7 billion in Q2 2024 from $7.7 billion in Q2 2023 (91% increase)
+4,"What was Amazon's free cash flow for the trailing twelve months ended June 30, 2024?",Medium,"Free cash flow increased to $53.0 billion for the trailing twelve months, compared to $7.9 billion for the trailing twelve months ended June 30, 2023"
+5,What AI-powered shopping feature did Amazon launch for consumers?,Easy,"Amazon launched Rufus, a shopping assistant for all U.S. mobile customers"
+6,What milestone did Google Cloud reach in Q2 2024?,Easy,Google Cloud quarterly revenues crossed the $10 billion mark for the first time and passed the $1 billion mark in quarterly operating profit
+7,What is the context window size for Gemini according to Alphabet's Q2 earnings?,Medium,"Gemini offers a 2 million token context window, the longest context window of any large scale foundation model to date"
+8,How many developers are using Gemini across Google's developer tools?,Easy,More than 1.5 million developers are using Gemini across developer tools
+9,What revenue growth did Google Cloud achieve in Q2 2024?,Easy,"Google Cloud revenues were $10.3 billion, up 29% year-over-year"
+10,How many AI and generative AI solutions customers is Alphabet targeting?,Medium,"Year to date, AI infrastructure and generative AI solutions for cloud customers have generated billions in revenues and are being used by more than 2 million developers"
+11,What was Alphabet's consolidated revenue for Q1 2024?,Easy,"Consolidated revenues were $80.5 billion, up 15% or 16% in constant currency"
+12,How much annual revenue did Google reach over the last six years according to Sundar Pichai?,Easy,"In just six years, Google went from $100 billion to more than $300 billion in annual revenue"
+13,What is the combined annual run rate expectation for YouTube and Cloud by end of 2024?,Medium,YouTube overall and Cloud are expected to exit 2024 at a combined annual run rate of over $100 billion
+14,What breakthrough did Gemini 1.5 Pro achieve?,Medium,"Gemini 1.5 Pro includes a breakthrough in long context understanding, achieving the longest context window of any large scale foundation model yet"
+15,How much has machine costs decreased for SGE responses since introduction?,Hard,Machine costs associated with SGE responses have decreased 80% from when first introduced in labs
+16,How many YouTube music and premium subscribers did YouTube surpass in Q1 2024?,Easy,"YouTube surpassed 100 million music and premium subscribers globally in Q1, including trialers"
+17,What CAPEX level does Alphabet expect throughout 2024?,Medium,Alphabet expects quarterly CAPEX throughout 2024 to be roughly at or above the Q1 CAPEX of $12 billion
+18,How many YouTube Partner Program channels hit a milestone in Q1 2024?,Easy,3 million plus channels in the YouTube Partner Program
+19,How many hours of YouTube content are viewers watching on TVs daily on average?,Easy,"On average, viewers are watching over 1 billion hours of YouTube content on TVs daily"
+20,What is YouTube's TV subscriber count for YouTube TV?,Easy,YouTube TV has more than 8 million paid subscribers
+21,What commitment did Alphabet make to Waymo in terms of funding?,Medium,Alphabet committed to a new multi-year investment of $5 billion for Waymo to continue building autonomous driving technology
+22,How many weekly paid public rides is Waymo delivering?,Easy,"Waymo is now delivering well over 50,000 weekly paid public rides, primarily in San Francisco and Phoenix"
+23,How many autonomous miles has Waymo driven?,Easy,Waymo has driven more than 20 million fully autonomous miles on public roads
+24,What was Alphabet's consolidated revenue in Q2 2024?,Easy,"Consolidated revenues were $84.7 billion, up 14% or 15% in constant currency"
+25,How many Google services operating margin percentage was achieved in Q2 2024?,Medium,Google services operating margin was 40% in Q2 2024
+26,What percentage of Google's products with 2 billion monthly users now use Gemini?,Easy,All six of Google's products with more than 2 billion monthly users now use Gemini
+27,How many Android devices are there according to the earnings call?,Easy,3 billion Android devices
+28,What is Google's approach to deprecating third-party cookies?,Hard,"Alphabet decided not to deprecate third-party cookies, believing user choice is the best path forward with continued investment in privacy enhancing technologies"
+29,How much did Google One paid subscribers reach?,Easy,Google One has crossed 100 million paid subscribers
+30,What was Google's operating income in Q1 2024?,Medium,"Operating income was $25.5 billion, up 46% on a reported basis, with operating margin of 32%"

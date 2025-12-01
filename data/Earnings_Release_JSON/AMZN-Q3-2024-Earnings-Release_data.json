@@ -1,0 +1,3289 @@
+[
+  {
+    "page": 1,
+    "company": "Amazon",
+    "year": "2024",
+    "quarter": "Q3",
+    "text": "AMAZON.COM ANNOUNCES THIRD QUARTER RESULTS\nSEATTLE—(BUSINESS WIRE) October 31, 2024—Amazon.com, Inc. (NASDAQ: AMZN) today announced financial \nresults for its third quarter ended September 30, 2024. \n•\nNet sales increased 11% to $158.9 billion in the third quarter, compared with $143.1 billion in third quarter 2023.\nExcluding the $0.2 billion unfavorable impact from year-over-year changes in foreign exchange rates throughout the\nquarter, net sales increased 11% compared with third quarter 2023.\n•\nNorth America segment sales increased 9% year-over-year to $95.5 billion.\n•\nInternational segment sales increased 12% year-over-year to $35.9 billion.\n•\nAWS segment sales increased 19% year-over-year to $27.5 billion.\n•\nOperating income increased to $17.4 billion in the third quarter, compared with $11.2 billion in third quarter 2023.\n•\nNorth America segment operating income was $5.7 billion, compared with operating income of $4.3 billion\nin third quarter 2023.\n•\nInternational segment operating income was $1.3 billion, compared with an operating loss of $0.1 billion in\nthird quarter 2023.\n•\nAWS segment operating income was $10.4 billion, compared with operating income of $7.0 billion in third\nquarter 2023.\n•\nNet income increased to $15.3 billion in the third quarter, or $1.43 per diluted share, compared with $9.9 billion, or\n$0.94 per diluted share, in third quarter 2023.\n•\nOperating cash flow increased 57% to $112.7 billion for the trailing twelve months, compared with $71.7 billion for\nthe trailing twelve months ended September 30, 2023.\n•\nFree cash flow increased to $47.7 billion for the trailing twelve months, compared with $21.4 billion for the trailing\ntwelve months ended September 30, 2023.\n•\nFree cash flow less principal repayments of finance leases and financing obligations increased to $44.9 billion for\nthe trailing twelve months, compared with $15.9 billion for the trailing twelve months ended September 30, 2023.\n•\nFree cash flow less equipment finance leases and principal repayments of all other finance leases and financing\nobligations increased to $46.1 billion for the trailing twelve months, compared with $20.2 billion for the trailing\ntwelve months ended September 30, 2023.\n“As we get into the holiday season, we’re excited about what we have in store for customers,” said Andy Jassy, Amazon \nPresident & CEO. “We kicked off the holiday season with our biggest-ever Prime Big Deal Days and the launch of an all-new \nKindle lineup that is significantly outperforming our expectations; and there’s so much more coming, from tens of millions of \ndeals, to our NFL Black Friday game and Election Day coverage with Brian Williams on Prime Video, to over 100 new cloud \ninfrastructure and AI capabilities that we’ll share at AWS re:Invent the week after Thanksgiving.”\nSome other highlights since the company’s last earnings announcement include that Amazon:\n•\nHeld its annual Prime Big Deal Days shopping event, with record sales, number of items sold, and Prime member\nparticipation, saving Prime members more than $1 billion with deals across its Store.\n•\nAnnounced its first-ever fuel savings offer for Prime, saving U.S. members 10 cents a gallon on fuel at approximately\n7,000 bp, Amoco, and ampm locations.",
+    "tables": [],
+    "image": "D:\\POC\\Multimodal-Market-Intelligence-System\\data\\ER_Test2\\AMZN-Q3-2024-Earnings-Release\\Amazon_2024_Q3_p1.png",
+    "ai_extracted": {
+      "financial_metrics": {
+        "revenue": [
+          {
+            "period": "Q3 2024",
+            "value": "$158.9 billion",
+            "growth": "11%",
+            "comparison_period": "Q3 2023",
+            "comparison_value": "$143.1 billion"
+          },
+          {
+            "period": "Q3 2024 (excluding FX impact)",
+            "value": "$158.9 billion (adjusted)",
+            "adjustment": "$0.2 billion unfavorable impact",
+            "growth": "11%",
+            "comparison_period": "Q3 2023"
+          }
+        ],
+        "operating_income": [
+          {
+            "period": "Q3 2024",
+            "value": "$17.4 billion",
+            "comparison_period": "Q3 2023",
+            "comparison_value": "$11.2 billion"
+          }
+        ],
+        "net_income": [
+          {
+            "period": "Q3 2024",
+            "value": "$15.3 billion",
+            "comparison_period": "Q3 2023",
+            "comparison_value": "$9.9 billion"
+          }
+        ],
+        "eps": [
+          {
+            "period": "Q3 2024",
+            "value": "$1.43 per diluted share",
+            "comparison_period": "Q3 2023",
+            "comparison_value": "$0.94 per diluted share"
+          }
+        ],
+        "operating_cash_flow": [
+          {
+            "period": "Trailing twelve months",
+            "value": "$112.7 billion",
+            "growth": "57%",
+            "comparison_period": "Trailing twelve months ended September 30, 2023",
+            "comparison_value": "$71.7 billion"
+          }
+        ],
+        "free_cash_flow": [
+          {
+            "period": "Trailing twelve months",
+            "value": "$47.7 billion",
+            "comparison_period": "Trailing twelve months ended September 30, 2023",
+            "comparison_value": "$21.4 billion"
+          }
+        ],
+        "free_cash_flow_less_finance_leases": [
+          {
+            "period": "Trailing twelve months",
+            "value": "$44.9 billion",
+            "description": "Free cash flow less principal repayments of finance leases and financing obligations",
+            "comparison_period": "Trailing twelve months ended September 30, 2023",
+            "comparison_value": "$15.9 billion"
+          }
+        ],
+        "free_cash_flow_less_equipment_finance_leases": [
+          {
+            "period": "Trailing twelve months",
+            "value": "$46.1 billion",
+            "description": "Free cash flow less equipment finance leases and principal repayments of all other finance leases and financing obligations",
+            "comparison_period": "Trailing twelve months ended September 30, 2023",
+            "comparison_value": "$20.2 billion"
+          }
+        ]
+      },
+      "segments": {
+        "north_america": {
+          "sales": [
+            {
+              "period": "Q3 2024",
+              "value": "$95.5 billion",
+              "growth": "9%",
+              "comparison_period": "Q3 2023"
+            }
+          ],
+          "operating_income": [
+            {
+              "period": "Q3 2024",
+              "value": "$5.7 billion",
+              "comparison_period": "Q3 2023",
+              "comparison_value": "$4.3 billion"
+            }
+          ]
+        },
+        "international": {
+          "sales": [
+            {
+              "period": "Q3 2024",
+              "value": "$35.9 billion",
+              "growth": "12%",
+              "comparison_period": "Q3 2023"
+            }
+          ],
+          "operating_income": [
+            {
+              "period": "Q3 2024",
+              "value": "$1.3 billion",
+              "comparison_period": "Q3 2023",
+              "comparison_value": "($0.1 billion)",
+              "type": "loss"
+            }
+          ]
+        },
+        "aws": {
+          "sales": [
+            {
+              "period": "Q3 2024",
+              "value": "$27.5 billion",
+              "growth": "19%",
+              "comparison_period": "Q3 2023"
+            }
+          ],
+          "operating_income": [
+            {
+              "period": "Q3 2024",
+              "value": "$10.4 billion",
+              "comparison_period": "Q3 2023",
+              "comparison_value": "$7.0 billion"
+            }
+          ]
+        }
+      },
+      "tables": [],
+      "charts_graphs": [],
+      "reconciliations": []
+    }
+  },
+  {
+    "page": 2,
+    "company": "Amazon",
+    "year": "2024",
+    "quarter": "Q3",
+    "text": "•\nExpanded its selection of brands with AllSaints, Beats x Kim, Estée Lauder, kate spade new york, and more. \n•\nAnnounced plans to expand Amazon Pharmacy Same-Day Delivery of medications to nearly half the U.S. in 2025 by \naccelerating the roll out of new pharmacies in 20 more U.S. cities by the end of next year.\n•\nLaunched new generative AI-powered features, including:\n•\nRufus, a generative AI expert shopping assistant, becoming available in Canada, France, Germany, India, \nItaly, Spain, and the UK.\n•\nAI Shopping Guides, which simplifies product research by using generative AI to pair information about a \nproduct category with Amazon’s wide selection, making it easier for customers to find the right product for \ntheir needs.\n•\nProject Amelia, an AI assistant for sellers that offers tailored business insights to boost productivity and drive \nseller growth.\n•\nVideo generation and live image capabilities for advertisers that makes it fast and easy for brands to deliver \ncompelling creative for customers through short, animated campaign images.\n•\nLaunched new foundation models in Amazon Bedrock and Amazon SageMaker, including AI21 Labs’ Jamba 1.5 \nfamily, Anthropic’s upgraded Claude 3.5 Sonnet, Meta’s Llama 3.2, Mistral Large 2, and multiple Stability AI models.\n•\nLaunched new memory-optimized, compute-optimized, and general purpose Amazon EC2 instances based on AWS’s \nlatest generation Graviton4 processor, which delivers 75% more memory bandwidth and 30% better compute \nperformance than the previous generation Graviton chips.\n•\nLaunched Oracle Database@AWS for customers to easily and quickly migrate Oracle workloads to dedicated \ninfrastructure on AWS with minimal to no database or application changes.\n•\nEntered a strategic collaboration with Databricks to accelerate the development of custom models built with \nDatabricks Mosaic AI on AWS, and for Databricks to leverage AWS Trainium chips as the preferred AI chip to help \ncustomers improve price-performance when building generative AI applications.\n•\nSigned AWS agreements with several large enterprise companies such as The Australia and New Zealand Banking \nGroup Limited, Booking.com, Capital One, Datadog, Epic Games, Fast Retailing, Itaú Unibanco, Luma AI, National \nAustralia Bank, Sony, T-Mobile, Toyota, and Veeva.\n•\nLaunched Season 2 of The Lord of the Rings: The Rings of Power to positive reviews from customers and critics alike, \nranking as Prime Video’s most watched returning season ever by hours watched.\n•\nDrew more than 17 million viewers to the Cowboys-Giants Thursday Night Football game, the most-streamed NFL \nregular season game ever. \n•\nAdded Apple TV+ to Prime Video’s collection of over 100 add-on subscription channels in the U.S. \n•\nAnnounced a new Kindle lineup, including a reimagined Kindle Scribe with generative AI, the Kindle Colorsoft with a \ncolor display, and the fastest Kindle Paperwhite ever.\n•\nAnnounced investments in the Delivery Service Partner program of $2.1 billion in North America to support safety \nprograms, training, incentives, and more, as well as 25 billion yen in Japan to support last mile delivery innovation, \nand safety and technology for drivers.\n•\nAnnounced plans to hire 250,000 people across its U.S. operations ahead of the holiday season. All seasonal \nemployees earn at least $18 per hour and have access to comprehensive benefits like health care.\n•\nAnnounced plans for AWS to invest £8 billion over five years in the UK, supporting 14,000 jobs annually.\n•\nRemoved plastic air pillows from all delivery packaging at fulfillment centers globally, including expanding its use of \npaper filler made from 100% recycled content across North America to replace plastic air pillows.\n•\nMobilized Disaster Relief by Amazon to support communities around the world impacted by natural disasters. In the \nU.S., Amazon leveraged its Disaster Relief Hub in Atlanta to support communities impacted by Hurricanes Helene and \nMilton with donated goods, logistics support, and technology. In Europe, Amazon mobilized its global logistics \ninfrastructure, inventory, teams, and technology to provide rapid assistance for flooding across the region.\nFor additional highlights from the quarter, visit aboutamazon.com/news/company-news/amazon-earnings-q3-2024-highlights.",
+    "tables": [
+      [
+        [
+          "Drew more than 17 million viewers to the Cowboys-Giants"
+        ],
+        [
+          "regular season game ever."
+        ]
+      ],
+      [
+        [
+          "Football",
+          "game, the most-streamed NFL"
+        ]
+      ]
+    ],
+    "image": "D:\\POC\\Multimodal-Market-Intelligence-System\\data\\ER_Test2\\AMZN-Q3-2024-Earnings-Release\\Amazon_2024_Q3_p2.png",
+    "ai_extracted": {
+      "financial_data": {
+        "company_name": "Amazon",
+        "time_periods": [
+          {
+            "quarter": "Q3",
+            "year": "2024"
+          }
+        ],
+        "highlights": [
+          "Expanded its selection of brands with AllSaints, Beats x Kim, Estée Lauder, kate spade new york, and more.",
+          "Announced plans to expand Amazon Pharmacy Same-Day Delivery of medications to nearly half the U.S. in 2025 by accelerating the roll out of new pharmacies in 20 more U.S. cities by the end of next year.",
+          "Launched new generative AI-powered features, including:\n• Rufus, a generative AI expert shopping assistant, becoming available in Canada, France, Germany, India, Italy, Spain, and the UK.\n• AI Shopping Guides, which simplifies product research by using generative AI to pair information about a product category with Amazon’s wide selection, making it easier for customers to find the right product for their needs.\n• Project Amelia, an AI assistant for sellers that offers tailored business insights to boost productivity and drive seller growth.\n• Video generation and live image capabilities for advertisers that makes it fast and easy for brands to deliver compelling creative for customers through short, animated campaign images.",
+          "Launched new foundation models in Amazon Bedrock and Amazon SageMaker, including AI21 Labs’ Jamba 1.5 family, Anthropic’s upgraded Claude 3.5 Sonnet, Meta’s Llama 3.2, Mistral Large 2, and multiple Stability AI models.",
+          "Launched new memory-optimized, compute-optimized, and general purpose Amazon EC2 instances based on AWS’s latest generation Graviton4 processor, which delivers 75% more memory bandwidth and 30% better compute performance than the previous generation Graviton chips.",
+          "Launched Oracle Database@AWS for customers to easily and quickly migrate Oracle workloads to dedicated infrastructure on AWS with minimal to no database or application changes.",
+          "Entered a strategic collaboration with Databricks to accelerate the development of custom models built with Databricks Mosaic AI on AWS, and for Databricks to leverage AWS Trainium chips as the preferred AI chip to help customers improve price-performance when building generative AI applications.",
+          "Signed AWS agreements with several large enterprise companies such as The Australia and New Zealand Banking Group Limited, Booking.com, Capital One, Datadog, Epic Games, Fast Retailing, Itaú Unibanco, Luma AI, National Australia Bank, Sony, T-Mobile, Toyota, and Veeva.",
+          "Launched Season 2 of The Lord of the Rings: The Rings of Power to positive reviews from customers and critics alike, ranking as Prime Video’s most watched returning season ever by hours watched.",
+          "Drew more than 17 million viewers to the Cowboys-Giants Thursday Night Football game, the most-streamed NFL regular season game ever.",
+          "Added Apple TV+ to Prime Video’s collection of over 100 add-on subscription channels in the U.S.",
+          "Announced a new Kindle lineup, including a reimagined Kindle Scribe with generative AI, the Kindle Colorsoft with a color display, and the fastest Kindle Paperwhite ever.",
+          "Announced investments in the Delivery Service Partner program of $2.1 billion in North America to support safety programs, training, incentives, and more, as well as 25 billion yen in Japan to support last mile delivery innovation, and safety and technology for drivers.",
+          "Announced plans to hire 250,000 people across its U.S. operations ahead of the holiday season. All seasonal employees earn at least $18 per hour and have access to comprehensive benefits like health care.",
+          "Announced plans for AWS to invest £8 billion over five years in the UK, supporting 14,000 jobs annually.",
+          "Removed plastic air pillows from all delivery packaging at fulfillment centers globally, including expanding its use of paper filler made from 100% recycled content across North America to replace plastic air pillows.",
+          "Mobilized Disaster Relief by Amazon to support communities around the world impacted by natural disasters. In the U.S., Amazon leveraged its Disaster Relief Hub in Atlanta to support communities impacted by Hurricanes Helene and Milton with donated goods, logistics support, and technology. In Europe, Amazon mobilized its global logistics infrastructure, inventory, teams, and technology to provide rapid assistance for flooding across the region."
+        ],
+        "metrics": [
+          {
+            "type": "Investment",
+            "location": "North America",
+            "program": "Delivery Service Partner",
+            "amount": "$2.1 billion",
+            "purpose": "Support safety programs, training, incentives, and more"
+          },
+          {
+            "type": "Investment",
+            "location": "Japan",
+            "program": "Last Mile Delivery",
+            "amount": "25 billion yen",
+            "purpose": "Support last mile delivery innovation, and safety and technology for drivers"
+          },
+          {
+            "type": "Hourly Wage",
+            "location": "U.S. operations",
+            "program": "Seasonal employees",
+            "amount": "$18",
+            "purpose": "minimum wage, access to comprehensive benefits like health care."
+          },
+          {
+            "type": "Investment",
+            "location": "UK",
+            "program": "AWS",
+            "amount": "£8 billion",
+            "timeframe": "five years",
+            "purpose": "supporting 14,000 jobs annually."
+          }
+        ],
+        "segments": [],
+        "tables": [],
+        "charts": [],
+        "reconciliations": []
+      }
+    }
+  },
+  {
+    "page": 3,
+    "company": "Amazon",
+    "year": "2024",
+    "quarter": "Q3",
+    "text": "Financial Guidance\nThe following forward-looking statements reflect Amazon.com’s expectations as of October 31, 2024, and are subject to \nsubstantial uncertainty. Our results are inherently unpredictable and may be materially affected by many factors, such as \nfluctuations in foreign exchange rates, changes in global economic and geopolitical conditions and customer demand and \nspending (including the impact of recessionary fears), inflation, interest rates, regional labor market constraints, world events, \nthe rate of growth of the internet, online commerce, cloud services, and new and emerging technologies, and the various factors \ndetailed below. \nFourth Quarter 2024 Guidance\n•\nNet sales are expected to be between $181.5 billion and $188.5 billion, or to grow between 7% and 11% compared \nwith fourth quarter 2023. This guidance anticipates an unfavorable impact of approximately 10 basis points from \nforeign exchange rates. \n•\nOperating income is expected to be between $16.0 billion and $20.0 billion, compared with $13.2 billion in fourth \nquarter 2023.  \n•\nThis guidance assumes, among other things, that no additional business acquisitions, restructurings, or legal \nsettlements are concluded.\nConference Call Information\nA conference call will be webcast live today at 2:00 p.m. PT/5:00 p.m. ET, and will be available for at least three months at \namazon.com/ir. This call will contain forward-looking statements and other material information regarding the Company’s \nfinancial and operating results.\nForward-Looking Statements\nThese forward-looking statements are inherently difficult to predict. Actual results and outcomes could differ materially for a \nvariety of reasons, including, in addition to the factors discussed above, the amount that Amazon.com invests in new business \nopportunities and the timing of those investments, the mix of products and services sold to customers, the mix of net sales \nderived from products as compared with services, the extent to which we owe income or other taxes, competition, management \nof growth, potential fluctuations in operating results, international growth and expansion, the outcomes of claims, litigation, \ngovernment investigations, and other proceedings, fulfillment, sortation, delivery, and data center optimization, risks of \ninventory management, variability in demand, the degree to which the Company enters into, maintains, and develops \ncommercial agreements, proposed and completed acquisitions and strategic transactions, payments risks, and risks of \nfulfillment throughput and productivity. Other risks and uncertainties include, among others, risks related to new products, \nservices, and technologies, security breaches, system interruptions, government regulation and taxation, and fraud. In addition, \nglobal economic and geopolitical conditions and additional or unforeseen circumstances, developments, or events may give \nrise to or amplify many of these risks. More information about factors that potentially could affect Amazon.com’s financial \nresults is included in Amazon.com’s filings with the Securities and Exchange Commission (“SEC”), including its most recent \nAnnual Report on Form 10-K and subsequent filings.\nAdditional Information\nOur investor relations website is amazon.com/ir and we encourage investors to use it as a way of easily finding information \nabout us. We promptly make available on this website, free of charge, the reports that we file or furnish with the SEC, corporate \ngovernance information (including our Code of Business Conduct and Ethics), and select press releases, which may contain \nmaterial information about us, and you may subscribe to be notified of new information posted to this site.\nAbout Amazon\nAmazon is guided by four principles: customer obsession rather than competitor focus, passion for invention, commitment to \noperational excellence, and long-term thinking. Amazon strives to be Earth’s Most Customer-Centric Company, Earth’s Best \nEmployer, and Earth’s Safest Place to Work. Customer reviews, 1-Click shopping, personalized recommendations, Prime, \nFulfillment by Amazon, AWS, Kindle Direct Publishing, Kindle, Career Choice, Fire tablets, Fire TV, Amazon Echo, Alexa, \nJust Walk Out technology, Amazon Studios, and The Climate Pledge are some of the things pioneered by Amazon. For more \ninformation, visit amazon.com/about and follow @AmazonNews.",
+    "tables": [],
+    "image": "D:\\POC\\Multimodal-Market-Intelligence-System\\data\\ER_Test2\\AMZN-Q3-2024-Earnings-Release\\Amazon_2024_Q3_p3.png",
+    "ai_extracted": {
+      "financial_guidance": {
+        "fourth_quarter_2024_guidance": {
+          "net_sales": {
+            "range": [
+              "$181.5 billion",
+              "$188.5 billion"
+            ],
+            "growth_rate": {
+              "range": [
+                "7%",
+                "11%"
+              ],
+              "comparison_period": "fourth quarter 2023"
+            },
+            "foreign_exchange_impact": "approximately 10 basis points unfavorable"
+          },
+          "operating_income": {
+            "range": [
+              "$16.0 billion",
+              "$20.0 billion"
+            ],
+            "comparison": {
+              "value": "$13.2 billion",
+              "period": "fourth quarter 2023"
+            }
+          },
+          "assumptions": [
+            "no additional business acquisitions",
+            "no restructurings",
+            "no legal settlements are concluded"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "page": 4,
+    "company": "Amazon",
+    "year": "2024",
+    "quarter": "Q3",
+    "text": "AMAZON.COM, INC.\nConsolidated Statements of Cash Flows\n(in millions)\n(unaudited) \n  \nThree Months Ended\nSeptember 30,\nNine Months Ended\nSeptember 30,\nTwelve Months Ended\nSeptember 30,\n \n2023\n2024\n2023\n2024\n2023\n2024\nCASH, CASH EQUIVALENTS, AND RESTRICTED CASH, BEGINNING OF \nPERIOD\n$ \n50,067 \n$ \n71,673 \n$ \n54,253 \n$ \n73,890 \n$ \n35,178 \n$ \n50,081 \nOPERATING ACTIVITIES:\nNet income\n \n9,879 \n \n15,328 \n \n19,801 \n \n39,244 \n \n20,079 \n \n49,868 \nAdjustments to reconcile net income to net cash from operating activities:\nDepreciation and amortization of property and equipment and capitalized \ncontent costs, operating lease assets, and other\n \n12,131 \n \n13,442 \n \n34,843 \n \n37,164 \n \n47,528 \n \n50,984 \nStock-based compensation\n \n5,829 \n \n5,333 \n \n17,704 \n \n17,016 \n \n23,310 \n \n23,335 \nNon-operating expense (income), net\n \n(990)  \n(141)  \n(409)  \n2,498 \n \n3,036 \n \n2,159 \nDeferred income taxes\n \n(1,196)  \n(1,317)  \n(4,412)  \n(3,040)  \n(7,779)  \n(4,504) \nChanges in operating assets and liabilities:\nInventories\n \n808 \n \n(1,509)  \n(1,194)  \n(2,818)  \n1,986 \n \n(175) \nAccounts receivable, net and other\n \n(3,584)  \n(701)  \n(901)  \n774 \n \n(5,641)  \n(6,673) \nOther assets\n \n(3,134)  \n(4,537)  \n(9,463)  \n(10,293)  \n(13,511)  \n(13,095) \nAccounts payable\n \n2,820 \n \n(477)  \n(5,415)  \n(5,754)  \n4,437 \n \n5,134 \nAccrued expenses and other\n \n(1,321)  \n129 \n \n(9,022)  \n(6,946)  \n(3,245)  \n(352) \nUnearned revenue\n \n(25)  \n421 \n \n949 \n \n2,396 \n \n1,454 \n \n6,025 \nNet cash provided by (used in) operating activities\n \n21,217 \n \n25,971 \n \n42,481 \n \n70,241 \n \n71,654 \n \n112,706 \nINVESTING ACTIVITIES:\nPurchases of property and equipment\n \n(12,479)  \n(22,620)  \n(38,141)  \n(55,165)  \n(54,733)  \n(69,753) \nProceeds from property and equipment sales and incentives\n \n1,181 \n \n1,342 \n \n3,361 \n \n3,559 \n \n4,513 \n \n4,794 \nAcquisitions, net of cash acquired, non-marketable investments, and other\n \n(1,629)  \n(622)  \n(5,458)  \n(4,547)  \n(6,289)  \n(4,928) \nSales and maturities of marketable securities\n \n1,393 \n \n8,069 \n \n4,059 \n \n12,726 \n \n9,742 \n \n14,294 \nPurchases of marketable securities\n \n(219)  \n(3,068)  \n(1,053)  \n(13,472)  \n(1,286)  \n(13,907) \nNet cash provided by (used in) investing activities\n \n(11,753)  \n(16,899)  \n(37,232)  \n(56,899)  \n(48,053)  \n(69,500) \nFINANCING ACTIVITIES:\nProceeds from short-term debt, and other\n \n216 \n \n1,725 \n \n17,395 \n \n2,588 \n \n28,002 \n \n3,322 \nRepayments of short-term debt, and other\n \n(8,095)  \n(1,820)  \n(19,339)  \n(2,453)  \n(35,136)  \n(8,791) \nProceeds from long-term debt\n \n— \n \n— \n \n— \n \n— \n \n8,235 \n \n— \nRepayments of long-term debt\n \n— \n \n(2,183)  \n(3,386)  \n(6,682)  \n(4,643)  \n(6,972) \nPrincipal repayments of finance leases\n \n(1,005)  \n(402)  \n(3,605)  \n(1,710)  \n(5,245)  \n(2,489) \nPrincipal repayments of financing obligations\n \n(64)  \n(78)  \n(198)  \n(247)  \n(260)  \n(320) \nNet cash provided by (used in) financing activities\n \n(8,948)  \n(2,758)  \n(9,133)  \n(8,504)  \n(9,047)  \n(15,250) \nForeign currency effect on cash, cash equivalents, and restricted cash\n \n(502)  \n690 \n \n(288)  \n(51)  \n349 \n \n640 \nNet increase (decrease) in cash, cash equivalents, and restricted cash\n \n14 \n \n7,004 \n \n(4,172)  \n4,787 \n \n14,903 \n \n28,596 \nCASH, CASH EQUIVALENTS, AND RESTRICTED CASH, END OF PERIOD\n$ \n50,081 \n$ \n78,677 \n$ \n50,081 \n$ \n78,677 \n$ \n50,081 \n$ \n78,677 \nSUPPLEMENTAL CASH FLOW INFORMATION:\nCash paid for interest on debt, net of capitalized interest\n$ \n465 \n$ \n266 \n$ \n1,821 \n$ \n1,215 \n$ \n2,450 \n$ \n2,002 \nCash paid for operating leases\n \n2,692 \n \n2,940 \n \n7,687 \n \n9,116 \n \n10,052 \n \n11,882 \nCash paid for interest on finance leases\n \n76 \n \n71 \n \n234 \n \n217 \n \n318 \n \n291 \nCash paid for interest on financing obligations\n \n50 \n \n47 \n \n150 \n \n161 \n \n205 \n \n207 \nCash paid for income taxes, net of refunds\n \n2,628 \n \n2,004 \n \n6,982 \n \n8,162 \n \n8,677 \n \n12,359 \nAssets acquired under operating leases\n \n3,345 \n \n3,571 \n \n11,075 \n \n11,235 \n \n15,844 \n \n14,212 \nProperty and equipment acquired under finance leases, net of remeasurements and \nmodifications\n \n183 \n \n186 \n \n431 \n \n409 \n \n748 \n \n620 \nProperty and equipment recognized during the construction period of build-to-suit \nlease arrangements\n \n93 \n \n21 \n \n308 \n \n89 \n \n618 \n \n138 \nProperty and equipment derecognized after the construction period of build-to-suit \nlease arrangements, with the associated leases recognized as operating\n \n492 \n \n— \n \n1,212 \n \n— \n \n3,063 \n \n162",
+    "tables": [
+      [
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "CASH, CASH EQUIVALENTS, AND RESTRICTED CASH, BEGINNING OF\nPERIOD $ 50,067 $ 71,673 $ 54,253 $ 73,890 $ 35,178 $ 50,081",
+          null,
+          null,
+          null
+        ],
+        [
+          "OPERATING ACTIVITIES:",
+          null,
+          null,
+          null
+        ],
+        [
+          "Net income 9,879 15,328 19,801 39,244 20,079 49,868",
+          null,
+          null,
+          null
+        ],
+        [
+          "Adjustments to reconcile net income to net cash from operating activities:",
+          null,
+          null,
+          null
+        ],
+        [
+          "Depreciation and amortization of property and equipment and capitalized\ncontent costs, operating lease assets, and other 12,131 13,442 34,843 37,164 47,528 50,984",
+          null,
+          null,
+          null
+        ],
+        [
+          "Stock-based compensation 5,829 5,333 17,704 17,016 23,310 23,335",
+          null,
+          null,
+          null
+        ],
+        [
+          "Non-operating expense (income), net (990) (141) (409) 2,498 3,036 2,159",
+          null,
+          null,
+          null
+        ],
+        [
+          "Deferred income taxes (1,196) (1,317) (4,412) (3,040) (7,779) (4,504)",
+          null,
+          null,
+          null
+        ],
+        [
+          "Changes in operating assets and liabilities:",
+          null,
+          null,
+          null
+        ],
+        [
+          "Inventories 808 (1,509) (1,194) (2,818) 1,986 (175)",
+          null,
+          null,
+          null
+        ],
+        [
+          "Accounts receivable, net and other (3,584) (701) (901) 774 (5,641) (6,673)",
+          null,
+          null,
+          null
+        ],
+        [
+          "Other assets (3,134) (4,537) (9,463) (10,293) (13,511) (13,095)",
+          null,
+          null,
+          null
+        ],
+        [
+          "Accounts payable 2,820 (477) (5,415) (5,754) 4,437 5,134",
+          null,
+          null,
+          null
+        ],
+        [
+          "Accrued expenses and other (1,321) 129 (9,022) (6,946) (3,245) (352)",
+          null,
+          null,
+          null
+        ],
+        [
+          "Unearned revenue (25) 421 949 2,396 1,454 6,025",
+          null,
+          null,
+          null
+        ],
+        [
+          "Net cash provided by (used in) operating activities 21,217 25,971 42,481 70,241 71,654 112,706",
+          null,
+          null,
+          null
+        ],
+        [
+          "INVESTING ACTIVITIES:",
+          null,
+          null,
+          null
+        ],
+        [
+          "Purchases of property and equipment (12,479) (22,620) (38,141) (55,165) (54,733) (69,753)",
+          null,
+          null,
+          null
+        ],
+        [
+          "Proceeds from property and equipment sales and incentives 1,181 1,342 3,361 3,559 4,513 4,794",
+          null,
+          null,
+          null
+        ],
+        [
+          "Acquisitions, net of cash acquired, non-marketable investments, and other (1,629) (622) (5,458) (4,547) (6,289) (4,928)",
+          null,
+          null,
+          null
+        ],
+        [
+          "Sales and maturities of marketable securities 1,393 8,069 4,059 12,726 9,742 14,294",
+          null,
+          null,
+          null
+        ],
+        [
+          "Purchases of marketable securities (219) (3,068) (1,053) (13,472) (1,286) (13,907)",
+          null,
+          null,
+          null
+        ],
+        [
+          "Net cash provided by (used in) investing activities (11,753) (16,899) (37,232) (56,899) (48,053) (69,500)",
+          null,
+          null,
+          null
+        ],
+        [
+          "FINANCING ACTIVITIES:",
+          null,
+          null,
+          null
+        ],
+        [
+          "Proceeds from short-term debt, and other 216 1,725 17,395 2,588 28,002 3,322",
+          null,
+          null,
+          null
+        ],
+        [
+          "Repayments of short-term debt, and other (8,095) (1,820) (19,339) (2,453) (35,136) (8,791)",
+          null,
+          null,
+          null
+        ],
+        [
+          "Proceeds from long-term debt — — — — 8,235 —",
+          null,
+          null,
+          null
+        ],
+        [
+          "Repayments of long-term debt — (2,183) (3,386) (6,682) (4,643) (6,972)",
+          null,
+          null,
+          null
+        ],
+        [
+          "Principal repayments of finance leases (1,005) (402) (3,605) (1,710) (5,245) (2,489)",
+          null,
+          null,
+          null
+        ],
+        [
+          "Principal repayments of financing obligations (64) (78) (198) (247) (260) (320)",
+          null,
+          null,
+          null
+        ],
+        [
+          "Net cash provided by (used in) financing activities (8,948) (2,758) (9,133) (8,504) (9,047) (15,250)",
+          null,
+          null,
+          null
+        ],
+        [
+          "Foreign currency effect on cash, cash equivalents, and restricted cash (502) 690 (288) (51) 349 640",
+          null,
+          null,
+          null
+        ],
+        [
+          "Net increase (decrease) in cash, cash equivalents, and restricted cash 14 7,004 (4,172) 4,787 14,903 28,596",
+          null,
+          null,
+          null
+        ],
+        [
+          "CASH, CASH EQUIVALENTS, AND RESTRICTED CASH, END OF PERIOD $ 50,081 $ 78,677 $ 50,081 $ 78,677 $ 50,081 $ 78,677",
+          null,
+          null,
+          null
+        ],
+        [
+          "SUPPLEMENTAL CASH FLOW INFORMATION:",
+          null,
+          null,
+          null
+        ],
+        [
+          "Cash paid for interest on debt, net of capitalized interest $ 465 $ 266 $ 1,821 $ 1,215 $ 2,450 $ 2,002",
+          null,
+          null,
+          null
+        ],
+        [
+          "Cash paid for operating leases 2,692 2,940 7,687 9,116 10,052 11,882",
+          null,
+          null,
+          null
+        ],
+        [
+          "Cash paid for interest on finance leases 76 71 234 217 318 291",
+          null,
+          null,
+          null
+        ],
+        [
+          "Cash paid for interest on financing obligations 50 47 150 161 205 207",
+          null,
+          null,
+          null
+        ],
+        [
+          "Cash paid for income taxes, net of refunds 2,628 2,004 6,982 8,162 8,677 12,359",
+          null,
+          null,
+          null
+        ],
+        [
+          "Assets acquired under operating leases 3,345 3,571 11,075 11,235 15,844 14,212",
+          null,
+          null,
+          null
+        ],
+        [
+          "Property and equipment acquired under finance leases, net of remeasurements and\nmodifications 183 186 431 409 748 620",
+          null,
+          null,
+          null
+        ],
+        [
+          "Property and equipment recognized during the construction period of build-to-suit\nlease arrangements 93 21 308 89 618 138",
+          null,
+          null,
+          null
+        ],
+        [
+          "Property and equipment derecognized after the construction period of build-to-suit\nlease arrangements, with the associated leases recognized as operating 492 — 1,212 — 3,063 162",
+          null,
+          null,
+          null
+        ]
+      ]
+    ],
+    "image": "D:\\POC\\Multimodal-Market-Intelligence-System\\data\\ER_Test2\\AMZN-Q3-2024-Earnings-Release\\Amazon_2024_Q3_p4.png",
+    "ai_extracted": {
+      "financial_data": {
+        "reconciliation_table": {
+          "description": "Consolidated Statements of Cash Flows",
+          "unit": "millions",
+          "currency": "$",
+          "audited": false,
+          "headers": [
+            "Three Months Ended September 30,",
+            "Nine Months Ended September 30,",
+            "Twelve Months Ended September 30,"
+          ],
+          "sub_headers": [
+            "2023",
+            "2024",
+            "2023",
+            "2024",
+            "2023",
+            "2024"
+          ],
+          "rows": [
+            {
+              "label": "CASH, CASH EQUIVALENTS, AND RESTRICTED CASH, BEGINNING OF \nPERIOD",
+              "2023_Q3": "50,067",
+              "2024_Q3": "71,673",
+              "2023_9M": "54,253",
+              "2024_9M": "73,890",
+              "2023_12M": "35,178",
+              "2024_12M": "50,081"
+            },
+            {
+              "label": "OPERATING ACTIVITIES:\nNet income",
+              "2023_Q3": "9,879",
+              "2024_Q3": "15,328",
+              "2023_9M": "19,801",
+              "2024_9M": "39,244",
+              "2023_12M": "20,079",
+              "2024_12M": "49,868"
+            },
+            {
+              "label": "Adjustments to reconcile net income to net cash from operating activities:\nDepreciation and amortization of property and equipment and capitalized \ncontent costs, operating lease assets, and other",
+              "2023_Q3": "12,131",
+              "2024_Q3": "13,442",
+              "2023_9M": "34,843",
+              "2024_9M": "37,164",
+              "2023_12M": "47,528",
+              "2024_12M": "50,984"
+            },
+            {
+              "label": "Stock-based compensation",
+              "2023_Q3": "5,829",
+              "2024_Q3": "5,333",
+              "2023_9M": "17,704",
+              "2024_9M": "17,016",
+              "2023_12M": "23,310",
+              "2024_12M": "23,335"
+            },
+            {
+              "label": "Non-operating expense (income), net",
+              "2023_Q3": "(990)",
+              "2024_Q3": "(141)",
+              "2023_9M": "(409)",
+              "2024_9M": "2,498",
+              "2023_12M": "3,036",
+              "2024_12M": "2,159"
+            },
+            {
+              "label": "Deferred income taxes",
+              "2023_Q3": "(1,196)",
+              "2024_Q3": "(1,317)",
+              "2023_9M": "(4,412)",
+              "2024_9M": "(3,040)",
+              "2023_12M": "(7,779)",
+              "2024_12M": "(4,504)"
+            },
+            {
+              "label": "Changes in operating assets and liabilities:\nInventories",
+              "2023_Q3": "808",
+              "2024_Q3": "(1,509)",
+              "2023_9M": "(1,194)",
+              "2024_9M": "(2,818)",
+              "2023_12M": "1,986",
+              "2024_12M": "(175)"
+            },
+            {
+              "label": "Accounts receivable, net and other",
+              "2023_Q3": "(3,584)",
+              "2024_Q3": "(701)",
+              "2023_9M": "(901)",
+              "2024_9M": "774",
+              "2023_12M": "(5,641)",
+              "2024_12M": "(6,673)"
+            },
+            {
+              "label": "Other assets",
+              "2023_Q3": "(3,134)",
+              "2024_Q3": "(4,537)",
+              "2023_9M": "(9,463)",
+              "2024_9M": "(10,293)",
+              "2023_12M": "(13,511)",
+              "2024_12M": "(13,095)"
+            },
+            {
+              "label": "Accounts payable",
+              "2023_Q3": "2,820",
+              "2024_Q3": "(477)",
+              "2023_9M": "(5,415)",
+              "2024_9M": "(5,754)",
+              "2023_12M": "4,437",
+              "2024_12M": "5,134"
+            },
+            {
+              "label": "Accrued expenses and other",
+              "2023_Q3": "(1,321)",
+              "2024_Q3": "129",
+              "2023_9M": "(9,022)",
+              "2024_9M": "(6,946)",
+              "2023_12M": "(3,245)",
+              "2024_12M": "(352)"
+            },
+            {
+              "label": "Unearned revenue",
+              "2023_Q3": "(25)",
+              "2024_Q3": "421",
+              "2023_9M": "949",
+              "2024_9M": "2,396",
+              "2023_12M": "1,454",
+              "2024_12M": "6,025"
+            },
+            {
+              "label": "Net cash provided by (used in) operating activities",
+              "2023_Q3": "21,217",
+              "2024_Q3": "25,971",
+              "2023_9M": "42,481",
+              "2024_9M": "70,241",
+              "2023_12M": "71,654",
+              "2024_12M": "112,706"
+            },
+            {
+              "label": "INVESTING ACTIVITIES:\nPurchases of property and equipment",
+              "2023_Q3": "(12,479)",
+              "2024_Q3": "(22,620)",
+              "2023_9M": "(38,141)",
+              "2024_9M": "(55,165)",
+              "2023_12M": "(54,733)",
+              "2024_12M": "(69,753)"
+            },
+            {
+              "label": "Proceeds from property and equipment sales and incentives",
+              "2023_Q3": "1,181",
+              "2024_Q3": "1,342",
+              "2023_9M": "3,361",
+              "2024_9M": "3,559",
+              "2023_12M": "4,513",
+              "2024_12M": "4,794"
+            },
+            {
+              "label": "Acquisitions, net of cash acquired, non-marketable investments, and other",
+              "2023_Q3": "(1,629)",
+              "2024_Q3": "(622)",
+              "2023_9M": "(5,458)",
+              "2024_9M": "(4,547)",
+              "2023_12M": "(6,289)",
+              "2024_12M": "(4,928)"
+            },
+            {
+              "label": "Sales and maturities of marketable securities",
+              "2023_Q3": "1,393",
+              "2024_Q3": "8,069",
+              "2023_9M": "4,059",
+              "2024_9M": "12,726",
+              "2023_12M": "9,742",
+              "2024_12M": "14,294"
+            },
+            {
+              "label": "Purchases of marketable securities",
+              "2023_Q3": "(219)",
+              "2024_Q3": "(3,068)",
+              "2023_9M": "(1,053)",
+              "2024_9M": "(13,472)",
+              "2023_12M": "(1,286)",
+              "2024_12M": "(13,907)"
+            },
+            {
+              "label": "Net cash provided by (used in) investing activities",
+              "2023_Q3": "(11,753)",
+              "2024_Q3": "(16,899)",
+              "2023_9M": "(37,232)",
+              "2024_9M": "(56,899)",
+              "2023_12M": "(48,053)",
+              "2024_12M": "(69,500)"
+            },
+            {
+              "label": "FINANCING ACTIVITIES:\nProceeds from short-term debt, and other",
+              "2023_Q3": "216",
+              "2024_Q3": "1,725",
+              "2023_9M": "17,395",
+              "2024_9M": "2,588",
+              "2023_12M": "28,002",
+              "2024_12M": "3,322"
+            },
+            {
+              "label": "Repayments of short-term debt, and other",
+              "2023_Q3": "(8,095)",
+              "2024_Q3": "(1,820)",
+              "2023_9M": "(19,339)",
+              "2024_9M": "(2,453)",
+              "2023_12M": "(35,136)",
+              "2024_12M": "(8,791)"
+            },
+            {
+              "label": "Proceeds from long-term debt",
+              "2023_Q3": "—",
+              "2024_Q3": "—",
+              "2023_9M": "—",
+              "2024_9M": "—",
+              "2023_12M": "8,235",
+              "2024_12M": "—"
+            },
+            {
+              "label": "Repayments of long-term debt",
+              "2023_Q3": "—",
+              "2024_Q3": "(2,183)",
+              "2023_9M": "(3,386)",
+              "2024_9M": "(6,682)",
+              "2023_12M": "(4,643)",
+              "2024_12M": "(6,972)"
+            },
+            {
+              "label": "Principal repayments of finance leases",
+              "2023_Q3": "(1,005)",
+              "2024_Q3": "(402)",
+              "2023_9M": "(3,605)",
+              "2024_9M": "(1,710)",
+              "2023_12M": "(5,245)",
+              "2024_12M": "(2,489)"
+            },
+            {
+              "label": "Principal repayments of financing obligations",
+              "2023_Q3": "(64)",
+              "2024_Q3": "(78)",
+              "2023_9M": "(198)",
+              "2024_9M": "(247)",
+              "2023_12M": "(260)",
+              "2024_12M": "(320)"
+            },
+            {
+              "label": "Net cash provided by (used in) financing activities",
+              "2023_Q3": "(8,948)",
+              "2024_Q3": "(2,758)",
+              "2023_9M": "(9,133)",
+              "2024_9M": "(8,504)",
+              "2023_12M": "(9,047)",
+              "2024_12M": "(15,250)"
+            },
+            {
+              "label": "Foreign currency effect on cash, cash equivalents, and restricted cash",
+              "2023_Q3": "(502)",
+              "2024_Q3": "690",
+              "2023_9M": "(288)",
+              "2024_9M": "(51)",
+              "2023_12M": "349",
+              "2024_12M": "640"
+            },
+            {
+              "label": "Net increase (decrease) in cash, cash equivalents, and restricted cash",
+              "2023_Q3": "14",
+              "2024_Q3": "7,004",
+              "2023_9M": "(4,172)",
+              "2024_9M": "4,787",
+              "2023_12M": "14,903",
+              "2024_12M": "28,596"
+            },
+            {
+              "label": "CASH, CASH EQUIVALENTS, AND RESTRICTED CASH, END OF PERIOD",
+              "2023_Q3": "50,081",
+              "2024_Q3": "78,677",
+              "2023_9M": "50,081",
+              "2024_9M": "78,677",
+              "2023_12M": "50,081",
+              "2024_12M": "78,677"
+            },
+            {
+              "label": "SUPPLEMENTAL CASH FLOW INFORMATION:\nCash paid for interest on debt, net of capitalized interest",
+              "2023_Q3": "465",
+              "2024_Q3": "266",
+              "2023_9M": "1,821",
+              "2024_9M": "1,215",
+              "2023_12M": "2,450",
+              "2024_12M": "2,002"
+            },
+            {
+              "label": "Cash paid for operating leases",
+              "2023_Q3": "2,692",
+              "2024_Q3": "2,940",
+              "2023_9M": "7,687",
+              "2024_9M": "9,116",
+              "2023_12M": "10,052",
+              "2024_12M": "11,882"
+            },
+            {
+              "label": "Cash paid for interest on finance leases",
+              "2023_Q3": "76",
+              "2024_Q3": "71",
+              "2023_9M": "234",
+              "2024_9M": "217",
+              "2023_12M": "318",
+              "2024_12M": "291"
+            },
+            {
+              "label": "Cash paid for interest on financing obligations",
+              "2023_Q3": "50",
+              "2024_Q3": "47",
+              "2023_9M": "150",
+              "2024_9M": "161",
+              "2023_12M": "205",
+              "2024_12M": "207"
+            },
+            {
+              "label": "Cash paid for income taxes, net of refunds",
+              "2023_Q3": "2,628",
+              "2024_Q3": "2,004",
+              "2023_9M": "6,982",
+              "2024_9M": "8,162",
+              "2023_12M": "8,677",
+              "2024_12M": "12,359"
+            },
+            {
+              "label": "Assets acquired under operating leases",
+              "2023_Q3": "3,345",
+              "2024_Q3": "3,571",
+              "2023_9M": "11,075",
+              "2024_9M": "11,235",
+              "2023_12M": "15,844",
+              "2024_12M": "14,212"
+            },
+            {
+              "label": "Property and equipment acquired under finance leases, net of remeasurements and \nmodifications",
+              "2023_Q3": "183",
+              "2024_Q3": "186",
+              "2023_9M": "431",
+              "2024_9M": "409",
+              "2023_12M": "748",
+              "2024_12M": "620"
+            },
+            {
+              "label": "Property and equipment recognized during the construction period of build-to-suit \nlease arrangements",
+              "2023_Q3": "93",
+              "2024_Q3": "21",
+              "2023_9M": "308",
+              "2024_9M": "89",
+              "2023_12M": "618",
+              "2024_12M": "138"
+            },
+            {
+              "label": "Property and equipment derecognized after the construction period of build-to-suit \nlease arrangements, with the associated leases recognized as operating",
+              "2023_Q3": "492",
+              "2024_Q3": "—",
+              "2023_9M": "1,212",
+              "2024_9M": "—",
+              "2023_12M": "3,063",
+              "2024_12M": "162"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "page": 5,
+    "company": "Amazon",
+    "year": "2024",
+    "quarter": "Q3",
+    "text": "AMAZON.COM, INC.\nConsolidated Statements of Operations\n(in millions, except per share data)\n(unaudited)\n  \nThree Months Ended\nSeptember 30,\nNine Months Ended\nSeptember 30,\n2023\n2024\n2023\n2024\nNet product sales\n$ \n63,171 $ \n67,601 $ \n179,184 $ \n190,085 \nNet service sales\n \n79,912  \n91,276  \n225,640  \n260,082 \nTotal net sales\n \n143,083  \n158,877  \n404,824  \n450,167 \nOperating expenses:\nCost of sales\n \n75,022  \n80,977  \n212,186  \n227,395 \nFulfillment\n \n22,314  \n24,660  \n64,524  \n70,543 \nTechnology and infrastructure\n \n21,203  \n22,245  \n63,584  \n64,973 \nSales and marketing\n \n10,551  \n10,609  \n31,468  \n30,783 \nGeneral and administrative\n \n2,561  \n2,713  \n8,806  \n8,496 \nOther operating expense (income), net\n \n244  \n262  \n613  \n587 \nTotal operating expenses\n \n131,895  \n141,466  \n381,181  \n402,777 \nOperating income\n \n11,188  \n17,411  \n23,643  \n47,390 \nInterest income\n \n776  \n1,256  \n2,048  \n3,429 \nInterest expense\n \n(806)  \n(603)  \n(2,469)  \n(1,836) \nOther income (expense), net\n \n1,031  \n(27)  \n649  \n(2,718) \nTotal non-operating income (expense)\n \n1,001  \n626  \n228  \n(1,125) \nIncome before income taxes\n \n12,189  \n18,037  \n23,871  \n46,265 \nProvision for income taxes\n \n(2,306)  \n(2,706)  \n(4,058)  \n(6,940) \nEquity-method investment activity, net of tax\n \n(4)  \n(3)  \n(12)  \n(81) \nNet income\n$ \n9,879 $ \n15,328 $ \n19,801 $ \n39,244 \nBasic earnings per share\n$ \n0.96 $ \n1.46 $ \n1.93 $ \n3.76 \nDiluted earnings per share\n$ \n0.94 $ \n1.43 $ \n1.89 $ \n3.67 \nWeighted-average shares used in computation of earnings per \nshare:\nBasic\n \n10,322  \n10,501  \n10,286  \n10,447 \nDiluted\n \n10,558  \n10,735  \n10,452  \n10,705",
+    "tables": [
+      [
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "Net product sales $ 63,171 $ 67,601 $ 179,184 $ 190,085",
+          null,
+          null
+        ],
+        [
+          "Net service sales 79,912 91,276 225,640 260,082",
+          null,
+          null
+        ],
+        [
+          "Total net sales 143,083 158,877 404,824 450,167",
+          null,
+          null
+        ],
+        [
+          "Operating expenses:",
+          null,
+          null
+        ],
+        [
+          "Cost of sales 75,022 80,977 212,186 227,395",
+          null,
+          null
+        ],
+        [
+          "Fulfillment 22,314 24,660 64,524 70,543",
+          null,
+          null
+        ],
+        [
+          "Technology and infrastructure 21,203 22,245 63,584 64,973",
+          null,
+          null
+        ],
+        [
+          "Sales and marketing 10,551 10,609 31,468 30,783",
+          null,
+          null
+        ],
+        [
+          "General and administrative 2,561 2,713 8,806 8,496",
+          null,
+          null
+        ],
+        [
+          "Other operating expense (income), net 244 262 613 587",
+          null,
+          null
+        ],
+        [
+          "Total operating expenses 131,895 141,466 381,181 402,777",
+          null,
+          null
+        ],
+        [
+          "Operating income 11,188 17,411 23,643 47,390",
+          null,
+          null
+        ],
+        [
+          "Interest income 776 1,256 2,048 3,429",
+          null,
+          null
+        ],
+        [
+          "Interest expense (806) (603) (2,469) (1,836)",
+          null,
+          null
+        ],
+        [
+          "Other income (expense), net 1,031 (27) 649 (2,718)",
+          null,
+          null
+        ],
+        [
+          "Total non-operating income (expense) 1,001 626 228 (1,125)",
+          null,
+          null
+        ],
+        [
+          "Income before income taxes 12,189 18,037 23,871 46,265",
+          null,
+          null
+        ],
+        [
+          "Provision for income taxes (2,306) (2,706) (4,058) (6,940)",
+          null,
+          null
+        ],
+        [
+          "Equity-method investment activity, net of tax (4) (3) (12) (81)",
+          null,
+          null
+        ],
+        [
+          "Net income $ 9,879 $ 15,328 $ 19,801 $ 39,244",
+          null,
+          null
+        ],
+        [
+          "Basic earnings per share $ 0.96 $ 1.46 $ 1.93 $ 3.76",
+          null,
+          null
+        ],
+        [
+          "Diluted earnings per share $ 0.94 $ 1.43 $ 1.89 $ 3.67",
+          null,
+          null
+        ],
+        [
+          "Weighted-average shares used in computation of earnings per\nshare:",
+          null,
+          null
+        ],
+        [
+          "Basic 10,322 10,501 10,286 10,447",
+          null,
+          null
+        ],
+        [
+          "Diluted 10,558 10,735 10,452 10,705",
+          null,
+          null
+        ]
+      ]
+    ],
+    "image": "D:\\POC\\Multimodal-Market-Intelligence-System\\data\\ER_Test2\\AMZN-Q3-2024-Earnings-Release\\Amazon_2024_Q3_p5.png",
+    "ai_extracted": {
+      "financial_statements": {
+        "Consolidated Statements of Operations": {
+          "description": "AMAZON.COM, INC. Consolidated Statements of Operations (in millions, except per share data) (unaudited)",
+          "time_periods": [
+            {
+              "period": "Three Months Ended September 30, 2023",
+              "net_product_sales": "$63,171",
+              "net_service_sales": "$79,912",
+              "total_net_sales": "$143,083",
+              "cost_of_sales": "$75,022",
+              "fulfillment": "$22,314",
+              "technology_and_infrastructure": "$21,203",
+              "sales_and_marketing": "$10,551",
+              "general_and_administrative": "$2,561",
+              "other_operating_expense_income_net": "$244",
+              "total_operating_expenses": "$131,895",
+              "operating_income": "$11,188",
+              "interest_income": "$776",
+              "interest_expense": "(806)",
+              "other_income_expense_net": "$1,031",
+              "total_non_operating_income_expense": "$1,001",
+              "income_before_income_taxes": "$12,189",
+              "provision_for_income_taxes": "(2,306)",
+              "equity_method_investment_activity_net_of_tax": "(4)",
+              "net_income": "$9,879",
+              "basic_earnings_per_share": "$0.96",
+              "diluted_earnings_per_share": "$0.94",
+              "weighted_average_shares_basic": "10,322",
+              "weighted_average_shares_diluted": "10,558"
+            },
+            {
+              "period": "Three Months Ended September 30, 2024",
+              "net_product_sales": "$67,601",
+              "net_service_sales": "$91,276",
+              "total_net_sales": "$158,877",
+              "cost_of_sales": "$80,977",
+              "fulfillment": "$24,660",
+              "technology_and_infrastructure": "$22,245",
+              "sales_and_marketing": "$10,609",
+              "general_and_administrative": "$2,713",
+              "other_operating_expense_income_net": "$262",
+              "total_operating_expenses": "$141,466",
+              "operating_income": "$17,411",
+              "interest_income": "$1,256",
+              "interest_expense": "(603)",
+              "other_income_expense_net": "(27)",
+              "total_non_operating_income_expense": "$626",
+              "income_before_income_taxes": "$18,037",
+              "provision_for_income_taxes": "(2,706)",
+              "equity_method_investment_activity_net_of_tax": "(3)",
+              "net_income": "$15,328",
+              "basic_earnings_per_share": "$1.46",
+              "diluted_earnings_per_share": "$1.43",
+              "weighted_average_shares_basic": "10,501",
+              "weighted_average_shares_diluted": "10,735"
+            },
+            {
+              "period": "Nine Months Ended September 30, 2023",
+              "net_product_sales": "$179,184",
+              "net_service_sales": "$225,640",
+              "total_net_sales": "$404,824",
+              "cost_of_sales": "$212,186",
+              "fulfillment": "$64,524",
+              "technology_and_infrastructure": "$63,584",
+              "sales_and_marketing": "$31,468",
+              "general_and_administrative": "$8,806",
+              "other_operating_expense_income_net": "$613",
+              "total_operating_expenses": "$381,181",
+              "operating_income": "$23,643",
+              "interest_income": "$2,048",
+              "interest_expense": "(2,469)",
+              "other_income_expense_net": "$649",
+              "total_non_operating_income_expense": "$228",
+              "income_before_income_taxes": "$23,871",
+              "provision_for_income_taxes": "(4,058)",
+              "equity_method_investment_activity_net_of_tax": "(12)",
+              "net_income": "$19,801",
+              "basic_earnings_per_share": "$1.93",
+              "diluted_earnings_per_share": "$1.89",
+              "weighted_average_shares_basic": "10,286",
+              "weighted_average_shares_diluted": "10,452"
+            },
+            {
+              "period": "Nine Months Ended September 30, 2024",
+              "net_product_sales": "$190,085",
+              "net_service_sales": "$260,082",
+              "total_net_sales": "$450,167",
+              "cost_of_sales": "$227,395",
+              "fulfillment": "$70,543",
+              "technology_and_infrastructure": "$64,973",
+              "sales_and_marketing": "$30,783",
+              "general_and_administrative": "$8,496",
+              "other_operating_expense_income_net": "$587",
+              "total_operating_expenses": "$402,777",
+              "operating_income": "$47,390",
+              "interest_income": "$3,429",
+              "interest_expense": "(1,836)",
+              "other_income_expense_net": "(2,718)",
+              "total_non_operating_income_expense": "(1,125)",
+              "income_before_income_taxes": "$46,265",
+              "provision_for_income_taxes": "(6,940)",
+              "equity_method_investment_activity_net_of_tax": "(81)",
+              "net_income": "$39,244",
+              "basic_earnings_per_share": "$3.76",
+              "diluted_earnings_per_share": "$3.67",
+              "weighted_average_shares_basic": "10,447",
+              "weighted_average_shares_diluted": "10,705"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "page": 6,
+    "company": "Amazon",
+    "year": "2024",
+    "quarter": "Q3",
+    "text": "AMAZON.COM, INC.\nConsolidated Statements of Comprehensive Income\n(in millions)\n(unaudited)\n  \nThree Months Ended\nSeptember 30,\nNine Months Ended\nSeptember 30,\n \n2023\n2024\n2023\n2024\nNet income\n$ \n9,879 $ \n15,328 $ \n19,801 $ \n39,244 \nOther comprehensive income (loss):\nForeign currency translation adjustments, net of tax of $36, \n$(45), $4, and $43\n \n(1,388)  \n1,911  \n(738)  \n178 \nAvailable-for-sale debt securities:\nChange in net unrealized gains (losses), net of tax of \n$(18), $(55), $(52), and $(282)\n \n62  \n167  \n174  \n944 \nLess: reclassification adjustment for losses (gains) \nincluded in “Other income (expense), net,” net of tax \nof $0, $0, $(15), and $(1)\n \n3  \n—  \n48  \n4 \nNet change\n \n65  \n167  \n222  \n948 \nOther, net of tax of $0, $3, $0, and $1\n \n—  \n(3)  \n—  \n(4) \nTotal other comprehensive income (loss)\n \n(1,323)  \n2,075  \n(516)  \n1,122 \nComprehensive income\n$ \n8,556 $ \n17,403 $ \n19,285 $ \n40,366",
+    "tables": [
+      [
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "Net income $ 9,879 $ 15,328 $ 19,801 $ 39,244",
+          null,
+          null
+        ],
+        [
+          "Other comprehensive income (loss):",
+          null,
+          null
+        ],
+        [
+          "Foreign currency translation adjustments, net of tax of $36,\n$(45), $4, and $43 (1,388) 1,911 (738) 178",
+          null,
+          null
+        ],
+        [
+          "Available-for-sale debt securities:",
+          null,
+          null
+        ],
+        [
+          "Change in net unrealized gains (losses), net of tax of\n$(18), $(55), $(52), and $(282) 62 167 174 944",
+          null,
+          null
+        ],
+        [
+          "Less: reclassification adjustment for losses (gains)\nincluded in “Other income (expense), net,” net of tax\nof $0, $0, $(15), and $(1) 3 — 48 4",
+          null,
+          null
+        ],
+        [
+          "Net change 65 167 222 948",
+          null,
+          null
+        ],
+        [
+          "Other, net of tax of $0, $3, $0, and $1 — (3) — (4)",
+          null,
+          null
+        ],
+        [
+          "Total other comprehensive income (loss) (1,323) 2,075 (516) 1,122",
+          null,
+          null
+        ],
+        [
+          "Comprehensive income $ 8,556 $ 17,403 $ 19,285 $ 40,366",
+          null,
+          null
+        ]
+      ]
+    ],
+    "image": "D:\\POC\\Multimodal-Market-Intelligence-System\\data\\ER_Test2\\AMZN-Q3-2024-Earnings-Release\\Amazon_2024_Q3_p6.png",
+    "ai_extracted": {
+      "financial_data": {
+        "statements": [
+          {
+            "title": "Consolidated Statements of Comprehensive Income",
+            "unit": "millions",
+            "audited": false,
+            "time_periods": [
+              "Three Months Ended September 30",
+              "Nine Months Ended September 30"
+            ],
+            "years": [
+              "2023",
+              "2024"
+            ],
+            "metrics": [
+              {
+                "name": "Net income",
+                "values": [
+                  "$9,879",
+                  "$15,328",
+                  "$19,801",
+                  "$39,244"
+                ]
+              },
+              {
+                "name": "Foreign currency translation adjustments, net of tax of $36, $(45), $4, and $43",
+                "values": [
+                  "(1,388)",
+                  "1,911",
+                  "(738)",
+                  "178"
+                ]
+              },
+              {
+                "name": "Available-for-sale debt securities:\nChange in net unrealized gains (losses), net of tax of $(18), $(55), $(52), and $(282)",
+                "values": [
+                  "62",
+                  "167",
+                  "174",
+                  "944"
+                ]
+              },
+              {
+                "name": "Less: reclassification adjustment for losses (gains) included in “Other income (expense), net,” net of tax of $0, $0, $(15), and $(1)",
+                "values": [
+                  "3",
+                  "—",
+                  "48",
+                  "4"
+                ]
+              },
+              {
+                "name": "Net change",
+                "values": [
+                  "65",
+                  "167",
+                  "222",
+                  "948"
+                ]
+              },
+              {
+                "name": "Other, net of tax of $0, $3, $0, and $1",
+                "values": [
+                  "—",
+                  "(3)",
+                  "—",
+                  "(4)"
+                ]
+              },
+              {
+                "name": "Total other comprehensive income (loss)",
+                "values": [
+                  "(1,323)",
+                  "2,075",
+                  "(516)",
+                  "1,122"
+                ]
+              },
+              {
+                "name": "Comprehensive income",
+                "values": [
+                  "$8,556",
+                  "$17,403",
+                  "$19,285",
+                  "$40,366"
+                ]
+              }
+            ],
+            "table": {
+              "headers": [
+                " ",
+                "Three Months Ended September 30,",
+                "Nine Months Ended September 30,"
+              ],
+              "sub_headers": [
+                "",
+                "2023",
+                "2024",
+                "2023",
+                "2024"
+              ],
+              "rows": [
+                {
+                  "row_name": "Net income",
+                  "2023_Q3": "$9,879",
+                  "2024_Q3": "$15,328",
+                  "2023_9M": "$19,801",
+                  "2024_9M": "$39,244"
+                },
+                {
+                  "row_name": "Other comprehensive income (loss):\nForeign currency translation adjustments, net of tax of $36, $(45), $4, and $43",
+                  "2023_Q3": "(1,388)",
+                  "2024_Q3": "1,911",
+                  "2023_9M": "(738)",
+                  "2024_9M": "178"
+                },
+                {
+                  "row_name": "Available-for-sale debt securities:\nChange in net unrealized gains (losses), net of tax of $(18), $(55), $(52), and $(282)",
+                  "2023_Q3": "62",
+                  "2024_Q3": "167",
+                  "2023_9M": "174",
+                  "2024_9M": "944"
+                },
+                {
+                  "row_name": "Less: reclassification adjustment for losses (gains) included in “Other income (expense), net,” net of tax of $0, $0, $(15), and $(1)",
+                  "2023_Q3": "3",
+                  "2024_Q3": "—",
+                  "2023_9M": "48",
+                  "2024_9M": "4"
+                },
+                {
+                  "row_name": "Net change",
+                  "2023_Q3": "65",
+                  "2024_Q3": "167",
+                  "2023_9M": "222",
+                  "2024_9M": "948"
+                },
+                {
+                  "row_name": "Other, net of tax of $0, $3, $0, and $1",
+                  "2023_Q3": "—",
+                  "2024_Q3": "(3)",
+                  "2023_9M": "—",
+                  "2024_9M": "(4)"
+                },
+                {
+                  "row_name": "Total other comprehensive income (loss)",
+                  "2023_Q3": "(1,323)",
+                  "2024_Q3": "2,075",
+                  "2023_9M": "(516)",
+                  "2024_9M": "1,122"
+                },
+                {
+                  "row_name": "Comprehensive income",
+                  "2023_Q3": "$8,556",
+                  "2024_Q3": "$17,403",
+                  "2023_9M": "$19,285",
+                  "2024_9M": "$40,366"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "page": 7,
+    "company": "Amazon",
+    "year": "2024",
+    "quarter": "Q3",
+    "text": "AMAZON.COM, INC.\nSegment Information\n(in millions)\n(unaudited) \n  \nThree Months Ended\nSeptember 30,\nNine Months Ended\nSeptember 30,\n2023\n2024\n2023\n2024\nNorth America\nNet sales\n$ \n87,887 \n$ \n95,537 \n$ 247,314 \n$ 271,911 \nOperating expenses\n \n83,580 \n \n89,874 \n \n238,898 \n \n256,200 \nOperating income\n$ \n4,307 \n$ \n5,663 \n$ \n8,416 \n$ \n15,711 \nInternational\nNet sales\n$ \n32,137 \n$ \n35,888 \n$ \n90,957 \n$ \n99,486 \nOperating expenses\n \n32,232 \n \n34,587 \n \n93,194 \n \n97,009 \nOperating income (loss)\n$ \n(95) \n$ \n1,301 \n$ \n(2,237) \n$ \n2,477 \nAWS\nNet sales\n$ \n23,059 \n$ \n27,452 \n$ \n66,553 \n$ \n78,770 \nOperating expenses\n \n16,083 \n \n17,005 \n \n49,089 \n \n49,568 \nOperating income\n$ \n6,976 \n$ \n10,447 \n$ \n17,464 \n$ \n29,202 \nConsolidated\nNet sales\n$ 143,083 \n$ 158,877 \n$ 404,824 \n$ 450,167 \nOperating expenses\n \n131,895 \n \n141,466 \n \n381,181 \n \n402,777 \nOperating income\n \n11,188 \n \n17,411 \n \n23,643 \n \n47,390 \nTotal non-operating income (expense)\n \n1,001 \n \n626 \n \n228 \n \n(1,125) \nProvision for income taxes\n \n(2,306) \n \n(2,706) \n \n(4,058) \n \n(6,940) \nEquity-method investment activity, net of tax\n \n(4) \n \n(3) \n \n(12) \n \n(81) \nNet income\n$ \n9,879 \n$ \n15,328 \n$ \n19,801 \n$ \n39,244 \nSegment Highlights:\nY/Y net sales growth:\nNorth America\n 11 %\n 9 %\n 11 %\n 10 %\nInternational\n 16 \n 12 \n 9 \n 9 \nAWS\n 12 \n 19 \n 13 \n 18 \nConsolidated\n 13 \n 11 \n 11 \n 11 \nNet sales mix:\nNorth America\n 61 %\n 60 %\n 61 %\n 60 %\nInternational\n 23 \n 23 \n 23 \n 22 \nAWS\n 16 \n 17 \n 16 \n 18 \nConsolidated\n 100 %\n 100 %\n 100 %\n 100 %",
+    "tables": [
+      [
+        [
+          "North America"
+        ],
+        [
+          "Net sales $ 87,887 $ 95,537 $ 247,314 $ 271,911"
+        ],
+        [
+          "Operating expenses 83,580 89,874 238,898 256,200"
+        ],
+        [
+          "Operating income $ 4,307 $ 5,663 $ 8,416 $ 15,711"
+        ],
+        [
+          ""
+        ],
+        [
+          "International"
+        ],
+        [
+          "Net sales $ 32,137 $ 35,888 $ 90,957 $ 99,486"
+        ],
+        [
+          "Operating expenses 32,232 34,587 93,194 97,009"
+        ],
+        [
+          "Operating income (loss) $ (95) $ 1,301 $ (2,237) $ 2,477"
+        ],
+        [
+          ""
+        ],
+        [
+          "AWS"
+        ],
+        [
+          "Net sales $ 23,059 $ 27,452 $ 66,553 $ 78,770"
+        ],
+        [
+          "Operating expenses 16,083 17,005 49,089 49,568"
+        ],
+        [
+          "Operating income $ 6,976 $ 10,447 $ 17,464 $ 29,202"
+        ],
+        [
+          ""
+        ],
+        [
+          "Consolidated"
+        ],
+        [
+          "Net sales $ 143,083 $ 158,877 $ 404,824 $ 450,167"
+        ],
+        [
+          "Operating expenses 131,895 141,466 381,181 402,777"
+        ],
+        [
+          "Operating income 11,188 17,411 23,643 47,390"
+        ],
+        [
+          "Total non-operating income (expense) 1,001 626 228 (1,125)"
+        ],
+        [
+          "Provision for income taxes (2,306) (2,706) (4,058) (6,940)"
+        ],
+        [
+          "Equity-method investment activity, net of tax (4) (3) (12) (81)"
+        ],
+        [
+          "Net income $ 9,879 $ 15,328 $ 19,801 $ 39,244"
+        ],
+        [
+          ""
+        ],
+        [
+          "Segment Highlights:"
+        ],
+        [
+          "Y/Y net sales growth:"
+        ],
+        [
+          "North America 11 % 9 % 11 % 10 %"
+        ],
+        [
+          "International 16 12 9 9"
+        ],
+        [
+          "AWS 12 19 13 18"
+        ],
+        [
+          "Consolidated 13 11 11 11"
+        ],
+        [
+          "Net sales mix:"
+        ],
+        [
+          "North America 61 % 60 % 61 % 60 %"
+        ],
+        [
+          "International 23 23 23 22"
+        ],
+        [
+          "AWS 16 17 16 18"
+        ],
+        [
+          "Consolidated 100 % 100 % 100 % 100 %"
+        ]
+      ]
+    ],
+    "image": "D:\\POC\\Multimodal-Market-Intelligence-System\\data\\ER_Test2\\AMZN-Q3-2024-Earnings-Release\\Amazon_2024_Q3_p7.png",
+    "ai_extracted": {
+      "financial_data": {
+        "segments": [
+          {
+            "name": "North America",
+            "net_sales": {
+              "Q3_2023": "$ 87,887",
+              "Q3_2024": "$ 95,537",
+              "9M_2023": "$ 247,314",
+              "9M_2024": "$ 271,911"
+            },
+            "operating_expenses": {
+              "Q3_2023": "83,580",
+              "Q3_2024": "89,874",
+              "9M_2023": "238,898",
+              "9M_2024": "256,200"
+            },
+            "operating_income": {
+              "Q3_2023": "$ 4,307",
+              "Q3_2024": "$ 5,663",
+              "9M_2023": "$ 8,416",
+              "9M_2024": "$ 15,711"
+            }
+          },
+          {
+            "name": "International",
+            "net_sales": {
+              "Q3_2023": "$ 32,137",
+              "Q3_2024": "$ 35,888",
+              "9M_2023": "$ 90,957",
+              "9M_2024": "$ 99,486"
+            },
+            "operating_expenses": {
+              "Q3_2023": "32,232",
+              "Q3_2024": "34,587",
+              "9M_2023": "93,194",
+              "9M_2024": "97,009"
+            },
+            "operating_income_loss": {
+              "Q3_2023": "$ (95)",
+              "Q3_2024": "$ 1,301",
+              "9M_2023": "$ (2,237)",
+              "9M_2024": "$ 2,477"
+            }
+          },
+          {
+            "name": "AWS",
+            "net_sales": {
+              "Q3_2023": "$ 23,059",
+              "Q3_2024": "$ 27,452",
+              "9M_2023": "$ 66,553",
+              "9M_2024": "$ 78,770"
+            },
+            "operating_expenses": {
+              "Q3_2023": "16,083",
+              "Q3_2024": "17,005",
+              "9M_2023": "49,089",
+              "9M_2024": "49,568"
+            },
+            "operating_income": {
+              "Q3_2023": "$ 6,976",
+              "Q3_2024": "$ 10,447",
+              "9M_2023": "$ 17,464",
+              "9M_2024": "$ 29,202"
+            }
+          },
+          {
+            "name": "Consolidated",
+            "net_sales": {
+              "Q3_2023": "$ 143,083",
+              "Q3_2024": "$ 158,877",
+              "9M_2023": "$ 404,824",
+              "9M_2024": "$ 450,167"
+            },
+            "operating_expenses": {
+              "Q3_2023": "131,895",
+              "Q3_2024": "141,466",
+              "9M_2023": "381,181",
+              "9M_2024": "402,777"
+            },
+            "operating_income": {
+              "Q3_2023": "11,188",
+              "Q3_2024": "17,411",
+              "9M_2023": "23,643",
+              "9M_2024": "47,390"
+            },
+            "total_non_operating_income_expense": {
+              "Q3_2023": "1,001",
+              "Q3_2024": "626",
+              "9M_2023": "228",
+              "9M_2024": "(1,125)"
+            },
+            "provision_for_income_taxes": {
+              "Q3_2023": "(2,306)",
+              "Q3_2024": "(2,706)",
+              "9M_2023": "(4,058)",
+              "9M_2024": "(6,940)"
+            },
+            "equity_method_investment_activity_net_of_tax": {
+              "Q3_2023": "(4)",
+              "Q3_2024": "(3)",
+              "9M_2023": "(12)",
+              "9M_2024": "(81)"
+            },
+            "net_income": {
+              "Q3_2023": "$ 9,879",
+              "Q3_2024": "$ 15,328",
+              "9M_2023": "$ 19,801",
+              "9M_2024": "$ 39,244"
+            }
+          }
+        ],
+        "segment_highlights": {
+          "y_y_net_sales_growth": {
+            "north_america": {
+              "Q3": {
+                "2023": "11 %",
+                "2024": "9 %"
+              },
+              "9M": {
+                "2023": "11 %",
+                "2024": "10 %"
+              }
+            },
+            "international": {
+              "Q3": {
+                "2023": "16",
+                "2024": "12"
+              },
+              "9M": {
+                "2023": "9",
+                "2024": "9"
+              }
+            },
+            "aws": {
+              "Q3": {
+                "2023": "12",
+                "2024": "19"
+              },
+              "9M": {
+                "2023": "13",
+                "2024": "18"
+              }
+            },
+            "consolidated": {
+              "Q3": {
+                "2023": "13",
+                "2024": "11"
+              },
+              "9M": {
+                "2023": "11",
+                "2024": "11"
+              }
+            }
+          },
+          "net_sales_mix": {
+            "north_america": {
+              "Q3": {
+                "2023": "61 %",
+                "2024": "60 %"
+              },
+              "9M": {
+                "2023": "61 %",
+                "2024": "60 %"
+              }
+            },
+            "international": {
+              "Q3": {
+                "2023": "23",
+                "2024": "23"
+              },
+              "9M": {
+                "2023": "23",
+                "2024": "22"
+              }
+            },
+            "aws": {
+              "Q3": {
+                "2023": "16",
+                "2024": "17"
+              },
+              "9M": {
+                "2023": "16",
+                "2024": "18"
+              }
+            },
+            "consolidated": {
+              "Q3": {
+                "2023": "100 %",
+                "2024": "100 %"
+              },
+              "9M": {
+                "2023": "100 %",
+                "2024": "100 %"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "page": 8,
+    "company": "Amazon",
+    "year": "2024",
+    "quarter": "Q3",
+    "text": "AMAZON.COM, INC.\nConsolidated Balance Sheets\n(in millions, except per share data)\n (unaudited)\nDecember 31, 2023\nSeptember 30, 2024\nASSETS\nCurrent assets:\nCash and cash equivalents\n$ \n73,387 $ \n75,091 \nMarketable securities\n \n13,393  \n12,960 \nInventories\n \n33,318  \n36,103 \nAccounts receivable, net and other\n \n52,253  \n51,638 \nTotal current assets\n \n172,351  \n175,792 \nProperty and equipment, net\n \n204,177  \n237,917 \nOperating leases\n \n72,513  \n76,527 \nGoodwill\n \n22,789  \n23,081 \nOther assets\n \n56,024  \n71,309 \nTotal assets\n$ \n527,854 $ \n584,626 \nLIABILITIES AND STOCKHOLDERS’ EQUITY\nCurrent liabilities:\nAccounts payable\n$ \n84,981 $ \n84,570 \nAccrued expenses and other\n \n64,709  \n60,602 \nUnearned revenue\n \n15,227  \n16,305 \nTotal current liabilities\n \n164,917  \n161,477 \nLong-term lease liabilities\n \n77,297  \n79,802 \nLong-term debt\n \n58,314  \n54,890 \nOther long-term liabilities\n \n25,451  \n29,306 \nCommitments and contingencies\nStockholders’ equity:\nPreferred stock ($0.01 par value; 500 shares authorized; no shares issued or \noutstanding)\n \n—  \n— \nCommon stock ($0.01 par value; 100,000 shares authorized; 10,898 and 11,026 \nshares issued; 10,383 and 10,511 shares outstanding)\n \n109  \n110 \nTreasury stock, at cost\n \n(7,837)  \n(7,837) \nAdditional paid-in capital\n \n99,025  \n115,934 \nAccumulated other comprehensive income (loss)\n \n(3,040)  \n(1,918) \nRetained earnings\n \n113,618  \n152,862 \nTotal stockholders’ equity\n \n201,875  \n259,151 \nTotal liabilities and stockholders’ equity\n$ \n527,854 $ \n584,626",
+    "tables": [
+      [
+        [
+          null,
+          "",
+          null
+        ],
+        [
+          "ASSETS",
+          "",
+          ""
+        ],
+        [
+          "Current assets:",
+          "",
+          ""
+        ],
+        [
+          "Cash and cash equivalents $ 73,387",
+          "",
+          "$ 75,091"
+        ],
+        [
+          "Marketable securities 13,393",
+          "",
+          "12,960"
+        ],
+        [
+          "Inventories 33,318",
+          "",
+          "36,103"
+        ],
+        [
+          "Accounts receivable, net and other 52,253",
+          "",
+          "51,638"
+        ],
+        [
+          "Total current assets 172,351",
+          "",
+          "175,792"
+        ],
+        [
+          "Property and equipment, net 204,177",
+          "",
+          "237,917"
+        ],
+        [
+          "Operating leases 72,513",
+          "",
+          "76,527"
+        ],
+        [
+          "Goodwill 22,789",
+          "",
+          "23,081"
+        ],
+        [
+          "Other assets 56,024",
+          "",
+          "71,309"
+        ],
+        [
+          "Total assets $ 527,854",
+          "",
+          "$ 584,626"
+        ],
+        [
+          "LIABILITIES AND STOCKHOLDERS’ EQUITY",
+          "",
+          ""
+        ],
+        [
+          "Current liabilities:",
+          "",
+          ""
+        ],
+        [
+          "Accounts payable $ 84,981",
+          "",
+          "$ 84,570"
+        ],
+        [
+          "Accrued expenses and other 64,709",
+          "",
+          "60,602"
+        ],
+        [
+          "Unearned revenue 15,227",
+          "",
+          "16,305"
+        ],
+        [
+          "Total current liabilities 164,917",
+          "",
+          "161,477"
+        ],
+        [
+          "Long-term lease liabilities 77,297",
+          "",
+          "79,802"
+        ],
+        [
+          "Long-term debt 58,314",
+          "",
+          "54,890"
+        ],
+        [
+          "Other long-term liabilities 25,451",
+          "",
+          "29,306"
+        ],
+        [
+          "Commitments and contingencies",
+          "",
+          ""
+        ],
+        [
+          "Stockholders’ equity:",
+          "",
+          ""
+        ],
+        [
+          "Preferred stock ($0.01 par value; 500 shares authorized; no shares issued or\noutstanding) —",
+          "",
+          "—"
+        ],
+        [
+          "Common stock ($0.01 par value; 100,000 shares authorized; 10,898 and 11,026\nshares issued; 10,383 and 10,511 shares outstanding) 109",
+          "",
+          "110"
+        ],
+        [
+          "Treasury stock, at cost (7,837)",
+          "",
+          "(7,837)"
+        ],
+        [
+          "Additional paid-in capital 99,025",
+          "",
+          "115,934"
+        ],
+        [
+          "Accumulated other comprehensive income (loss) (3,040)",
+          "",
+          "(1,918)"
+        ],
+        [
+          "Retained earnings 113,618",
+          "",
+          "152,862"
+        ],
+        [
+          "Total stockholders’ equity 201,875",
+          "",
+          "259,151"
+        ],
+        [
+          "Total liabilities and stockholders’ equity $ 527,854",
+          "",
+          "$ 584,626"
+        ]
+      ]
+    ],
+    "image": "D:\\POC\\Multimodal-Market-Intelligence-System\\data\\ER_Test2\\AMZN-Q3-2024-Earnings-Release\\Amazon_2024_Q3_p8.png",
+    "ai_extracted": {
+      "financial_data": {
+        "balance_sheet": {
+          "time_periods": [
+            "December 31, 2023",
+            "September 30, 2024"
+          ],
+          "currency": "$",
+          "scale": "millions",
+          "data": [
+            {
+              "line_item": "Cash and cash equivalents",
+              "December 31, 2023": "73,387",
+              "September 30, 2024": "75,091"
+            },
+            {
+              "line_item": "Marketable securities",
+              "December 31, 2023": "13,393",
+              "September 30, 2024": "12,960"
+            },
+            {
+              "line_item": "Inventories",
+              "December 31, 2023": "33,318",
+              "September 30, 2024": "36,103"
+            },
+            {
+              "line_item": "Accounts receivable, net and other",
+              "December 31, 2023": "52,253",
+              "September 30, 2024": "51,638"
+            },
+            {
+              "line_item": "Total current assets",
+              "December 31, 2023": "172,351",
+              "September 30, 2024": "175,792"
+            },
+            {
+              "line_item": "Property and equipment, net",
+              "December 31, 2023": "204,177",
+              "September 30, 2024": "237,917"
+            },
+            {
+              "line_item": "Operating leases",
+              "December 31, 2023": "72,513",
+              "September 30, 2024": "76,527"
+            },
+            {
+              "line_item": "Goodwill",
+              "December 31, 2023": "22,789",
+              "September 30, 2024": "23,081"
+            },
+            {
+              "line_item": "Other assets",
+              "December 31, 2023": "56,024",
+              "September 30, 2024": "71,309"
+            },
+            {
+              "line_item": "Total assets",
+              "December 31, 2023": "527,854",
+              "September 30, 2024": "584,626"
+            },
+            {
+              "line_item": "Accounts payable",
+              "December 31, 2023": "84,981",
+              "September 30, 2024": "84,570"
+            },
+            {
+              "line_item": "Accrued expenses and other",
+              "December 31, 2023": "64,709",
+              "September 30, 2024": "60,602"
+            },
+            {
+              "line_item": "Unearned revenue",
+              "December 31, 2023": "15,227",
+              "September 30, 2024": "16,305"
+            },
+            {
+              "line_item": "Total current liabilities",
+              "December 31, 2023": "164,917",
+              "September 30, 2024": "161,477"
+            },
+            {
+              "line_item": "Long-term lease liabilities",
+              "December 31, 2023": "77,297",
+              "September 30, 2024": "79,802"
+            },
+            {
+              "line_item": "Long-term debt",
+              "December 31, 2023": "58,314",
+              "September 30, 2024": "54,890"
+            },
+            {
+              "line_item": "Other long-term liabilities",
+              "December 31, 2023": "25,451",
+              "September 30, 2024": "29,306"
+            },
+            {
+              "line_item": "Preferred stock ($0.01 par value; 500 shares authorized; no shares issued or outstanding)",
+              "December 31, 2023": "—",
+              "September 30, 2024": "—"
+            },
+            {
+              "line_item": "Common stock ($0.01 par value; 100,000 shares authorized; 10,898 and 11,026 shares issued; 10,383 and 10,511 shares outstanding)",
+              "December 31, 2023": "109",
+              "September 30, 2024": "110"
+            },
+            {
+              "line_item": "Treasury stock, at cost",
+              "December 31, 2023": "(7,837)",
+              "September 30, 2024": "(7,837)"
+            },
+            {
+              "line_item": "Additional paid-in capital",
+              "December 31, 2023": "99,025",
+              "September 30, 2024": "115,934"
+            },
+            {
+              "line_item": "Accumulated other comprehensive income (loss)",
+              "December 31, 2023": "(3,040)",
+              "September 30, 2024": "(1,918)"
+            },
+            {
+              "line_item": "Retained earnings",
+              "December 31, 2023": "113,618",
+              "September 30, 2024": "152,862"
+            },
+            {
+              "line_item": "Total stockholders’ equity",
+              "December 31, 2023": "201,875",
+              "September 30, 2024": "259,151"
+            },
+            {
+              "line_item": "Total liabilities and stockholders’ equity",
+              "December 31, 2023": "527,854",
+              "September 30, 2024": "584,626"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "page": 9,
+    "company": "Amazon",
+    "year": "2024",
+    "quarter": "Q3",
+    "text": "AMAZON.COM, INC.\nSupplemental Financial Information and Business Metrics\n(in millions, except per share data)\n(unaudited)\nQ2 2023\nQ3 2023\nQ4 2023\nQ1 2024\nQ2 2024\nQ3 2024\nY/Y %\nChange\nCash Flows and Shares\nOperating cash flow -- trailing twelve months (TTM)\n$ \n61,841 \n$ \n71,654 \n$ \n84,946 \n$ \n99,147 \n$ 107,952 \n$ 112,706 \n 57 %\nOperating cash flow -- TTM Y/Y growth\n 74 %\n 81 %\n 82 %\n 82 %\n 75 %\n 57 %\nN/A\nPurchases of property and equipment, net of proceeds from sales and \nincentives -- TTM\n$ \n53,963 \n$ \n50,220 \n$ \n48,133 \n$ \n48,998 \n$ \n54,979 \n$ \n64,959 \n 29 %\nPrincipal repayments of finance leases -- TTM\n$ \n5,705 \n$ \n5,245 \n$ \n4,384 \n$ \n3,774 \n$ \n3,092 \n$ \n2,489 \n (53) %\nPrincipal repayments of financing obligations -- TTM\n$ \n244 \n$ \n260 \n$ \n271 \n$ \n304 \n$ \n306 \n$ \n320 \n 23 %\nEquipment acquired under finance leases -- TTM (1)\n$ \n269 \n$ \n239 \n$ \n310 \n$ \n306 \n$ \n425 \n$ \n492 \n 106 %\nPrincipal repayments of all other finance leases -- TTM (2)\n$ \n631 \n$ \n694 \n$ \n683 \n$ \n761 \n$ \n794 \n$ \n785 \n 13 %\nFree cash flow -- TTM (3)\n$ \n7,878 \n$ \n21,434 \n$ \n36,813 \n$ \n50,149 \n$ \n52,973 \n$ \n47,747 \n 123 %\nFree cash flow less principal repayments of finance leases and \nfinancing obligations -- TTM (4)\n$ \n1,929 \n$ \n15,929 \n$ \n32,158 \n$ \n46,071 \n$ \n49,575 \n$ \n44,938 \n 182 %\nFree cash flow less equipment finance leases and principal repayments \nof all other finance leases and financing obligations -- TTM (5)\n$ \n6,734 \n$ \n20,241 \n$ \n35,549 \n$ \n48,778 \n$ \n51,448 \n$ \n46,150 \n 128 %\nCommon shares and stock-based awards outstanding\n \n10,794 \n \n10,792 \n \n10,788 \n \n10,788 \n \n10,871 \n \n10,872 \n 1 %\nCommon shares outstanding\n \n10,313 \n \n10,330 \n \n10,383 \n \n10,403 \n \n10,490 \n \n10,511 \n 2 %\nStock-based awards outstanding\n \n481 \n \n462 \n \n406 \n \n385 \n \n381 \n \n361 \n (22) %\nStock-based awards outstanding -- % of common shares outstanding\n 4.7 %\n 4.5 %\n 3.9 %\n 3.7 %\n 3.6 %\n 3.4 %\nN/A\nResults of Operations\nWorldwide (WW) net sales\n$ 134,383 \n$ 143,083 \n$ 169,961 \n$ 143,313 \n$ 147,977 \n$ 158,877 \n 11 %\nWW net sales -- Y/Y growth, excluding F/X\n 11 %\n 11 %\n 13 %\n 13 %\n 11 %\n 11 %\nN/A\nWW net sales -- TTM\n$ 538,046 \n$ 554,028 \n$ 574,785 \n$ 590,740 \n$ 604,334 \n$ 620,128 \n 12 %\nWW net sales -- TTM Y/Y growth, excluding F/X\n 13 %\n 12 %\n 12 %\n 12 %\n 12 %\n 12 %\nN/A\nOperating income\n$ \n7,681 \n$ \n11,188 \n$ \n13,209 \n$ \n15,307 \n$ \n14,672 \n$ \n17,411 \n 56 %\nF/X impact -- favorable\n$ \n104 \n$ \n132 \n$ \n85 \n$ \n72 \n$ \n29 \n$ \n16 \nN/A\nOperating income -- Y/Y growth, excluding F/X\n 128 %\n 338 %\n 379 %\n 219 %\n 91 %\n 55 %\nN/A\nOperating margin -- % of WW net sales\n 5.7 %\n 7.8 %\n 7.8 %\n 10.7 %\n 9.9 %\n 11.0 %\nN/A\nOperating income -- TTM\n$ \n17,717 \n$ \n26,380 \n$ \n36,852 \n$ \n47,385 \n$ \n54,376 \n$ \n60,599 \n 130 %\nOperating income -- TTM Y/Y growth, excluding F/X\n 10 %\n 99 %\n 197 %\n 252 %\n 205 %\n 129 %\nN/A\nOperating margin -- TTM % of WW net sales\n 3.3 %\n 4.8 %\n 6.4 %\n 8.0 %\n 9.0 %\n 9.8 %\nN/A\nNet income\n$ \n6,750 \n$ \n9,879 \n$ \n10,624 \n$ \n10,431 \n$ \n13,485 \n$ \n15,328 \n 55 %\nNet income per diluted share\n$ \n0.65 \n$ \n0.94 \n$ \n1.00 \n$ \n0.98 \n$ \n1.26 \n$ \n1.43 \n 53 %\nNet income -- TTM\n$ \n13,072 \n$ \n20,079 \n$ \n30,425 \n$ \n37,684 \n$ \n44,419 \n$ \n49,868 \n 148 %\nNet income per diluted share -- TTM\n$ \n1.26 \n$ \n1.93 \n$ \n2.90 \n$ \n3.56 \n$ \n4.18 \n$ \n4.67 \n 142 %\n______________________________\n(1)\nFor the twelve months ended September 30, 2023 and 2024, this amount relates to equipment included in “Property and equipment acquired under finance leases, net of \nremeasurements and modifications” of $748 million and $620 million.\n(2)\nFor the twelve months ended September 30, 2023 and 2024, this amount relates to property included in “Principal repayments of finance leases” of $5,245 million and \n$2,489 million.\n(3)\nFree cash flow is cash flow from operations reduced by “Purchases of property and equipment, net of proceeds from sales and incentives.”\n(4)\nFree cash flow less principal repayments of finance leases and financing obligations is free cash flow reduced by “Principal repayments of finance leases” and “Principal \nrepayments of financing obligations.”\n(5)\nFree cash flow less equipment finance leases and principal repayments of all other finance leases and financing obligations is free cash flow reduced by equipment acquired \nunder finance leases, which is included in “Property and equipment acquired under finance leases, net of remeasurements and modifications,” principal repayments of all \nother finance lease liabilities, which is included in “Principal repayments of finance leases,” and “Principal repayments of financing obligations.”",
+    "tables": [
+      [
+        [
+          "Cash Flows and Shares"
+        ],
+        [
+          "Operating cash flow -- trailing twelve months (TTM) $ 61,841 $ 71,654 $ 84,946 $ 99,147 $ 107,952 $ 112,706 57 %"
+        ],
+        [
+          "Operating cash flow -- TTM Y/Y growth 74 % 81 % 82 % 82 % 75 % 57 % N/A"
+        ],
+        [
+          "Purchases of property and equipment, net of proceeds from sales and\nincentives -- TTM $ 53,963 $ 50,220 $ 48,133 $ 48,998 $ 54,979 $ 64,959 29 %"
+        ],
+        [
+          "Principal repayments of finance leases -- TTM $ 5,705 $ 5,245 $ 4,384 $ 3,774 $ 3,092 $ 2,489 (53) %"
+        ],
+        [
+          "Principal repayments of financing obligations -- TTM $ 244 $ 260 $ 271 $ 304 $ 306 $ 320 23 %"
+        ],
+        [
+          "Equipment acquired under finance leases -- TTM (1) $ 269 $ 239 $ 310 $ 306 $ 425 $ 492 106 %"
+        ],
+        [
+          "Principal repayments of all other finance leases -- TTM (2) $ 631 $ 694 $ 683 $ 761 $ 794 $ 785 13 %"
+        ],
+        [
+          "Free cash flow -- TTM (3) $ 7,878 $ 21,434 $ 36,813 $ 50,149 $ 52,973 $ 47,747 123 %"
+        ],
+        [
+          "Free cash flow less principal repayments of finance leases and\nfinancing obligations -- TTM (4) $ 1,929 $ 15,929 $ 32,158 $ 46,071 $ 49,575 $ 44,938 182 %"
+        ],
+        [
+          "Free cash flow less equipment finance leases and principal repayments\nof all other finance leases and financing obligations -- TTM (5) $ 6,734 $ 20,241 $ 35,549 $ 48,778 $ 51,448 $ 46,150 128 %"
+        ],
+        [
+          "Common shares and stock-based awards outstanding 10,794 10,792 10,788 10,788 10,871 10,872 1 %"
+        ],
+        [
+          "Common shares outstanding 10,313 10,330 10,383 10,403 10,490 10,511 2 %"
+        ],
+        [
+          "Stock-based awards outstanding 481 462 406 385 381 361 (22) %"
+        ],
+        [
+          "Stock-based awards outstanding -- % of common shares outstanding 4.7 % 4.5 % 3.9 % 3.7 % 3.6 % 3.4 % N/A"
+        ],
+        [
+          "Results of Operations"
+        ],
+        [
+          "Worldwide (WW) net sales $ 134,383 $ 143,083 $ 169,961 $ 143,313 $ 147,977 $ 158,877 11 %"
+        ],
+        [
+          "WW net sales -- Y/Y growth, excluding F/X 11 % 11 % 13 % 13 % 11 % 11 % N/A"
+        ],
+        [
+          "WW net sales -- TTM $ 538,046 $ 554,028 $ 574,785 $ 590,740 $ 604,334 $ 620,128 12 %"
+        ],
+        [
+          "WW net sales -- TTM Y/Y growth, excluding F/X 13 % 12 % 12 % 12 % 12 % 12 % N/A"
+        ],
+        [
+          "Operating income $ 7,681 $ 11,188 $ 13,209 $ 15,307 $ 14,672 $ 17,411 56 %"
+        ],
+        [
+          "F/X impact -- favorable $ 104 $ 132 $ 85 $ 72 $ 29 $ 16 N/A"
+        ],
+        [
+          "Operating income -- Y/Y growth, excluding F/X 128 % 338 % 379 % 219 % 91 % 55 % N/A"
+        ],
+        [
+          "Operating margin -- % of WW net sales 5.7 % 7.8 % 7.8 % 10.7 % 9.9 % 11.0 % N/A"
+        ],
+        [
+          "Operating income -- TTM $ 17,717 $ 26,380 $ 36,852 $ 47,385 $ 54,376 $ 60,599 130 %"
+        ],
+        [
+          "Operating income -- TTM Y/Y growth, excluding F/X 10 % 99 % 197 % 252 % 205 % 129 % N/A"
+        ],
+        [
+          "Operating margin -- TTM % of WW net sales 3.3 % 4.8 % 6.4 % 8.0 % 9.0 % 9.8 % N/A"
+        ],
+        [
+          "Net income $ 6,750 $ 9,879 $ 10,624 $ 10,431 $ 13,485 $ 15,328 55 %"
+        ],
+        [
+          "Net income per diluted share $ 0.65 $ 0.94 $ 1.00 $ 0.98 $ 1.26 $ 1.43 53 %"
+        ],
+        [
+          "Net income -- TTM $ 13,072 $ 20,079 $ 30,425 $ 37,684 $ 44,419 $ 49,868 148 %"
+        ],
+        [
+          "Net income per diluted share -- TTM $ 1.26 $ 1.93 $ 2.90 $ 3.56 $ 4.18 $ 4.67 142 %"
+        ]
+      ]
+    ],
+    "image": "D:\\POC\\Multimodal-Market-Intelligence-System\\data\\ER_Test2\\AMZN-Q3-2024-Earnings-Release\\Amazon_2024_Q3_p9.png",
+    "ai_extracted": {
+      "financial_data": {
+        "reconciliation_table": {
+          "table_name": "Cash Flows and Shares",
+          "headers": [
+            "Metric",
+            "Q2 2023",
+            "Q3 2023",
+            "Q4 2023",
+            "Q1 2024",
+            "Q2 2024",
+            "Q3 2024",
+            "Y/Y % Change"
+          ],
+          "rows": [
+            {
+              "Metric": "Operating cash flow -- trailing twelve months (TTM)",
+              "Q2 2023": "$ 61,841",
+              "Q3 2023": "$ 71,654",
+              "Q4 2023": "$ 84,946",
+              "Q1 2024": "$ 99,147",
+              "Q2 2024": "$ 107,952",
+              "Q3 2024": "$ 112,706",
+              "Y/Y % Change": "57 %"
+            },
+            {
+              "Metric": "Operating cash flow -- TTM Y/Y growth",
+              "Q2 2023": "74 %",
+              "Q3 2023": "81 %",
+              "Q4 2023": "82 %",
+              "Q1 2024": "82 %",
+              "Q2 2024": "75 %",
+              "Q3 2024": "57 %",
+              "Y/Y % Change": "N/A"
+            },
+            {
+              "Metric": "Purchases of property and equipment, net of proceeds from sales and incentives -- TTM",
+              "Q2 2023": "$ 53,963",
+              "Q3 2023": "$ 50,220",
+              "Q4 2023": "$ 48,133",
+              "Q1 2024": "$ 48,998",
+              "Q2 2024": "$ 54,979",
+              "Q3 2024": "$ 64,959",
+              "Y/Y % Change": "29 %"
+            },
+            {
+              "Metric": "Principal repayments of finance leases -- TTM",
+              "Q2 2023": "$ 5,705",
+              "Q3 2023": "$ 5,245",
+              "Q4 2023": "$ 4,384",
+              "Q1 2024": "$ 3,774",
+              "Q2 2024": "$ 3,092",
+              "Q3 2024": "$ 2,489",
+              "Y/Y % Change": "(53) %"
+            },
+            {
+              "Metric": "Principal repayments of financing obligations -- TTM",
+              "Q2 2023": "$ 244",
+              "Q3 2023": "$ 260",
+              "Q4 2023": "$ 271",
+              "Q1 2024": "$ 304",
+              "Q2 2024": "$ 306",
+              "Q3 2024": "$ 320",
+              "Y/Y % Change": "23 %"
+            },
+            {
+              "Metric": "Equipment acquired under finance leases -- TTM (1)",
+              "Q2 2023": "$ 269",
+              "Q3 2023": "$ 239",
+              "Q4 2023": "$ 310",
+              "Q1 2024": "$ 306",
+              "Q2 2024": "$ 425",
+              "Q3 2024": "$ 492",
+              "Y/Y % Change": "106 %"
+            },
+            {
+              "Metric": "Principal repayments of all other finance leases -- TTM (2)",
+              "Q2 2023": "$ 631",
+              "Q3 2023": "$ 694",
+              "Q4 2023": "$ 683",
+              "Q1 2024": "$ 761",
+              "Q2 2024": "$ 794",
+              "Q3 2024": "$ 785",
+              "Y/Y % Change": "13 %"
+            },
+            {
+              "Metric": "Free cash flow -- TTM (3)",
+              "Q2 2023": "$ 7,878",
+              "Q3 2023": "$ 21,434",
+              "Q4 2023": "$ 36,813",
+              "Q1 2024": "$ 50,149",
+              "Q2 2024": "$ 52,973",
+              "Q3 2024": "$ 47,747",
+              "Y/Y % Change": "123 %"
+            },
+            {
+              "Metric": "Free cash flow less principal repayments of finance leases and financing obligations -- TTM (4)",
+              "Q2 2023": "$ 1,929",
+              "Q3 2023": "$ 15,929",
+              "Q4 2023": "$ 32,158",
+              "Q1 2024": "$ 46,071",
+              "Q2 2024": "$ 49,575",
+              "Q3 2024": "$ 44,938",
+              "Y/Y % Change": "182 %"
+            },
+            {
+              "Metric": "Free cash flow less equipment finance leases and principal repayments of all other finance leases and financing obligations -- TTM (5)",
+              "Q2 2023": "$ 6,734",
+              "Q3 2023": "$ 20,241",
+              "Q4 2023": "$ 35,549",
+              "Q1 2024": "$ 48,778",
+              "Q2 2024": "$ 51,448",
+              "Q3 2024": "$ 46,150",
+              "Y/Y % Change": "128 %"
+            },
+            {
+              "Metric": "Common shares and stock-based awards outstanding",
+              "Q2 2023": "10,794",
+              "Q3 2023": "10,792",
+              "Q4 2023": "10,788",
+              "Q1 2024": "10,788",
+              "Q2 2024": "10,871",
+              "Q3 2024": "10,872",
+              "Y/Y % Change": "1 %"
+            },
+            {
+              "Metric": "Common shares outstanding",
+              "Q2 2023": "10,313",
+              "Q3 2023": "10,330",
+              "Q4 2023": "10,383",
+              "Q1 2024": "10,403",
+              "Q2 2024": "10,490",
+              "Q3 2024": "10,511",
+              "Y/Y % Change": "2 %"
+            },
+            {
+              "Metric": "Stock-based awards outstanding",
+              "Q2 2023": "481",
+              "Q3 2023": "462",
+              "Q4 2023": "406",
+              "Q1 2024": "385",
+              "Q2 2024": "381",
+              "Q3 2024": "361",
+              "Y/Y % Change": "(22) %"
+            },
+            {
+              "Metric": "Stock-based awards outstanding -- % of common shares outstanding",
+              "Q2 2023": "4.7 %",
+              "Q3 2023": "4.5 %",
+              "Q4 2023": "3.9 %",
+              "Q1 2024": "3.7 %",
+              "Q2 2024": "3.6 %",
+              "Q3 2024": "3.4 %",
+              "Y/Y % Change": "N/A"
+            }
+          ]
+        },
+        "financial_metrics": {
+          "Revenue": [
+            "$ 134,383",
+            "$ 143,083",
+            "$ 169,961",
+            "$ 143,313",
+            "$ 147,977",
+            "$ 158,877"
+          ],
+          "Operating_income": [
+            "$ 7,681",
+            "$ 11,188",
+            "$ 13,209",
+            "$ 15,307",
+            "$ 14,672",
+            "$ 17,411"
+          ],
+          "Net_income": [
+            "$ 6,750",
+            "$ 9,879",
+            "$ 10,624",
+            "$ 10,431",
+            "$ 13,485",
+            "$ 15,328"
+          ],
+          "EPS": [
+            "$ 0.65",
+            "$ 0.94",
+            "$ 1.00",
+            "$ 0.98",
+            "$ 1.26",
+            "$ 1.43"
+          ],
+          "Operating_margin": [
+            "5.7 %",
+            "7.8 %",
+            "7.8 %",
+            "10.7 %",
+            "9.9 %",
+            "11.0 %"
+          ]
+        },
+        "time_periods": {
+          "quarters": [
+            "Q2 2023",
+            "Q3 2023",
+            "Q4 2023",
+            "Q1 2024",
+            "Q2 2024",
+            "Q3 2024"
+          ],
+          "years": [],
+          "comparison_periods": [
+            "Y/Y % Change"
+          ]
+        },
+        "segments": {}
+      }
+    }
+  },
+  {
+    "page": 10,
+    "company": "Amazon",
+    "year": "2024",
+    "quarter": "Q3",
+    "text": "AMAZON.COM, INC.\nSupplemental Financial Information and Business Metrics\n(in millions)\n(unaudited)\nQ2 2023\nQ3 2023\nQ4 2023\nQ1 2024\nQ2 2024\nQ3 2024\nY/Y %\nChange\nSegments\nNorth America Segment:\n  Net sales\n$ 82,546 \n$ 87,887 \n$ 105,514 \n$ 86,341 \n$ 90,033 \n$ 95,537 \n 9 %\n  Net sales -- Y/Y growth, excluding F/X\n 11 %\n 11 %\n 13 %\n 12 %\n 9 %\n 9 %\nN/A\n  Net sales -- TTM\n$ 331,633 \n$ 340,677 \n$ 352,828 \n$ 362,288 \n$ 369,775 \n$ 377,425 \n 11 %\n  Operating income\n$ 3,211 \n$ 4,307 \n$ 6,461 \n$ 4,983 \n$ 5,065 \n$ 5,663 \n 31 %\n  F/X impact -- favorable (unfavorable)\n$ \n(7) \n$ \n(27) \n$ \n(13) \n$ \n8 \n$ \n8 \n$ \n(28) \nN/A\n  Operating income -- Y/Y growth, excluding F/X\nN/A\nN/A\nN/A\n 454 %\n 58 %\n 32 %\nN/A\n  Operating margin -- % of North America net sales\n 3.9 %\n 4.9 %\n 6.1 %\n 5.8 %\n 5.6 %\n 5.9 %\nN/A\n  Operating income -- TTM\n$ 3,457 \n$ 8,176 \n$ 14,877 \n$ 18,962 \n$ 20,816 \n$ 22,172 \n 171 %\n  Operating margin -- TTM % of North America net sales\n 1.0 %\n 2.4 %\n 4.2 %\n 5.2 %\n 5.6 %\n 5.9 %\nN/A\nInternational Segment:\n  Net sales\n$ 29,697 \n$ 32,137 \n$ 40,243 \n$ 31,935 \n$ 31,663 \n$ 35,888 \n 12 %\n  Net sales -- Y/Y growth, excluding F/X\n 10 %\n 11 %\n 13 %\n 11 %\n 10 %\n 12 %\nN/A\n  Net sales -- TTM\n$ 121,003 \n$ 125,420 \n$ 131,200 \n$ 134,012 \n$ 135,978 \n$ 139,729 \n 11 %\n  Operating income (loss)\n$ \n(895) \n$ \n(95) \n$ \n(419) \n$ \n903 \n$ \n273 \n$ 1,301 \nN/A\n  F/X impact -- favorable (unfavorable)\n$ \n32 \n$ \n228 \n$ \n160 \n$ \n(3) \n$ \n(94) \n$ \n43 \nN/A\n  Operating income (loss) -- Y/Y growth (decline), excluding F/X\n (48) %\n (87) %\n (74) %\nN/A\nN/A\nN/A\nN/A\n  Operating margin -- % of International net sales\n (3.0) %\n (0.3) %\n (1.0) %\n 2.8 %\n 0.9 %\n 3.6 %\nN/A\n  Operating income (loss) -- TTM\n$ (6,836) \n$ (4,465) \n$ (2,656) \n$ \n(506) \n$ \n662 \n$ 2,058 \nN/A\n  Operating margin -- TTM % of International net sales\n (5.6) %\n (3.6) %\n (2.0) %\n (0.4) %\n 0.5 %\n 1.5 %\nN/A\nAWS Segment:\n  Net sales\n$ 22,140 \n$ 23,059 \n$ 24,204 \n$ 25,037 \n$ 26,281 \n$ 27,452 \n 19 %\n  Net sales -- Y/Y growth, excluding F/X\n 12 %\n 12 %\n 13 %\n 17 %\n 19 %\n 19 %\nN/A\n  Net sales -- TTM\n$ 85,410 \n$ 87,931 \n$ 90,757 \n$ 94,440 \n$ 98,581 \n$ 102,974 \n 17 %\n  Operating income\n$ 5,365 \n$ 6,976 \n$ 7,167 \n$ 9,421 \n$ 9,334 \n$ 10,447 \n 50 %\n  F/X impact -- favorable (unfavorable)\n$ \n79 \n$ \n(69) \n$ \n(62) \n$ \n67 \n$ \n115 \n$ \n1 \nN/A\n  Operating income -- Y/Y growth (decline), excluding F/X\n (8) %\n 30 %\n 39 %\n 83 %\n 72 %\n 50 %\nN/A\n  Operating margin -- % of AWS net sales\n 24.2 %\n 30.3 %\n 29.6 %\n 37.6 %\n 35.5 %\n 38.1 %\nN/A\n  Operating income -- TTM\n$ 21,096 \n$ 22,669 \n$ 24,631 \n$ 28,929 \n$ 32,898 \n$ 36,369 \n 60 %\n  Operating margin -- TTM % of AWS net sales\n 24.7 %\n 25.8 %\n 27.1 %\n 30.6 %\n 33.4 %\n 35.3 %\nN/A",
+    "tables": [
+      [
+        [
+          "Segments",
+          ""
+        ],
+        [
+          null,
+          ""
+        ],
+        [
+          "Net sales",
+          "$ 82,546 $ 87,887 $ 105,514 $ 86,341 $ 90,033 $ 95,537 9 %"
+        ],
+        [
+          "Net sales -- Y/Y growth, excluding F/X",
+          "11 % 11 % 13 % 12 % 9 % 9 % N/A"
+        ],
+        [
+          "Net sales -- TTM",
+          "$ 331,633 $ 340,677 $ 352,828 $ 362,288 $ 369,775 $ 377,425 11 %"
+        ],
+        [
+          "Operating income",
+          "$ 3,211 $ 4,307 $ 6,461 $ 4,983 $ 5,065 $ 5,663 31 %"
+        ],
+        [
+          "F/X impact -- favorable (unfavorable)",
+          "$ (7) $ (27) $ (13) $ 8 $ 8 $ (28) N/A"
+        ],
+        [
+          "Operating income -- Y/Y growth, excluding F/X",
+          "N/A N/A N/A 454 % 58 % 32 % N/A"
+        ],
+        [
+          "Operating margin -- % of North America net sales",
+          "3.9 % 4.9 % 6.1 % 5.8 % 5.6 % 5.9 % N/A"
+        ],
+        [
+          "Operating income -- TTM",
+          "$ 3,457 $ 8,176 $ 14,877 $ 18,962 $ 20,816 $ 22,172 171 %"
+        ],
+        [
+          "Operating margin -- TTM % of North America net sales",
+          "1.0 % 2.4 % 4.2 % 5.2 % 5.6 % 5.9 % N/A"
+        ],
+        [
+          "International Segment:",
+          ""
+        ],
+        [
+          "Net sales",
+          "$ 29,697 $ 32,137 $ 40,243 $ 31,935 $ 31,663 $ 35,888 12 %"
+        ],
+        [
+          "Net sales -- Y/Y growth, excluding F/X",
+          "10 % 11 % 13 % 11 % 10 % 12 % N/A"
+        ],
+        [
+          "Net sales -- TTM",
+          "$ 121,003 $ 125,420 $ 131,200 $ 134,012 $ 135,978 $ 139,729 11 %"
+        ],
+        [
+          "Operating income (loss)",
+          "$ (895) $ (95) $ (419) $ 903 $ 273 $ 1,301 N/A"
+        ],
+        [
+          "F/X impact -- favorable (unfavorable)",
+          "$ 32 $ 228 $ 160 $ (3) $ (94) $ 43 N/A"
+        ],
+        [
+          "Operating income (loss) -- Y/Y growth (decline), excluding F/X",
+          "(48) % (87) % (74) % N/A N/A N/A N/A"
+        ],
+        [
+          "Operating margin -- % of International net sales",
+          "(3.0) % (0.3) % (1.0) % 2.8 % 0.9 % 3.6 % N/A"
+        ],
+        [
+          "Operating income (loss) -- TTM",
+          "$ (6,836) $ (4,465) $ (2,656) $ (506) $ 662 $ 2,058 N/A"
+        ],
+        [
+          "Operating margin -- TTM % of International net sales",
+          "(5.6) % (3.6) % (2.0) % (0.4) % 0.5 % 1.5 % N/A"
+        ],
+        [
+          "AWS Segment:",
+          ""
+        ],
+        [
+          "Net sales",
+          "$ 22,140 $ 23,059 $ 24,204 $ 25,037 $ 26,281 $ 27,452 19 %"
+        ],
+        [
+          "Net sales -- Y/Y growth, excluding F/X",
+          "12 % 12 % 13 % 17 % 19 % 19 % N/A"
+        ],
+        [
+          "Net sales -- TTM",
+          "$ 85,410 $ 87,931 $ 90,757 $ 94,440 $ 98,581 $ 102,974 17 %"
+        ],
+        [
+          "Operating income",
+          "$ 5,365 $ 6,976 $ 7,167 $ 9,421 $ 9,334 $ 10,447 50 %"
+        ],
+        [
+          "F/X impact -- favorable (unfavorable)",
+          "$ 79 $ (69) $ (62) $ 67 $ 115 $ 1 N/A"
+        ],
+        [
+          "Operating income -- Y/Y growth (decline), excluding F/X",
+          "(8) % 30 % 39 % 83 % 72 % 50 % N/A"
+        ],
+        [
+          "Operating margin -- % of AWS net sales",
+          "24.2 % 30.3 % 29.6 % 37.6 % 35.5 % 38.1 % N/A"
+        ],
+        [
+          "Operating income -- TTM",
+          "$ 21,096 $ 22,669 $ 24,631 $ 28,929 $ 32,898 $ 36,369 60 %"
+        ],
+        [
+          "Operating margin -- TTM % of AWS net sales",
+          "24.7 % 25.8 % 27.1 % 30.6 % 33.4 % 35.3 % N/A"
+        ]
+      ]
+    ],
+    "image": "D:\\POC\\Multimodal-Market-Intelligence-System\\data\\ER_Test2\\AMZN-Q3-2024-Earnings-Release\\Amazon_2024_Q3_p10.png",
+    "ai_extracted": {
+      "company": "AMAZON.COM, INC.",
+      "title": "Supplemental Financial Information and Business Metrics",
+      "unit": "millions",
+      "audited": false,
+      "segments": [
+        {
+          "name": "North America Segment",
+          "metrics": [
+            {
+              "name": "Net sales",
+              "Q2 2023": "$ 82,546 ",
+              "Q3 2023": "$ 87,887 ",
+              "Q4 2023": "$ 105,514 ",
+              "Q1 2024": "$ 86,341 ",
+              "Q2 2024": "$ 90,033 ",
+              "Q3 2024": "$ 95,537 ",
+              "Y/Y % Change": "9 %"
+            },
+            {
+              "name": "Net sales -- Y/Y growth, excluding F/X",
+              "Q2 2023": "11 %",
+              "Q3 2023": "11 %",
+              "Q4 2023": "13 %",
+              "Q1 2024": "12 %",
+              "Q2 2024": "9 %",
+              "Q3 2024": "9 %",
+              "Y/Y % Change": "N/A"
+            },
+            {
+              "name": "Net sales -- TTM",
+              "Q2 2023": "$ 331,633 ",
+              "Q3 2023": "$ 340,677 ",
+              "Q4 2023": "$ 352,828 ",
+              "Q1 2024": "$ 362,288 ",
+              "Q2 2024": "$ 369,775 ",
+              "Q3 2024": "$ 377,425 ",
+              "Y/Y % Change": "11 %"
+            },
+            {
+              "name": "Operating income",
+              "Q2 2023": "$ 3,211 ",
+              "Q3 2023": "$ 4,307 ",
+              "Q4 2023": "$ 6,461 ",
+              "Q1 2024": "$ 4,983 ",
+              "Q2 2024": "$ 5,065 ",
+              "Q3 2024": "$ 5,663 ",
+              "Y/Y % Change": "31 %"
+            },
+            {
+              "name": "F/X impact -- favorable (unfavorable)",
+              "Q2 2023": "$ \n(7) ",
+              "Q3 2023": "$ \n(27) ",
+              "Q4 2023": "$ \n(13) ",
+              "Q1 2024": "$ \n8 ",
+              "Q2 2024": "$ \n8 ",
+              "Q3 2024": "$ \n(28) ",
+              "Y/Y % Change": "N/A"
+            },
+            {
+              "name": "Operating income -- Y/Y growth, excluding F/X",
+              "Q2 2023": "N/A",
+              "Q3 2023": "N/A",
+              "Q4 2023": "N/A",
+              "Q1 2024": "454 %",
+              "Q2 2024": "58 %",
+              "Q3 2024": "32 %",
+              "Y/Y % Change": "N/A"
+            },
+            {
+              "name": "Operating margin -- % of North America net sales",
+              "Q2 2023": "3.9 %",
+              "Q3 2023": "4.9 %",
+              "Q4 2023": "6.1 %",
+              "Q1 2024": "5.8 %",
+              "Q2 2024": "5.6 %",
+              "Q3 2024": "5.9 %",
+              "Y/Y % Change": "N/A"
+            },
+            {
+              "name": "Operating income -- TTM",
+              "Q2 2023": "$ 3,457 ",
+              "Q3 2023": "$ 8,176 ",
+              "Q4 2023": "$ 14,877 ",
+              "Q1 2024": "$ 18,962 ",
+              "Q2 2024": "$ 20,816 ",
+              "Q3 2024": "$ 22,172 ",
+              "Y/Y % Change": "171 %"
+            },
+            {
+              "name": "Operating margin -- TTM % of North America net sales",
+              "Q2 2023": "1.0 %",
+              "Q3 2023": "2.4 %",
+              "Q4 2023": "4.2 %",
+              "Q1 2024": "5.2 %",
+              "Q2 2024": "5.6 %",
+              "Q3 2024": "5.9 %",
+              "Y/Y % Change": "N/A"
+            }
+          ]
+        },
+        {
+          "name": "International Segment",
+          "metrics": [
+            {
+              "name": "Net sales",
+              "Q2 2023": "$ 29,697 ",
+              "Q3 2023": "$ 32,137 ",
+              "Q4 2023": "$ 40,243 ",
+              "Q1 2024": "$ 31,935 ",
+              "Q2 2024": "$ 31,663 ",
+              "Q3 2024": "$ 35,888 ",
+              "Y/Y % Change": "12 %"
+            },
+            {
+              "name": "Net sales -- Y/Y growth, excluding F/X",
+              "Q2 2023": "10 %",
+              "Q3 2023": "11 %",
+              "Q4 2023": "13 %",
+              "Q1 2024": "11 %",
+              "Q2 2024": "10 %",
+              "Q3 2024": "12 %",
+              "Y/Y % Change": "N/A"
+            },
+            {
+              "name": "Net sales -- TTM",
+              "Q2 2023": "$ 121,003 ",
+              "Q3 2023": "$ 125,420 ",
+              "Q4 2023": "$ 131,200 ",
+              "Q1 2024": "$ 134,012 ",
+              "Q2 2024": "$ 135,978 ",
+              "Q3 2024": "$ 139,729 ",
+              "Y/Y % Change": "11 %"
+            },
+            {
+              "name": "Operating income (loss)",
+              "Q2 2023": "$ \n(895) ",
+              "Q3 2023": "$ \n(95) ",
+              "Q4 2023": "$ \n(419) ",
+              "Q1 2024": "$ \n903 ",
+              "Q2 2024": "$ \n273 ",
+              "Q3 2024": "$ 1,301 ",
+              "Y/Y % Change": "N/A"
+            },
+            {
+              "name": "F/X impact -- favorable (unfavorable)",
+              "Q2 2023": "$ \n32 ",
+              "Q3 2023": "$ \n228 ",
+              "Q4 2023": "$ \n160 ",
+              "Q1 2024": "$ \n(3) ",
+              "Q2 2024": "$ \n(94) ",
+              "Q3 2024": "$ \n43 ",
+              "Y/Y % Change": "N/A"
+            },
+            {
+              "name": "Operating income (loss) -- Y/Y growth (decline), excluding F/X",
+              "Q2 2023": "(48) %",
+              "Q3 2023": "(87) %",
+              "Q4 2023": "(74) %",
+              "Q1 2024": "N/A",
+              "Q2 2024": "N/A",
+              "Q3 2024": "N/A",
+              "Y/Y % Change": "N/A"
+            },
+            {
+              "name": "Operating margin -- % of International net sales",
+              "Q2 2023": "(3.0) %",
+              "Q3 2023": "(0.3) %",
+              "Q4 2023": "(1.0) %",
+              "Q1 2024": "2.8 %",
+              "Q2 2024": "0.9 %",
+              "Q3 2024": "3.6 %",
+              "Y/Y % Change": "N/A"
+            },
+            {
+              "name": "Operating income (loss) -- TTM",
+              "Q2 2023": "$ (6,836) ",
+              "Q3 2023": "$ (4,465) ",
+              "Q4 2023": "$ (2,656) ",
+              "Q1 2024": "$ \n(506) ",
+              "Q2 2024": "$ \n662 ",
+              "Q3 2024": "$ 2,058 ",
+              "Y/Y % Change": "N/A"
+            },
+            {
+              "name": "Operating margin -- TTM % of International net sales",
+              "Q2 2023": "(5.6) %",
+              "Q3 2023": "(3.6) %",
+              "Q4 2023": "(2.0) %",
+              "Q1 2024": "(0.4) %",
+              "Q2 2024": "0.5 %",
+              "Q3 2024": "1.5 %",
+              "Y/Y % Change": "N/A"
+            }
+          ]
+        },
+        {
+          "name": "AWS Segment",
+          "metrics": [
+            {
+              "name": "Net sales",
+              "Q2 2023": "$ 22,140 ",
+              "Q3 2023": "$ 23,059 ",
+              "Q4 2023": "$ 24,204 ",
+              "Q1 2024": "$ 25,037 ",
+              "Q2 2024": "$ 26,281 ",
+              "Q3 2024": "$ 27,452 ",
+              "Y/Y % Change": "19 %"
+            },
+            {
+              "name": "Net sales -- Y/Y growth, excluding F/X",
+              "Q2 2023": "12 %",
+              "Q3 2023": "12 %",
+              "Q4 2023": "13 %",
+              "Q1 2024": "17 %",
+              "Q2 2024": "19 %",
+              "Q3 2024": "19 %",
+              "Y/Y % Change": "N/A"
+            },
+            {
+              "name": "Net sales -- TTM",
+              "Q2 2023": "$ 85,410 ",
+              "Q3 2023": "$ 87,931 ",
+              "Q4 2023": "$ 90,757 ",
+              "Q1 2024": "$ 94,440 ",
+              "Q2 2024": "$ 98,581 ",
+              "Q3 2024": "$ 102,974 ",
+              "Y/Y % Change": "17 %"
+            },
+            {
+              "name": "Operating income",
+              "Q2 2023": "$ 5,365 ",
+              "Q3 2023": "$ 6,976 ",
+              "Q4 2023": "$ 7,167 ",
+              "Q1 2024": "$ 9,421 ",
+              "Q2 2024": "$ 9,334 ",
+              "Q3 2024": "$ 10,447 ",
+              "Y/Y % Change": "50 %"
+            },
+            {
+              "name": "F/X impact -- favorable (unfavorable)",
+              "Q2 2023": "$ \n79 ",
+              "Q3 2023": "$ \n(69) ",
+              "Q4 2023": "$ \n(62) ",
+              "Q1 2024": "$ \n67 ",
+              "Q2 2024": "$ \n115 ",
+              "Q3 2024": "$ \n1 ",
+              "Y/Y % Change": "N/A"
+            },
+            {
+              "name": "Operating income -- Y/Y growth (decline), excluding F/X",
+              "Q2 2023": "(8) %",
+              "Q3 2023": "30 %",
+              "Q4 2023": "39 %",
+              "Q1 2024": "83 %",
+              "Q2 2024": "72 %",
+              "Q3 2024": "50 %",
+              "Y/Y % Change": "N/A"
+            },
+            {
+              "name": "Operating margin -- % of AWS net sales",
+              "Q2 2023": "24.2 %",
+              "Q3 2023": "30.3 %",
+              "Q4 2023": "29.6 %",
+              "Q1 2024": "37.6 %",
+              "Q2 2024": "35.5 %",
+              "Q3 2024": "38.1 %",
+              "Y/Y % Change": "N/A"
+            },
+            {
+              "name": "Operating income -- TTM",
+              "Q2 2023": "$ 21,096 ",
+              "Q3 2023": "$ 22,669 ",
+              "Q4 2023": "$ 24,631 ",
+              "Q1 2024": "$ 28,929 ",
+              "Q2 2024": "$ 32,898 ",
+              "Q3 2024": "$ 36,369 ",
+              "Y/Y % Change": "60 %"
+            },
+            {
+              "name": "Operating margin -- TTM % of AWS net sales",
+              "Q2 2023": "24.7 %",
+              "Q3 2023": "25.8 %",
+              "Q4 2023": "27.1 %",
+              "Q1 2024": "30.6 %",
+              "Q2 2024": "33.4 %",
+              "Q3 2024": "35.3 %",
+              "Y/Y % Change": "N/A"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "page": 11,
+    "company": "Amazon",
+    "year": "2024",
+    "quarter": "Q3",
+    "text": "AMAZON.COM, INC.\nSupplemental Financial Information and Business Metrics\n(in millions, except employee data)\n(unaudited)\nQ2 2023\nQ3 2023\nQ4 2023\nQ1 2024\nQ2 2024\nQ3 2024\nY/Y %\nChange\nNet Sales\nOnline stores (1)\n$ 52,966 \n$ 57,267 \n$ 70,543 \n$ 54,670 \n$ 55,392 \n$ 61,411 \n 7 %\nOnline stores -- Y/Y growth, excluding F/X\n 5 %\n 6 %\n 8 %\n 7 %\n 6 %\n 8 %\nN/A\nPhysical stores (2)\n$ 5,024 \n$ 4,959 \n$ 5,152 \n$ 5,202 \n$ 5,206 \n$ 5,228 \n 5 %\nPhysical stores -- Y/Y growth, excluding F/X\n 7 %\n 6 %\n 4 %\n 6 %\n 4 %\n 5 %\nN/A\nThird-party seller services (3)\n$ 32,332 \n$ 34,342 \n$ 43,559 \n$ 34,596 \n$ 36,201 \n$ 37,864 \n 10 %\nThird-party seller services -- Y/Y growth, excluding F/X\n 18 %\n 18 %\n 19 %\n 16 %\n 13 %\n 10 %\nN/A\nAdvertising services (4)\n$ 10,683 \n$ 12,060 \n$ 14,654 \n$ 11,824 \n$ 12,771 \n$ 14,331 \n 19 %\nAdvertising services -- Y/Y growth, excluding F/X\n 22 %\n 25 %\n 26 %\n 24 %\n 20 %\n 19 %\nN/A\nSubscription services (5)\n$ 9,894 \n$ 10,170 \n$ 10,488 \n$ 10,722 \n$ 10,866 \n$ 11,278 \n 11 %\nSubscription services -- Y/Y growth, excluding F/X\n 14 %\n 13 %\n 13 %\n 11 %\n 11 %\n 11 %\nN/A\nAWS\n$ 22,140 \n$ 23,059 \n$ 24,204 \n$ 25,037 \n$ 26,281 \n$ 27,452 \n 19 %\nAWS -- Y/Y growth, excluding F/X\n 12 %\n 12 %\n 13 %\n 17 %\n 19 %\n 19 %\nN/A\nOther (6)\n$ 1,344 \n$ 1,226 \n$ 1,361 \n$ 1,262 \n$ 1,260 \n$ 1,313 \n 7 %\nOther -- Y/Y growth (decline), excluding F/X\n 26 %\n (3) %\n 8 %\n 23 %\n (6) %\n 5 %\nN/A\nStock-based Compensation Expense\nCost of sales\n$ \n251 \n$ \n193 \n$ \n227 \n$ \n174 \n$ \n266 \n$ \n193 \n (1) %\nFulfillment\n$ \n932 \n$ \n732 \n$ \n823 \n$ \n636 \n$ \n944 \n$ \n696 \n (5) %\nTechnology and infrastructure\n$ 4,043 \n$ 3,284 \n$ 3,533 \n$ 2,772 \n$ 3,670 \n$ 2,961 \n (10) %\nSales and marketing\n$ 1,303 \n$ 1,111 \n$ 1,216 \n$ \n932 \n$ 1,224 \n$ 1,012 \n (9) %\nGeneral and administrative\n$ \n598 \n$ \n509 \n$ \n520 \n$ \n447 \n$ \n618 \n$ \n471 \n (8) %\nTotal stock-based compensation expense\n$ 7,127 \n$ 5,829 \n$ 6,319 \n$ 4,961 \n$ 6,722 \n$ 5,333 \n (9) %\nOther\nWW shipping costs\n$ 20,418 \n$ 21,799 \n$ 27,326 \n$ 21,834 \n$ 21,965 \n$ 23,501 \n 8 %\nWW shipping costs -- Y/Y growth\n 6 %\n 9 %\n 11 %\n 10 %\n 8 %\n 8 %\nN/A\nWW paid units -- Y/Y growth (7)\n 9 %\n 9 %\n 12 %\n 12 %\n 11 %\n 12 %\nN/A\nWW seller unit mix -- % of WW paid units (7)\n 60 %\n 60 %\n 61 %\n 61 %\n 61 %\n 60 %\nN/A\nEmployees (full-time and part-time; excludes contractors & temporary personnel)\n 1,461,000 \n 1,500,000 \n 1,525,000 \n 1,521,000 \n 1,532,000 \n 1,551,000 \n 3 %\nEmployees (full-time and part-time; excludes contractors & temporary personnel) -- Y/Y \ngrowth (decline)\n (4) %\n (3) %\n (1) %\n 4 %\n 5 %\n 3 %\nN/A\n________________________\n(1)\nIncludes product sales and digital media content where we record revenue gross. We leverage our retail infrastructure to offer a wide selection of consumable and durable \ngoods that includes media products available in both a physical and digital format, such as books, videos, games, music, and software. These product sales include digital \nproducts sold on a transactional basis. Digital media content subscriptions that provide unlimited viewing or usage rights are included in “Subscription services.” \n(2)\nIncludes product sales where our customers physically select items in a store. Sales to customers who order goods online for delivery or pickup at our physical stores are \nincluded in “Online stores.” \n(3)\nIncludes commissions and any related fulfillment and shipping fees, and other third-party seller services. \n(4)\nIncludes sales of advertising services to sellers, vendors, publishers, authors, and others, through programs such as sponsored ads, display, and video advertising.\n(5)\nIncludes annual and monthly fees associated with Amazon Prime memberships, as well as digital video, audiobook, digital music, e-book, and other non-AWS subscription \nservices. \n(6)\nIncludes sales related to various other offerings, such as health care services, certain licensing and distribution of video content, and shipping services, and our co-branded \ncredit card agreements.\n(7)\nExcludes the impact of Whole Foods Market.",
+    "tables": [
+      [
+        [
+          "Net Sales"
+        ],
+        [
+          "Online stores (1) $ 52,966 $ 57,267 $ 70,543 $ 54,670 $ 55,392 $ 61,411 7 %"
+        ],
+        [
+          "Online stores -- Y/Y growth, excluding F/X 5 % 6 % 8 % 7 % 6 % 8 % N/A"
+        ],
+        [
+          "Physical stores (2) $ 5,024 $ 4,959 $ 5,152 $ 5,202 $ 5,206 $ 5,228 5 %"
+        ],
+        [
+          "Physical stores -- Y/Y growth, excluding F/X 7 % 6 % 4 % 6 % 4 % 5 % N/A"
+        ],
+        [
+          "Third-party seller services (3) $ 32,332 $ 34,342 $ 43,559 $ 34,596 $ 36,201 $ 37,864 10 %"
+        ],
+        [
+          "Third-party seller services -- Y/Y growth, excluding F/X 18 % 18 % 19 % 16 % 13 % 10 % N/A"
+        ],
+        [
+          "Advertising services (4) $ 10,683 $ 12,060 $ 14,654 $ 11,824 $ 12,771 $ 14,331 19 %"
+        ],
+        [
+          "Advertising services -- Y/Y growth, excluding F/X 22 % 25 % 26 % 24 % 20 % 19 % N/A"
+        ],
+        [
+          "Subscription services (5) $ 9,894 $ 10,170 $ 10,488 $ 10,722 $ 10,866 $ 11,278 11 %"
+        ],
+        [
+          "Subscription services -- Y/Y growth, excluding F/X 14 % 13 % 13 % 11 % 11 % 11 % N/A"
+        ],
+        [
+          "AWS $ 22,140 $ 23,059 $ 24,204 $ 25,037 $ 26,281 $ 27,452 19 %"
+        ],
+        [
+          "AWS -- Y/Y growth, excluding F/X 12 % 12 % 13 % 17 % 19 % 19 % N/A"
+        ],
+        [
+          "Other (6) $ 1,344 $ 1,226 $ 1,361 $ 1,262 $ 1,260 $ 1,313 7 %"
+        ],
+        [
+          "Other -- Y/Y growth (decline), excluding F/X 26 % (3) % 8 % 23 % (6) % 5 % N/A"
+        ],
+        [
+          ""
+        ],
+        [
+          "Stock-based Compensation Expense"
+        ],
+        [
+          "Cost of sales $ 251 $ 193 $ 227 $ 174 $ 266 $ 193 (1) %"
+        ],
+        [
+          "Fulfillment $ 932 $ 732 $ 823 $ 636 $ 944 $ 696 (5) %"
+        ],
+        [
+          "Technology and infrastructure $ 4,043 $ 3,284 $ 3,533 $ 2,772 $ 3,670 $ 2,961 (10) %"
+        ],
+        [
+          "Sales and marketing $ 1,303 $ 1,111 $ 1,216 $ 932 $ 1,224 $ 1,012 (9) %"
+        ],
+        [
+          "General and administrative $ 598 $ 509 $ 520 $ 447 $ 618 $ 471 (8) %"
+        ],
+        [
+          "Total stock-based compensation expense $ 7,127 $ 5,829 $ 6,319 $ 4,961 $ 6,722 $ 5,333 (9) %"
+        ],
+        [
+          "Other"
+        ],
+        [
+          "WW shipping costs $ 20,418 $ 21,799 $ 27,326 $ 21,834 $ 21,965 $ 23,501 8 %"
+        ],
+        [
+          "WW shipping costs -- Y/Y growth 6 % 9 % 11 % 10 % 8 % 8 % N/A"
+        ],
+        [
+          "WW paid units -- Y/Y growth (7) 9 % 9 % 12 % 12 % 11 % 12 % N/A"
+        ],
+        [
+          "WW seller unit mix -- % of WW paid units (7) 60 % 60 % 61 % 61 % 61 % 60 % N/A"
+        ],
+        [
+          "Employees (full-time and part-time; excludes contractors & temporary personnel) 1,461,000 1,500,000 1,525,000 1,521,000 1,532,000 1,551,000 3 %"
+        ],
+        [
+          "Employees (full-time and part-time; excludes contractors & temporary personnel) -- Y/Y\ngrowth (decline) (4) % (3) % (1) % 4 % 5 % 3 % N/A"
+        ]
+      ]
+    ],
+    "image": "D:\\POC\\Multimodal-Market-Intelligence-System\\data\\ER_Test2\\AMZN-Q3-2024-Earnings-Release\\Amazon_2024_Q3_p11.png",
+    "ai_extracted": {
+      "financial_data": {
+        "table": {
+          "headers": [
+            "Q2 2023",
+            "Q3 2023",
+            "Q4 2023",
+            "Q1 2024",
+            "Q2 2024",
+            "Q3 2024",
+            "Y/Y % Change"
+          ],
+          "rows": [
+            {
+              "Net Sales - Online stores (1)": [
+                "$ 52,966 ",
+                "$ 57,267 ",
+                "$ 70,543 ",
+                "$ 54,670 ",
+                "$ 55,392 ",
+                "$ 61,411 ",
+                " 7 %"
+              ]
+            },
+            {
+              "Online stores -- Y/Y growth, excluding F/X": [
+                " 5 %",
+                " 6 %",
+                " 8 %",
+                " 7 %",
+                " 6 %",
+                " 8 %",
+                "N/A"
+              ]
+            },
+            {
+              "Net Sales - Physical stores (2)": [
+                "$ 5,024 ",
+                "$ 4,959 ",
+                "$ 5,152 ",
+                "$ 5,202 ",
+                "$ 5,206 ",
+                "$ 5,228 ",
+                " 5 %"
+              ]
+            },
+            {
+              "Physical stores -- Y/Y growth, excluding F/X": [
+                " 7 %",
+                " 6 %",
+                " 4 %",
+                " 6 %",
+                " 4 %",
+                " 5 %",
+                "N/A"
+              ]
+            },
+            {
+              "Net Sales - Third-party seller services (3)": [
+                "$ 32,332 ",
+                "$ 34,342 ",
+                "$ 43,559 ",
+                "$ 34,596 ",
+                "$ 36,201 ",
+                "$ 37,864 ",
+                " 10 %"
+              ]
+            },
+            {
+              "Third-party seller services -- Y/Y growth, excluding F/X": [
+                " 18 %",
+                " 18 %",
+                " 19 %",
+                " 16 %",
+                " 13 %",
+                " 10 %",
+                "N/A"
+              ]
+            },
+            {
+              "Net Sales - Advertising services (4)": [
+                "$ 10,683 ",
+                "$ 12,060 ",
+                "$ 14,654 ",
+                "$ 11,824 ",
+                "$ 12,771 ",
+                "$ 14,331 ",
+                " 19 %"
+              ]
+            },
+            {
+              "Advertising services -- Y/Y growth, excluding F/X": [
+                " 22 %",
+                " 25 %",
+                " 26 %",
+                " 24 %",
+                " 20 %",
+                " 19 %",
+                "N/A"
+              ]
+            },
+            {
+              "Net Sales - Subscription services (5)": [
+                "$ 9,894 ",
+                "$ 10,170 ",
+                "$ 10,488 ",
+                "$ 10,722 ",
+                "$ 10,866 ",
+                "$ 11,278 ",
+                " 11 %"
+              ]
+            },
+            {
+              "Subscription services -- Y/Y growth, excluding F/X": [
+                " 14 %",
+                " 13 %",
+                " 13 %",
+                " 11 %",
+                " 11 %",
+                " 11 %",
+                "N/A"
+              ]
+            },
+            {
+              "Net Sales - AWS": [
+                "$ 22,140 ",
+                "$ 23,059 ",
+                "$ 24,204 ",
+                "$ 25,037 ",
+                "$ 26,281 ",
+                "$ 27,452 ",
+                " 19 %"
+              ]
+            },
+            {
+              "AWS -- Y/Y growth, excluding F/X": [
+                " 12 %",
+                " 12 %",
+                " 13 %",
+                " 17 %",
+                " 19 %",
+                " 19 %",
+                "N/A"
+              ]
+            },
+            {
+              "Net Sales - Other (6)": [
+                "$ 1,344 ",
+                "$ 1,226 ",
+                "$ 1,361 ",
+                "$ 1,262 ",
+                "$ 1,260 ",
+                "$ 1,313 ",
+                " 7 %"
+              ]
+            },
+            {
+              "Other -- Y/Y growth (decline), excluding F/X": [
+                " 26 %",
+                " (3) %",
+                " 8 %",
+                " 23 %",
+                " (6) %",
+                " 5 %",
+                "N/A"
+              ]
+            },
+            {
+              "Stock-based Compensation Expense - Cost of sales": [
+                "$ 251 ",
+                "$ 193 ",
+                "$ 227 ",
+                "$ 174 ",
+                "$ 266 ",
+                "$ 193 ",
+                " (1) %"
+              ]
+            },
+            {
+              "Stock-based Compensation Expense - Fulfillment": [
+                "$ 932 ",
+                "$ 732 ",
+                "$ 823 ",
+                "$ 636 ",
+                "$ 944 ",
+                "$ 696 ",
+                " (5) %"
+              ]
+            },
+            {
+              "Stock-based Compensation Expense - Technology and infrastructure": [
+                "$ 4,043 ",
+                "$ 3,284 ",
+                "$ 3,533 ",
+                "$ 2,772 ",
+                "$ 3,670 ",
+                "$ 2,961 ",
+                " (10) %"
+              ]
+            },
+            {
+              "Stock-based Compensation Expense - Sales and marketing": [
+                "$ 1,303 ",
+                "$ 1,111 ",
+                "$ 1,216 ",
+                "$ 932 ",
+                "$ 1,224 ",
+                "$ 1,012 ",
+                " (9) %"
+              ]
+            },
+            {
+              "Stock-based Compensation Expense - General and administrative": [
+                "$ 598 ",
+                "$ 509 ",
+                "$ 520 ",
+                "$ 447 ",
+                "$ 618 ",
+                "$ 471 ",
+                " (8) %"
+              ]
+            },
+            {
+              "Total stock-based compensation expense": [
+                "$ 7,127 ",
+                "$ 5,829 ",
+                "$ 6,319 ",
+                "$ 4,961 ",
+                "$ 6,722 ",
+                "$ 5,333 ",
+                " (9) %"
+              ]
+            },
+            {
+              "Other - WW shipping costs": [
+                "$ 20,418 ",
+                "$ 21,799 ",
+                "$ 27,326 ",
+                "$ 21,834 ",
+                "$ 21,965 ",
+                "$ 23,501 ",
+                " 8 %"
+              ]
+            },
+            {
+              "WW shipping costs -- Y/Y growth": [
+                " 6 %",
+                " 9 %",
+                " 11 %",
+                " 10 %",
+                " 8 %",
+                " 8 %",
+                "N/A"
+              ]
+            },
+            {
+              "Other - WW paid units -- Y/Y growth (7)": [
+                " 9 %",
+                " 9 %",
+                " 12 %",
+                " 12 %",
+                " 11 %",
+                " 12 %",
+                "N/A"
+              ]
+            },
+            {
+              "Other - WW seller unit mix -- % of WW paid units (7)": [
+                " 60 %",
+                " 60 %",
+                " 61 %",
+                " 61 %",
+                " 61 %",
+                " 60 %",
+                "N/A"
+              ]
+            },
+            {
+              "Employees (full-time and part-time; excludes contractors & temporary personnel)": [
+                " 1,461,000 ",
+                " 1,500,000 ",
+                " 1,525,000 ",
+                " 1,521,000 ",
+                " 1,532,000 ",
+                " 1,551,000 ",
+                " 3 %"
+              ]
+            },
+            {
+              "Employees (full-time and part-time; excludes contractors & temporary personnel) -- Y/Y growth (decline)": [
+                " (4) %",
+                " (3) %",
+                " (1) %",
+                " 4 %",
+                " 5 %",
+                " 3 %",
+                "N/A"
+              ]
+            }
+          ]
+        },
+        "financial_metrics": {
+          "revenue": [
+            "Net Sales"
+          ],
+          "expenses": [
+            "Cost of sales",
+            "Fulfillment",
+            "Technology and infrastructure",
+            "Sales and marketing",
+            "General and administrative",
+            "WW shipping costs"
+          ],
+          "segments": [
+            "Online stores",
+            "Physical stores",
+            "Third-party seller services",
+            "Advertising services",
+            "Subscription services",
+            "AWS",
+            "Other"
+          ]
+        },
+        "time_periods": [
+          "Q2 2023",
+          "Q3 2023",
+          "Q4 2023",
+          "Q1 2024",
+          "Q2 2024",
+          "Q3 2024"
+        ],
+        "growth_rates": [
+          "Y/Y % Change",
+          "Y/Y growth, excluding F/X",
+          "Y/Y growth",
+          "Y/Y growth (decline)"
+        ],
+        "reconciliations": []
+      }
+    }
+  },
+  {
+    "page": 12,
+    "company": "Amazon",
+    "year": "2024",
+    "quarter": "Q3",
+    "text": "Amazon.com, Inc.\nCertain Definitions\nCustomer Accounts\n•\nReferences to customers mean customer accounts established when a customer places an order through one of our \nstores. Customer accounts exclude certain customers, including customers associated with certain of our acquisitions, \nAmazon Payments customers, AWS customers, and the customers of select companies with whom we have a \ntechnology alliance or marketing and promotional relationship. Customers are considered active when they have \nplaced an order during the preceding twelve-month period.\nSeller Accounts\n•\nReferences to sellers means seller accounts, which are established when a seller receives an order from a customer \naccount. Sellers are considered active when they have received an order from a customer during the preceding twelve-\nmonth period.\nAWS Customers\n•\nReferences to AWS customers mean unique AWS customer accounts, which are unique customer account IDs that are \neligible to use AWS services. This includes AWS accounts in the AWS free tier. Multiple users accessing AWS \nservices via one account ID are counted as a single account. Customers are considered active when they have had \nAWS usage activity during the preceding one-month period.\nUnits\n•\nReferences to units mean physical and digital units sold (net of returns and cancellations) by us and sellers in our \nstores as well as Amazon-owned items sold in other stores. Units sold are paid units and do not include units \nassociated with AWS, certain acquisitions, certain subscriptions, rental businesses, or advertising businesses, or \nAmazon gift cards.\nContacts:\nAmazon Investor Relations\n \nAmazon Public Relations\namazon-ir@amazon.com\n \namazon-pr@amazon.com\namazon.com/ir\n \namazon.com/pr",
+    "tables": [],
+    "image": "D:\\POC\\Multimodal-Market-Intelligence-System\\data\\ER_Test2\\AMZN-Q3-2024-Earnings-Release\\Amazon_2024_Q3_p12.png",
+    "ai_extracted": {
+      "company": "Amazon.com, Inc.",
+      "definitions": [
+        {
+          "term": "Customer Accounts",
+          "definition": "References to customers mean customer accounts established when a customer places an order through one of our stores. Customer accounts exclude certain customers, including customers associated with certain of our acquisitions, Amazon Payments customers, AWS customers, and the customers of select companies with whom we have a technology alliance or marketing and promotional relationship. Customers are considered active when they have placed an order during the preceding twelve-month period."
+        },
+        {
+          "term": "Seller Accounts",
+          "definition": "References to sellers means seller accounts, which are established when a seller receives an order from a customer account. Sellers are considered active when they have received an order from a customer during the preceding twelve-month period."
+        },
+        {
+          "term": "AWS Customers",
+          "definition": "References to AWS customers mean unique AWS customer accounts, which are unique customer account IDs that are eligible to use AWS services. This includes AWS accounts in the AWS free tier. Multiple users accessing AWS services via one account ID are counted as a single account. Customers are considered active when they have had AWS usage activity during the preceding one-month period."
+        },
+        {
+          "term": "Units",
+          "definition": "References to units mean physical and digital units sold (net of returns and cancellations) by us and sellers in our stores as well as Amazon-owned items sold in other stores. Units sold are paid units and do not include units associated with AWS, certain acquisitions, certain subscriptions, rental businesses, or advertising businesses, or Amazon gift cards."
+        }
+      ],
+      "contacts": [
+        {
+          "department": "Amazon Investor Relations",
+          "email": "amazon-ir@amazon.com",
+          "website": "amazon.com/ir"
+        },
+        {
+          "department": "Amazon Public Relations",
+          "email": "amazon-pr@amazon.com",
+          "website": "amazon.com/pr"
+        }
+      ],
+      "financial_data": {
+        "financial_metrics": [],
+        "tables": [],
+        "charts_graphs": [],
+        "time_periods": [],
+        "segments": [],
+        "reconciliations": []
+      }
+    }
+  }
+]

@@ -1,4 +1,5 @@
 # app/services/postgres_client.py
+
 import psycopg2
 import psycopg2.extras
 from app.core.config import settings
@@ -15,7 +16,7 @@ class PostgresService:
         )
         self.conn.autocommit = True
         self._init_schema()
-
+    
     def _init_schema(self):
         with self.conn.cursor() as cur:
             cur.execute("""
@@ -29,123 +30,131 @@ class PostgresService:
                 close DOUBLE PRECISION,
                 volume BIGINT
             );""")
+            
             cur.execute("""
             CREATE TABLE IF NOT EXISTS transcripts (
                 id SERIAL PRIMARY KEY,
                 company VARCHAR(50),
-                quarter VARCHAR(10),
+                quarter VARCHAR(20),
                 year VARCHAR(10),
                 text TEXT,
                 file_path VARCHAR,
                 uploaded_at TIMESTAMP DEFAULT NOW()
             );""")
+            
             cur.execute("""
             CREATE TABLE IF NOT EXISTS balance_sheets (
                 id SERIAL PRIMARY KEY,
-                company VARCHAR(50),
-                quarter VARCHAR(20),
-                json_data JSONB,
-                file_path VARCHAR
+                ticker VARCHAR(10),
+                year VARCHAR(10),
+                total_assets DOUBLE PRECISION,
+                total_liabilities DOUBLE PRECISION,
+                stockholder_equity DOUBLE PRECISION,
+                uploaded_at TIMESTAMP DEFAULT NOW()
             );""")
+            
+            cur.execute("""
+            CREATE TABLE IF NOT EXISTS stock_fundamentals (
+                id SERIAL PRIMARY KEY,
+                ticker VARCHAR(10),
+                year VARCHAR(10),
+                revenue DOUBLE PRECISION,
+                net_income DOUBLE PRECISION,
+                eps DOUBLE PRECISION,
+                pe_ratio DOUBLE PRECISION,
+                uploaded_at TIMESTAMP DEFAULT NOW()
+            );""")
+            
             cur.execute("""
             CREATE TABLE IF NOT EXISTS presentations (
                 id SERIAL PRIMARY KEY,
                 company VARCHAR(50),
                 quarter VARCHAR(20),
-                slides JSONB,
-                file_path VARCHAR
+                year VARCHAR(10),
+                slide_number INTEGER,
+                slide_text TEXT,
+                chart_description TEXT,
+                file_path VARCHAR,
+                uploaded_at TIMESTAMP DEFAULT NOW()
             );""")
-            cur.execute("""
-            CREATE TABLE IF NOT EXISTS stock_fundamentals (
-            id SERIAL PRIMARY KEY,
-            ticker VARCHAR(10) NOT NULL,
-            date DATE NOT NULL,
-            quarter VARCHAR(10),
-            market_cap BIGINT,
-            pb_ratio DOUBLE PRECISION,
-            pe_ratio DOUBLE PRECISION,
-            peg_ratio DOUBLE PRECISION,
-            price_to_sales DOUBLE PRECISION,
-            eps DOUBLE PRECISION,
-            roe DOUBLE PRECISION,
-            roa DOUBLE PRECISION,
-            beta DOUBLE PRECISION,
-            dividend_yield DOUBLE PRECISION,
-            debt_to_equity DOUBLE PRECISION,
-            book_value DOUBLE PRECISION,
-            ebitda DOUBLE PRECISION,
-            revenue DOUBLE PRECISION,
-            profit DOUBLE PRECISION,
-            networth DOUBLE PRECISION,
-            face_value DOUBLE PRECISION
-        );""")
-        logger.info("[Postgres] Schema ensured")
-
-    def insert_balance_sheet(self, payload: dict):
-        with self.conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor) as cur:
-            cur.execute("""
-                INSERT INTO balance_sheets (company, quarter, json_data, file_path)
-                VALUES (%s, %s, %s::jsonb, %s)
-                RETURNING id
-            """, (payload["company"], payload["quarter"], payload["json_data"], payload["file_path"]))
-            return cur.fetchone()["id"]
-
-    def insert_presentation(self, payload: dict):
-        with self.conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor) as cur:
-            cur.execute("""
-                INSERT INTO presentations (company, quarter, slides, file_path)
-                VALUES (%s, %s, %s::jsonb, %s)
-                RETURNING id
-            """, (payload["company"], payload["quarter"], payload["slides"], payload["file_path"]))
-            return cur.fetchone()["id"]
-
-    def insert_transcript(self, payload: dict):
-        with self.conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor) as cur:
-            cur.execute("""
-                INSERT INTO transcripts (company, quarter, year, text, file_path)
-                VALUES (%s, %s, %s, %s, %s)
-                RETURNING id
-            """, (payload["company"], payload["quarter"], payload["year"], payload["text"], payload["file_path"]))
-            return cur.fetchone()["id"]
-
-    def insert_stock(self, payload: dict):
+            
+            logger.info("[Postgres] Schema initialized")
+    
+    # --- Insert methods ---
+    
+    def insert_stock_price(self, ticker, date, open_price, high, low, close, volume):
         with self.conn.cursor() as cur:
             cur.execute("""
                 INSERT INTO stock_prices (ticker, date, open, high, low, close, volume)
                 VALUES (%s, %s, %s, %s, %s, %s, %s)
-            """, (
-                payload["ticker"], payload["date"], payload["open"], payload["high"],
-                payload["low"], payload["close"], payload["volume"]
-            ))
-    def insert_stock_fundamentals(self, payload: dict):
+            """, (ticker, date, open_price, high, low, close, volume))
+    
+    def insert_transcript(self, company, quarter, year, text, file_path):
         with self.conn.cursor() as cur:
             cur.execute("""
-                INSERT INTO stock_fundamentals (
-                    ticker, date, quarter, market_cap, pb_ratio, pe_ratio, peg_ratio,
-                    price_to_sales, eps, roe, roa, beta, dividend_yield,
-                    debt_to_equity, book_value, ebitda, revenue, profit, networth, face_value
-                )
-                VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
-            """, (
-                payload.get("ticker"),
-                payload.get("date"),
-                payload.get("quarter"),
-                payload.get("MarketCap"),
-                payload.get("PB_Ratio"),
-                payload.get("PE_Ratio"),
-                payload.get("PEG_Ratio"),
-                payload.get("PriceToSales"),
-                payload.get("EPS"),
-                payload.get("ROE"),
-                payload.get("ROA"),
-                payload.get("Beta"),
-                payload.get("DividendYield"),
-                payload.get("DebtToEquity"),
-                payload.get("BookValue"),
-                payload.get("EBITDA"),
-                payload.get("Revenue"),
-                payload.get("Profit"),
-                payload.get("Networth"),
-                payload.get("FaceValue"),
-            ))
-
+                INSERT INTO transcripts (company, quarter, year, text, file_path)
+                VALUES (%s, %s, %s, %s, %s)
+            """, (company, quarter, year, text, file_path))
+    
+    def insert_balance_sheet(self, ticker, year, total_assets, total_liabilities, stockholder_equity):
+        with self.conn.cursor() as cur:
+            cur.execute("""
+                INSERT INTO balance_sheets (ticker, year, total_assets, total_liabilities, stockholder_equity)
+                VALUES (%s, %s, %s, %s, %s)
+            """, (ticker, year, total_assets, total_liabilities, stockholder_equity))
+    
+    def insert_fundamental(self, ticker, year, revenue, net_income, eps, pe_ratio):
+        with self.conn.cursor() as cur:
+            cur.execute("""
+                INSERT INTO stock_fundamentals (ticker, year, revenue, net_income, eps, pe_ratio)
+                VALUES (%s, %s, %s, %s, %s, %s)
+            """, (ticker, year, revenue, net_income, eps, pe_ratio))
+    
+    def insert_presentation(self, company, quarter, year, slide_number, slide_text, chart_description, file_path):
+        with self.conn.cursor() as cur:
+            cur.execute("""
+                INSERT INTO presentations (company, quarter, year, slide_number, slide_text, chart_description, file_path)
+                VALUES (%s, %s, %s, %s, %s, %s, %s)
+            """, (company, quarter, year, slide_number, slide_text, chart_description, file_path))
+    
+    # --- Fetch methods (FIXED - No SQL injection) ---
+    
+    def fetch_all_fundamentals(self, limit=None):
+        with self.conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor) as cur:
+            if limit:
+                cur.execute("SELECT * FROM stock_fundamentals ORDER BY id ASC LIMIT %s", (limit,))
+            else:
+                cur.execute("SELECT * FROM stock_fundamentals ORDER BY id ASC")
+            return cur.fetchall()
+    
+    def fetch_all_prices(self, limit=None):
+        with self.conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor) as cur:
+            if limit:
+                cur.execute("SELECT * FROM stock_prices ORDER BY id ASC LIMIT %s", (limit,))
+            else:
+                cur.execute("SELECT * FROM stock_prices ORDER BY id ASC")
+            return cur.fetchall()
+    
+    def fetch_all_transcripts(self, limit=None):
+        with self.conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor) as cur:
+            if limit:
+                cur.execute("SELECT * FROM transcripts ORDER BY id ASC LIMIT %s", (limit,))
+            else:
+                cur.execute("SELECT * FROM transcripts ORDER BY id ASC")
+            return cur.fetchall()
+    
+    def fetch_all_presentations(self, limit=None):
+        with self.conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor) as cur:
+            if limit:
+                cur.execute("SELECT * FROM presentations ORDER BY id ASC LIMIT %s", (limit,))
+            else:
+                cur.execute("SELECT * FROM presentations ORDER BY id ASC")
+            return cur.fetchall()
+    
+    def fetch_all_balance_sheets(self, limit=None):
+        with self.conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor) as cur:
+            if limit:
+                cur.execute("SELECT * FROM balance_sheets ORDER BY id ASC LIMIT %s", (limit,))
+            else:
+                cur.execute("SELECT * FROM balance_sheets ORDER BY id ASC")
+            return cur.fetchall()
