@@ -28,7 +28,7 @@ import os
 
 # Gemini setup (expects environment variable GEMINI_API_KEY)
 # GEMINI_API_KEY: str = os.getenv("GEMINI_API_KEY")
-GEMINI_API_KEY = "AIzaSyBYG0hlhhiSGPFD1ZmEyKGkedUmdaqmoNg"
+GEMINI_API_KEY = ""
 
 print("Gemini key loaded:", os.getenv("GEMINI_API_KEY") is not None)
 
