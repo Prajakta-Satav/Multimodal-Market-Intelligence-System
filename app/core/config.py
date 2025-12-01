@@ -60,9 +60,6 @@ class Settings(BaseSettings):
     # --------------------------------------------------------------------
     # Evaluation defaults (if you want them here; otherwise remove)
     # --------------------------------------------------------------------
-    # QA_DATA_PATH: str = (
-    #     r"C:\Users\Prajakta.Satav\Downloads\team2\demo\data\qa_datasets\golden_dataset.json"
-    # )
 
     QA_DATA_PATH: str = Field(os.getenv("QA_DATA_PATH"))
 
@@ -78,14 +75,13 @@ class Settings(BaseSettings):
     # --------------------------------------------------------------------
     # Gemini / LLM
     # --------------------------------------------------------------------
-    #GEMINI_API_KEY: Optional[str] = "AIzaSyCmSry5QpOXV7r5DGy0IiZHvJ6Yyoto1yI"
     GEMINI_MODEL: str = Field(os.getenv("GEMINI_MODEL"))
     GEMINI_API_KEYS: list[str] = Field(os.getenv("GEMINI_API_KEYS", "").split(","))
     
     class Config:
         env_file = ".env"
         env_file_encoding = "utf-8"
-        extra = "allow"  # <-- IMPORTANT: ignore unknown env vars instead of failing
+        extra = "allow"  
 
 
 settings = Settings()
