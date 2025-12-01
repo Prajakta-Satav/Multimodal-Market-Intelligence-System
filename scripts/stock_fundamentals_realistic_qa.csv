@@ -1,0 +1,31 @@
+Question_Number,Question,Difficulty,Answer
+1,What are the three stocks in the 2024 daily fundamentals dataset?,Easy,"AMZN (Amazon), MSFT (Microsoft), GOOGL (Alphabet/Google)"
+2,What date range does the stock data cover?,Easy,"January 2, 2024 to December 31, 2024 (trading days)"
+3,"On 2024-01-02, what was Amazon (AMZN) closing price?",Easy,$149.93
+4,What was Microsoft (MSFT) trading volume on 2024-02-13?,Easy,"278,249,000 shares"
+5,Did Amazon (AMZN) pay dividends on 2024-01-02?,Easy,"No, dividend amount was 0.0"
+6,What quarters are represented in the dataset?,Easy,"Q1, Q2, Q3, and Q4"
+7,What was Alphabet (GOOGL) PE Ratio in Q2 2024?,Medium,31.73
+8,Which stock had the highest market cap in early 2024 - AMZN or MSFT?,Medium,MSFT with approximately $3.67 trillion vs AMZN with $2.38 trillion
+9,What was Microsoft (MSFT) earnings per share (EPS) in Q1 2024?,Medium,$2.42 per share
+10,Which stock had the lowest Beta value among the three?,Medium,GOOGL with a Beta of 0.16 (less volatile than market average)
+11,What was the high price for Amazon (AMZN) on 2024-01-02?,Easy,$152.38
+12,What was the low price for Amazon (AMZN) on 2024-01-02?,Easy,$148.39
+13,Did any of the stocks show stock splits in the early 2024 data?,Easy,"No, the stock splits column showed 0.0 for all entries shown"
+14,What was Microsoft (MSFT) Return on Equity (ROE) in Q1 2024?,Medium,114.07%
+15,Which stock had the highest Price-to-Book (PB) Ratio in Q1 2024?,Medium,MSFT with 10.11 (highest valuation relative to book value)
+16,What was Alphabet (GOOGL) Debt-to-Equity ratio in Q2 2024?,Medium,0.11
+17,What was Amazon (AMZN) book value per share in Q1 2024?,Medium,"$20,143.40"
+18,Which stock had the highest dividend yield among the three in early 2024?,Hard,AMZN with 0.95% (though MSFT had 0.74% and GOOGL had 0.32%)
+19,What was Microsoft (MSFT) Price-to-Sales ratio in Q1 2024?,Medium,12.49
+20,What was Alphabet (GOOGL) Return on Assets (ROA) in Q2 2024?,Medium,0.35
+21,How much was Microsoft (MSFT) total revenue in Q1 2024?,Hard,Approximately $166.4 billion
+22,What was Alphabet (GOOGL) total profit in Q2 2024?,Hard,Approximately $2.38 trillion
+23,What was Amazon (AMZN) shareholders equity (Networth) in Q1 2024?,Hard,Approximately $476.5 billion
+24,Which stock had the lowest Return on Equity (ROE) in their respective quarters?,Hard,AMZN with 67.08% ROE (though still very strong compared to market average)
+25,Was the PEG Ratio data available for all stocks in Q1 2024?,Easy,"No, PEG Ratio shows ""NA"" (not available) for the stocks shown"
+26,What was Amazon (AMZN) opening price on 2024-01-02?,Easy,$151.54
+27,Did Amazon (AMZN) stock price move up or down on 2024-01-02?,Easy,Down - Opening was $151.54 and Closing was $149.93 (loss of $1.61)
+28,What was the intraday trading range for Amazon (AMZN) on 2024-01-02?,Medium,$3.99 (from low of $148.39 to high of $152.38)
+29,How many columns of data are tracked for each stock in the dataset?,Hard,"27 columns (Date, Open, High, Low, Close, Volume, Dividends, Stock Splits, Ticker, Quarter, MarketCap, PBRatio, PERatio, PEGRatio, PriceToSales, EPS, ROE, ROA, Beta, DividendYield, DebtToEquity, BookValue, EBITDA, Revenue, Profit, Networth, FaceValue)"
+30,"How frequently are the fundamental metrics (like PE Ratio, ROE) updated in this dataset?",Hard,"Quarterly - the same values repeat for all trading days within a quarter (e.g., Q1 has same metrics across multiple dates)"
