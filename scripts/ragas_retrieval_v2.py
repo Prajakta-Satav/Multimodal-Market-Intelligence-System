@@ -22,7 +22,7 @@ K_VALUES = [1, 3, 5, 7, 10]
 
 # Gemini setup
 # GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-GEMINI_API_KEY = "AIzaSyBYG0hlhhiSGPFD1ZmEyKGkedUmdaqmoNg"
+GEMINI_API_KEY = ""
 if GEMINI_API_KEY:
     genai.configure(api_key=GEMINI_API_KEY)
     GEMINI_MODEL_NAME = "gemini-2.5-flash"
